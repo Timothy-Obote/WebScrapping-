@@ -1,0 +1,5205 @@
+{
+  "\u2022 Bachelor of Science in Accounting": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Science in Finance": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Science in Hotel & Restaurant Management": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Science in International Business Administration": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Science in Applied Biochemistry": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Science in Data Science & Analytics - Available Online": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Science in Software Engineering": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Science in Information Systems & Technology": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Science in Nursing": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Science in Artificial Intelligence (AI) and Robotics": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Arts in Journalism": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Arts in Film Production & Directing": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Arts in Animation": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Arts in International Relations": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Arts in Psychology": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Arts in Criminal Justice Studies - Available Online": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Bachelor of Pharmacy": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Arts in Clinical Psychology": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Arts in Communication Studies - Available Online": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Arts in Counseling Psychology - Available Online": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Arts in International Relations - Available Online": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Arts in Marriage & Family Therapy": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Arts in Criminal & Transitional Justice": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Business Administration - Available Online": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Business Administration \u2013 Global Business Management": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Business Administration \u2013 Health Leadership & Management": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Science in Management & Organizational Development": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Science in Information Systems & Technology": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Science in Information Security": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Science in Global Banking & Finance": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Science in Data Science & Analytics - Online Only": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Master of Science in Clinical Pharmacology & Therapeutics": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Doctor of Business Administration (DBA)": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Doctor of Psychology (PsyD), Clinical Psychology": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Doctor of Philosophy in International Relations": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022 Doctor of Philosophy in Information Systems & Technology": {
+    "sections": {},
+    "courses": {}
+  },
+  "Bachelor of Science in Accounting": {
+    "sections": {
+      "Major": {
+        "units": 66,
+        "courses": []
+      },
+      "Lower Level Courses": {
+        "units": 18,
+        "courses": [
+          {
+            "code": "ACT 1010",
+            "name": ""
+          },
+          {
+            "code": "ACT 2010",
+            "name": ""
+          },
+          {
+            "code": "BUS 1010",
+            "name": ""
+          },
+          {
+            "code": "BUS 2020",
+            "name": ""
+          },
+          {
+            "code": "ECO 1010",
+            "name": ""
+          },
+          {
+            "code": "ECO 1020",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level Courses": {
+        "units": 57,
+        "courses": [
+          {
+            "code": "ACT 3010",
+            "name": ""
+          },
+          {
+            "code": "ACT 4010",
+            "name": ""
+          },
+          {
+            "code": "ACT 4040",
+            "name": ""
+          },
+          {
+            "code": "ACT 4050",
+            "name": ""
+          },
+          {
+            "code": "ACT 4060",
+            "name": ""
+          },
+          {
+            "code": "ACT 4071",
+            "name": ""
+          },
+          {
+            "code": "ACT 4120",
+            "name": ""
+          },
+          {
+            "code": "ACT 4131",
+            "name": ""
+          },
+          {
+            "code": "BUS 3010",
+            "name": ""
+          },
+          {
+            "code": "BUS 3030",
+            "name": ""
+          },
+          {
+            "code": "BUS 4030",
+            "name": ""
+          },
+          {
+            "code": "BUS 4070",
+            "name": ""
+          },
+          {
+            "code": "FIN 3010",
+            "name": ""
+          },
+          {
+            "code": "MGT 3010",
+            "name": ""
+          },
+          {
+            "code": "BUS 4000",
+            "name": ""
+          },
+          {
+            "code": "ACT 4910",
+            "name": ""
+          },
+          {
+            "code": "ACT 4950",
+            "name": ""
+          }
+        ]
+      },
+      "Electives": {
+        "units": 6,
+        "courses": [
+          {
+            "code": "FIN 4130",
+            "name": ""
+          },
+          {
+            "code": "FIN 4030",
+            "name": ""
+          },
+          {
+            "code": "ACT 4130",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "FAR 3000": "",
+      "FAR 3001": "",
+      "GEO 3000": "",
+      "HIS 3015": "",
+      "HIS 3021": "",
+      "HIS 3025": "",
+      "IRL 3015": "",
+      "LIT 3330": "",
+      "LIT 3340": "",
+      "LIT 3351": "",
+      "LIT 4785": "",
+      "LIT 4815": "",
+      "PHL 3309": "",
+      "PHL 3310": "",
+      "PSY 3135": "",
+      "PSY 3150": "",
+      "SOC 3301": "",
+      "SOC 3305": "",
+      "SOC 3310": "",
+      "SOC 3500": "",
+      "MTH 2210": "",
+      "ENV 4000": "",
+      "ENV 3200": "",
+      "ENV 3500": "",
+      "ENV 3300": "",
+      "ENV 3288": "",
+      "ENV 4200": "",
+      "NSC 3304": "",
+      "JRN 3015": ""
+    }
+  },
+  "The goal of the Bachelor of Global Leadership and Governance program is to equip students with": {
+    "sections": {},
+    "courses": {}
+  },
+  "Bachelor of Global Leadership and Governance (On hold)": {
+    "sections": {},
+    "courses": {}
+  },
+  "Upon successful completion of the Bachelor of": {
+    "sections": {
+      "Lower Level Courses": {
+        "units": 24,
+        "courses": [
+          {
+            "code": "ACT 1010",
+            "name": ""
+          },
+          {
+            "code": "ECO 1015",
+            "name": ""
+          },
+          {
+            "code": "GLG 1010",
+            "name": ""
+          },
+          {
+            "code": "BUS 1010",
+            "name": ""
+          },
+          {
+            "code": "GLG 2000",
+            "name": ""
+          },
+          {
+            "code": "GLG 2010",
+            "name": ""
+          },
+          {
+            "code": "BUS 2020",
+            "name": ""
+          },
+          {
+            "code": "GLG 2080",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level Courses": {
+        "units": 36,
+        "courses": [
+          {
+            "code": "BUS 3010",
+            "name": ""
+          },
+          {
+            "code": "FIN 3010",
+            "name": ""
+          },
+          {
+            "code": "GLG 3010",
+            "name": ""
+          },
+          {
+            "code": "MGT 3010",
+            "name": ""
+          },
+          {
+            "code": "GLG 3020",
+            "name": ""
+          },
+          {
+            "code": "GLG 4020",
+            "name": ""
+          },
+          {
+            "code": "GLG 4030",
+            "name": ""
+          },
+          {
+            "code": "MGT 4030",
+            "name": ""
+          },
+          {
+            "code": "MGT 4040",
+            "name": ""
+          },
+          {
+            "code": "GLG 4090",
+            "name": ""
+          },
+          {
+            "code": "BUS 4090",
+            "name": ""
+          },
+          {
+            "code": "GLG 4910",
+            "name": ""
+          },
+          {
+            "code": "BUS 4005",
+            "name": ""
+          },
+          {
+            "code": "BUS 4015",
+            "name": ""
+          },
+          {
+            "code": "ENT 4020",
+            "name": ""
+          },
+          {
+            "code": "FIN 4030",
+            "name": ""
+          },
+          {
+            "code": "BUS 4000",
+            "name": ""
+          },
+          {
+            "code": "FIN 4020",
+            "name": ""
+          },
+          {
+            "code": "GLG 4040",
+            "name": ""
+          },
+          {
+            "code": "GLG 4045",
+            "name": ""
+          },
+          {
+            "code": "MGT 4050",
+            "name": ""
+          },
+          {
+            "code": "FIN 4015",
+            "name": ""
+          },
+          {
+            "code": "GLG 4015",
+            "name": ""
+          },
+          {
+            "code": "GLG 4075",
+            "name": ""
+          },
+          {
+            "code": "GLG 4080",
+            "name": ""
+          },
+          {
+            "code": "GLG 4085",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "IRL 3015": "",
+      "SOC 3301": "",
+      "ENV 4000": "",
+      "ENV 4200": ""
+    }
+  },
+  "Bachelor of Science in Finance": {
+    "sections": {
+      "Lower Level Courses": {
+        "units": 18,
+        "courses": [
+          {
+            "code": "ACT 1010",
+            "name": ""
+          },
+          {
+            "code": "ACT 2010",
+            "name": ""
+          },
+          {
+            "code": "BUS 1010",
+            "name": ""
+          },
+          {
+            "code": "BUS 2020",
+            "name": ""
+          },
+          {
+            "code": "ECO 1010",
+            "name": ""
+          },
+          {
+            "code": "ECO 1020",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level Courses": {
+        "units": 48,
+        "courses": [
+          {
+            "code": "BUS 4020",
+            "name": ""
+          },
+          {
+            "code": "BUS 4030",
+            "name": ""
+          },
+          {
+            "code": "BUS 4070",
+            "name": ""
+          },
+          {
+            "code": "BUS 4090",
+            "name": ""
+          },
+          {
+            "code": "FIN 4050",
+            "name": ""
+          },
+          {
+            "code": "FIN 4060",
+            "name": ""
+          },
+          {
+            "code": "ECO 4010",
+            "name": ""
+          },
+          {
+            "code": "ECO 4020",
+            "name": ""
+          },
+          {
+            "code": "ECO 4030",
+            "name": ""
+          },
+          {
+            "code": "ECO 4040",
+            "name": ""
+          },
+          {
+            "code": "ECO 4050",
+            "name": ""
+          },
+          {
+            "code": "FIN 4110",
+            "name": ""
+          },
+          {
+            "code": "FIN 4120",
+            "name": ""
+          },
+          {
+            "code": "FIN 4130",
+            "name": ""
+          },
+          {
+            "code": "FIN 4140",
+            "name": ""
+          },
+          {
+            "code": "FIN 4150",
+            "name": ""
+          },
+          {
+            "code": "FIN 4210",
+            "name": ""
+          },
+          {
+            "code": "FIN 4220",
+            "name": ""
+          },
+          {
+            "code": "FIN 4230",
+            "name": ""
+          },
+          {
+            "code": "FIN 4240",
+            "name": ""
+          },
+          {
+            "code": "FIN 4250",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "IRL 3015": "",
+      "SOC 3301": "",
+      "FAR 3000": "",
+      "FAR 3001": "",
+      "GEO 3000": "",
+      "HIS 3015": "",
+      "HIS 3021": "",
+      "HIS 3025": "",
+      "LIT 3330": "",
+      "LIT 3340": "",
+      "LIT 3351": "",
+      "LIT 3775": "",
+      "LIT 4785": "",
+      "LIT 4815": "",
+      "LIT 4820": "",
+      "PHL 3309": "",
+      "PHL 3310": "",
+      "PSY 3135": "",
+      "PSY 3150": "",
+      "SOC 3305": "",
+      "SOC 3310": "",
+      "SOC 3500": "",
+      "MTH 2210": "",
+      "ENV 4000": "",
+      "ENV 3200": "",
+      "ENV 3500": "",
+      "ENV 3300": "",
+      "ENV 3288": "",
+      "ENV 4200": "",
+      "NSC 3304": "",
+      "JRN 3015": ""
+    }
+  },
+  "Bachelor of Science in Hotel and Restaurant Management": {
+    "sections": {
+      "Lower Level Courses": {
+        "units": 18,
+        "courses": [
+          {
+            "code": "ACT 1010",
+            "name": ""
+          },
+          {
+            "code": "ACT 2010",
+            "name": ""
+          },
+          {
+            "code": "BUS 1010",
+            "name": ""
+          },
+          {
+            "code": "BUS 2020",
+            "name": ""
+          },
+          {
+            "code": "ECO 1010",
+            "name": ""
+          },
+          {
+            "code": "ECO 1020",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level Courses": {
+        "units": 36,
+        "courses": [
+          {
+            "code": "BUS 3010",
+            "name": ""
+          },
+          {
+            "code": "FIN 3010",
+            "name": ""
+          },
+          {
+            "code": "ACT 4060",
+            "name": ""
+          },
+          {
+            "code": "ACT 4110",
+            "name": ""
+          },
+          {
+            "code": "BUS 4020",
+            "name": ""
+          },
+          {
+            "code": "BUS 4030",
+            "name": ""
+          },
+          {
+            "code": "BUS 4070",
+            "name": ""
+          },
+          {
+            "code": "BUS 4090",
+            "name": ""
+          },
+          {
+            "code": "FIN 4050",
+            "name": ""
+          },
+          {
+            "code": "FIN 4060",
+            "name": ""
+          },
+          {
+            "code": "ECO 4010",
+            "name": ""
+          },
+          {
+            "code": "ECO 4020",
+            "name": ""
+          },
+          {
+            "code": "ECO 4030",
+            "name": ""
+          },
+          {
+            "code": "ECO 4040",
+            "name": ""
+          },
+          {
+            "code": "ECO 4050",
+            "name": ""
+          },
+          {
+            "code": "FIN 4110",
+            "name": ""
+          },
+          {
+            "code": "FIN 4120",
+            "name": ""
+          },
+          {
+            "code": "FIN 4130",
+            "name": ""
+          },
+          {
+            "code": "FIN 4140",
+            "name": ""
+          },
+          {
+            "code": "FIN 4150",
+            "name": ""
+          },
+          {
+            "code": "FIN 4210",
+            "name": ""
+          },
+          {
+            "code": "FIN 4220",
+            "name": ""
+          },
+          {
+            "code": "FIN 4230",
+            "name": ""
+          },
+          {
+            "code": "FIN 4240",
+            "name": ""
+          },
+          {
+            "code": "FIN 4250",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "IRL 3015": "",
+      "SOC 3301": "",
+      "FAR 3000": "",
+      "FAR 3001": "",
+      "GEO 3000": "",
+      "HIS 3015": "",
+      "HIS 3021": "",
+      "HIS 3025": "",
+      "LIT 3330": "",
+      "LIT 3340": "",
+      "LIT 3351": "",
+      "LIT 3775": "",
+      "LIT 4785": "",
+      "LIT 4815": "",
+      "LIT 4820": "",
+      "PHL 3309": "",
+      "PHL 3310": "",
+      "PSY 3135": "",
+      "PSY 3150": "",
+      "SOC 3305": "",
+      "SOC 3310": "",
+      "SOC 3500": "",
+      "MTH 2210": "",
+      "ENV 4000": "",
+      "ENV 3200": "",
+      "ENV 3500": "",
+      "ENV 3300": "",
+      "ENV 3288": "",
+      "ENV 4200": "",
+      "NSC 3304": "",
+      "JRN 3015": ""
+    }
+  },
+  "Bachelor of Science in International Business Administration": {
+    "sections": {
+      "Lower Level Courses": {
+        "units": 24,
+        "courses": [
+          {
+            "code": "ACT 1010",
+            "name": ""
+          },
+          {
+            "code": "ACT 2010",
+            "name": ""
+          },
+          {
+            "code": "BUS 1010",
+            "name": ""
+          },
+          {
+            "code": "BUS 2010",
+            "name": ""
+          },
+          {
+            "code": "BUS 2020",
+            "name": ""
+          },
+          {
+            "code": "ECO 1010",
+            "name": ""
+          },
+          {
+            "code": "ECO 1020",
+            "name": ""
+          },
+          {
+            "code": "IST 2040",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level Courses": {
+        "units": 36,
+        "courses": [
+          {
+            "code": "BUS 3010",
+            "name": ""
+          },
+          {
+            "code": "BUS 3020",
+            "name": ""
+          },
+          {
+            "code": "BUS 3030",
+            "name": ""
+          },
+          {
+            "code": "BUS 4070",
+            "name": ""
+          },
+          {
+            "code": "BUS 4090",
+            "name": ""
+          },
+          {
+            "code": "FIN 3010",
+            "name": ""
+          },
+          {
+            "code": "IBA 4010",
+            "name": ""
+          },
+          {
+            "code": "IBA 4020",
+            "name": ""
+          },
+          {
+            "code": "MGT 3010",
+            "name": ""
+          },
+          {
+            "code": "MGT 4030",
+            "name": ""
+          },
+          {
+            "code": "MKT 3010",
+            "name": ""
+          },
+          {
+            "code": "IBA 4950",
+            "name": ""
+          },
+          {
+            "code": "IBA 4910",
+            "name": ""
+          }
+        ]
+      },
+      "Electives": {
+        "units": 6,
+        "courses": [
+          {
+            "code": "BUS 4000",
+            "name": ""
+          },
+          {
+            "code": "BUS 4005",
+            "name": ""
+          },
+          {
+            "code": "BUS 4080",
+            "name": ""
+          },
+          {
+            "code": "BUS 4015",
+            "name": ""
+          },
+          {
+            "code": "ACT 3010",
+            "name": ""
+          },
+          {
+            "code": "ACT 4010",
+            "name": ""
+          },
+          {
+            "code": "ACT 4020",
+            "name": ""
+          },
+          {
+            "code": "ACT 4030",
+            "name": ""
+          },
+          {
+            "code": "ACT 4040",
+            "name": ""
+          },
+          {
+            "code": "ACT 4050",
+            "name": ""
+          },
+          {
+            "code": "ENT 4005",
+            "name": ""
+          },
+          {
+            "code": "ENT 4020",
+            "name": ""
+          },
+          {
+            "code": "ENT 4040",
+            "name": ""
+          },
+          {
+            "code": "ENT 4050",
+            "name": ""
+          },
+          {
+            "code": "ENT 4060",
+            "name": ""
+          },
+          {
+            "code": "FIN 4010",
+            "name": ""
+          },
+          {
+            "code": "FIN 4020",
+            "name": ""
+          },
+          {
+            "code": "FIN 4030",
+            "name": ""
+          },
+          {
+            "code": "FIN 4040",
+            "name": ""
+          },
+          {
+            "code": "FIN 4050",
+            "name": ""
+          },
+          {
+            "code": "ENT 4020",
+            "name": ""
+          },
+          {
+            "code": "MGT 4010",
+            "name": ""
+          },
+          {
+            "code": "MGT 4020",
+            "name": ""
+          },
+          {
+            "code": "MGT 4040",
+            "name": ""
+          },
+          {
+            "code": "MGT 4050",
+            "name": ""
+          },
+          {
+            "code": "MKT 3020",
+            "name": ""
+          },
+          {
+            "code": "MKT 4010",
+            "name": ""
+          },
+          {
+            "code": "MKT 4020",
+            "name": ""
+          },
+          {
+            "code": "MKT 4030",
+            "name": ""
+          },
+          {
+            "code": "MKT 4050",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "IRL 3015": "",
+      "SOC 3301": "",
+      "FAR 3000": "",
+      "FAR 3001": "",
+      "GEO 3000": "",
+      "HIS 3015": "",
+      "HIS 3021": "",
+      "HIS 3025": "",
+      "LIT 3330": "",
+      "LIT 3340": "",
+      "LIT 3351": "",
+      "LIT 3775": "",
+      "LIT 4785": "",
+      "LIT 4815": "",
+      "LIT 4820": "",
+      "PHL 3309": "",
+      "PHL 3310": "",
+      "PSY 3135": "",
+      "PSY 3150": "",
+      "SOC 3305": "",
+      "SOC 3310": "",
+      "SOC 3500": "",
+      "MTH 2210": "",
+      "ENV 4000": "",
+      "ENV 3200": "",
+      "ENV 3500": "",
+      "ENV 3300": "",
+      "ENV 3288": "",
+      "ENV 4200": "",
+      "NSC 3304": "",
+      "JRN 3015": ""
+    }
+  },
+  "Bachelor of Science in Epidemiology & Biostatistics (On hold)": {
+    "sections": {},
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "SOC 1101": "",
+      "MGT 3010": "",
+      "EPI 1000": "",
+      "BST 1010": "",
+      "EPI 1010": "",
+      "HSC 1394": "",
+      "HSC 1330": "",
+      "BST 1020": "",
+      "MIC 2360": "",
+      "EPI 2010": "",
+      "IST 1025": "",
+      "EPI 3010": "",
+      "BST 2010": "",
+      "HSC 2391": "",
+      "PHT 2010": "",
+      "BST 3010": "",
+      "HSC 3395": "",
+      "DAN 3010": "",
+      "NSC 2205": "",
+      "PHT 2020": "",
+      "PHT 3010": "",
+      "BST 3020": "",
+      "BUS 4090": "",
+      "HSC 3492": "",
+      "DAN 3020": "",
+      "HSC 4010": "",
+      "EPI 4010": "",
+      "EPI 4020": "",
+      "EPI 4030": "",
+      "HSC 4396": "",
+      "DAN 4010": "",
+      "PHT 4010": "",
+      "DAN 4015": "",
+      "BST 4030": "",
+      "HSC 4496": "",
+      "DAN 4030": "",
+      "BST 4040": "",
+      "HSC 4495": "",
+      "BST 4020": "",
+      "PHT 4020": "",
+      "DAN 4020": "",
+      "BST 4050": "",
+      "BST 4013": "",
+      "PHM 4014": "",
+      "PHM 4510": "",
+      "BST 4060": "",
+      "ENT 4005": "",
+      "HSC 4494": "",
+      "BST 4010": ""
+    }
+  },
+  "The Bachelor of Pharmacy Program will equip graduates": {
+    "sections": {},
+    "courses": {}
+  },
+  "The mode of delivery of the Bachelor of Pharmacy": {
+    "sections": {},
+    "courses": {}
+  },
+  "Bachelor of Pharmacy": {
+    "sections": {},
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "ENT 1010": "",
+      "SOC 1101": "",
+      "PSY 1101": "",
+      "PHY 1331": "",
+      "ENV 2001": "",
+      "HAN 1321": "",
+      "CHE 1305": "",
+      "BCM 1341": "",
+      "PHY 1332": "",
+      "NSC 2215": "",
+      "CHE 1306": "",
+      "CHE 2305": "",
+      "HAN 1322": "",
+      "PHY 1333": "",
+      "HAN 1323": "",
+      "CHE 2307": "",
+      "CHE 2306": "",
+      "BCM 1342": "",
+      "PHM 3401": "",
+      "BCM 1343": "",
+      "PHY 2334": "",
+      "MIC 2365": "",
+      "BCM 2345": "",
+      "HSC 2391": "",
+      "PAT 3371": "",
+      "PHY 2335": "",
+      "BCM 2344": "",
+      "MIC 2362": "",
+      "MIC 2366": "",
+      "CHE 2304": "",
+      "PHY 2336": "",
+      "BCM 2346": "",
+      "MIC 2367": "",
+      "BCM 3347": "",
+      "BOT 3352": "",
+      "CHE 2308": "",
+      "HSC 3492": "",
+      "PHM 3402": "",
+      "PHM 3481": "",
+      "PHM 3471": "",
+      "PHM 3411": "",
+      "BOT 3353": "",
+      "PAT 3372": "",
+      "PHM 3451": "",
+      "PHM 3412": "",
+      "PHM 3404": "",
+      "PHM 3485": "",
+      "PHM 3472": "",
+      "PHM 3483": "",
+      "PAT 3373": "",
+      "PHM 3473": "",
+      "PHM 3405": "",
+      "PHM 3413": "",
+      "PHM 3487": "",
+      "PHM 4492": "",
+      "PHM 4484": "",
+      "PHM 4474": "",
+      "PHM 4405": "",
+      "PHM 4414": "",
+      "PHM 4451": "",
+      "HSC 4493": "",
+      "PHM 4487": "",
+      "PHM 4475": "",
+      "PHM 4452": "",
+      "PHM 4425": "",
+      "PHM 4415": "",
+      "PHM 4406": "",
+      "PHM 4481": "",
+      "PHM 4493": "",
+      "PHM 4488": "",
+      "PHM 4476": "",
+      "PHM 4426": "",
+      "PHM 4416": "",
+      "PHM 4482": "",
+      "PHM 5497": "",
+      "PHM 5492": "",
+      "PHM 5493": "",
+      "PHM 5407": "",
+      "PHM 5490": "",
+      "PHM 5477": "",
+      "PHM 5417": "",
+      "PHM 4483": "",
+      "PHM 5498": "",
+      "PHM 5496": "",
+      "PHM 5491": "",
+      "PHM 5478": "",
+      "PHM 5418": "",
+      "PHM 5494": ""
+    }
+  },
+  "Bachelor of Science in Nursing": {
+    "sections": {},
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "SOC 1101": "",
+      "PSY 1101": "",
+      "ENT 1010": "",
+      "MGT 3010": "",
+      "BST 1010": "",
+      "EPI 1000": "",
+      "HAN 1211": "",
+      "PHY 1212": "",
+      "HAN 1221": "",
+      "PHY 1222": "",
+      "BCM 1223": "",
+      "HAN 1231": "",
+      "PHY 1232": "",
+      "BCM 1233": "",
+      "NUR 1313": "",
+      "NUR 1314": "",
+      "NUR 1321": "",
+      "NUR 1322": "",
+      "PHM 1336": "",
+      "SOS 2207": "",
+      "BCM 2216": "",
+      "NUR 2311": "",
+      "PHM 2312": "",
+      "NUR 2313": "",
+      "NUR 2314": "",
+      "NUR 2322": "",
+      "NUR 2323": "",
+      "NUR 2324": "",
+      "NUR 2326": "",
+      "CNP 2331": "",
+      "CNP 2332": "",
+      "MIC 2365": "",
+      "MIC 2362": "",
+      "PHM 3112": "",
+      "MIC 3267": "",
+      "NUR 3311": "",
+      "NUR 3312": "",
+      "NUR 3313": "",
+      "NUR 3314": "",
+      "NUR 3316": "",
+      "NUR 3317": "",
+      "CNP 3321": "",
+      "CNP 3322": "",
+      "CNP 3323": "",
+      "CNP 3331": "",
+      "CNP 3332": "",
+      "GNP 3333": "",
+      "PAT 3371": "",
+      "HSC 3395": "",
+      "NUR 4311": "",
+      "NUR 4312": "",
+      "NUR 4313": "",
+      "NUR 4314": "",
+      "NUR 4315": "",
+      "NUR 4316": "",
+      "NUR 4317": "",
+      "CNP 4321": "",
+      "NUR 4322": "",
+      "CNP 4331": "",
+      "CNP 4332": "",
+      "CNP 4333": ""
+    }
+  },
+  "Bachelor of Science in Applied Biochemistry (On hold)": {
+    "sections": {},
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "ENT 1010": "",
+      "SOC 1101": "",
+      "PSY 1101": "",
+      "CHE 1305": "",
+      "BCM 1341": "",
+      "BCM 1320": "",
+      "CHE 2307": "",
+      "CHE 1306": "",
+      "CHE 2305": "",
+      "CHE 2300": "",
+      "BCM 1342": "",
+      "BCM 2345": "",
+      "BCM 1343": "",
+      "BCM 2110": "",
+      "MIC 2175": "",
+      "BCM 2140": "",
+      "BCM 2220": "",
+      "BCM 2250": "",
+      "MIC 2260": "",
+      "BCM 1330": "",
+      "BCM 2330": "",
+      "BCM 2280": "",
+      "MIC 2366": "",
+      "BCM 2344": "",
+      "BCM 3120": "",
+      "BCM 2340": "",
+      "BCM 3325": "",
+      "BCM 3110": "",
+      "BCM 3347": "",
+      "BCM 3130": "",
+      "BCM 3140": "",
+      "BCM 3150": "",
+      "BCM 3200": "",
+      "BCM 3230": "",
+      "BCM 3250": "",
+      "BCM 3300": "",
+      "PHT 3350": "",
+      "BCM 3355": "",
+      "BCM 3330": "",
+      "BCM 3360": "",
+      "BCM 4100": "",
+      "BCM 4120": "",
+      "BCM 4130": ""
+    }
+  },
+  "The goal of the Bachelor of Technology in Analytical Chemistry is to provide students with hands-on": {
+    "sections": {},
+    "courses": {}
+  },
+  "Bachelor of Technology in Analytical Chemistry (On hold)": {
+    "sections": {},
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "ENT 1010": "",
+      "SOC 2201": "",
+      "PHL 3310": "",
+      "BUS 4090": "",
+      "CHE 1100": "",
+      "CHE 1400": "",
+      "MTH 1110": "",
+      "PHYS 1001": "",
+      "CHE 1110": "",
+      "CHE 1300": "",
+      "PHYS 1002": "",
+      "MTH 2010": "",
+      "CHE 1200": "",
+      "CHE 1500": "",
+      "CHE 2200": "",
+      "CHE 2210": "",
+      "CHE 2220": "",
+      "CHE 2300": "",
+      "CHE 2500": "",
+      "CHE 2100": "",
+      "CHE 2310": "",
+      "CHE 2320": "",
+      "CHE 2400": "",
+      "CHE 2410": "",
+      "CHE 2000": "",
+      "CHE 3000": "",
+      "CHE 3200": "",
+      "CHE 3210": "",
+      "CHE 3300": "",
+      "CHE 3400": "",
+      "CHE 3600": "",
+      "CHE 3001": "",
+      "CHE 3220": "",
+      "CHE 3410": "",
+      "CHE 3500": "",
+      "CHE 3700": "",
+      "CHE 3002": "",
+      "CHE 3250": "",
+      "CHE 3260": "",
+      "CHE 3270": "",
+      "CHE 4000": "",
+      "CHE 3044": "",
+      "CHE 3110": "",
+      "CHE 3092": "",
+      "CHE 3240": ""
+    }
+  },
+  "Bachelor of Science in Applied Computer Technology": {
+    "sections": {
+      "Lower Level Core Courses": {
+        "units": 51,
+        "courses": [
+          {
+            "code": "IST 1025",
+            "name": ""
+          },
+          {
+            "code": "APT 1030",
+            "name": ""
+          },
+          {
+            "code": "APT 1040",
+            "name": ""
+          },
+          {
+            "code": "APT 1050",
+            "name": ""
+          },
+          {
+            "code": "APT 2010",
+            "name": ""
+          },
+          {
+            "code": "APT 2020",
+            "name": ""
+          },
+          {
+            "code": "APT 2022",
+            "name": ""
+          },
+          {
+            "code": "APT 2030",
+            "name": ""
+          },
+          {
+            "code": "APT 2040",
+            "name": ""
+          },
+          {
+            "code": "APT 2050",
+            "name": ""
+          },
+          {
+            "code": "APT 2055",
+            "name": ""
+          },
+          {
+            "code": "APT 2060",
+            "name": ""
+          },
+          {
+            "code": "APT 2080",
+            "name": ""
+          },
+          {
+            "code": "APT 2090",
+            "name": ""
+          },
+          {
+            "code": "IST 2045",
+            "name": ""
+          },
+          {
+            "code": "MTH 2215",
+            "name": ""
+          },
+          {
+            "code": "MTH 1110",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level Core Courses": {
+        "units": 45,
+        "courses": [
+          {
+            "code": "APT 3010",
+            "name": ""
+          },
+          {
+            "code": "APT 3025",
+            "name": ""
+          },
+          {
+            "code": "APT 3040",
+            "name": ""
+          },
+          {
+            "code": "APT 3050",
+            "name": ""
+          },
+          {
+            "code": "APT 3060",
+            "name": ""
+          },
+          {
+            "code": "APT 3065",
+            "name": ""
+          },
+          {
+            "code": "APT 3080",
+            "name": ""
+          },
+          {
+            "code": "APT 3090",
+            "name": ""
+          },
+          {
+            "code": "APT 3095",
+            "name": ""
+          },
+          {
+            "code": "APT 4900",
+            "name": ""
+          },
+          {
+            "code": "APT 4910",
+            "name": ""
+          },
+          {
+            "code": "IST 3015",
+            "name": ""
+          },
+          {
+            "code": "IST 3050",
+            "name": ""
+          },
+          {
+            "code": "IST 4035",
+            "name": ""
+          },
+          {
+            "code": "IST 4078",
+            "name": ""
+          },
+          {
+            "code": "DST 4010",
+            "name": ""
+          },
+          {
+            "code": "DST 4020",
+            "name": ""
+          },
+          {
+            "code": "DST 4030",
+            "name": ""
+          },
+          {
+            "code": "DST 4040",
+            "name": ""
+          },
+          {
+            "code": "DST 4050",
+            "name": ""
+          },
+          {
+            "code": "DST 4010",
+            "name": ""
+          },
+          {
+            "code": "NET 4020",
+            "name": ""
+          },
+          {
+            "code": "NET 4030",
+            "name": ""
+          },
+          {
+            "code": "APP 4035",
+            "name": ""
+          },
+          {
+            "code": "NET 4050",
+            "name": ""
+          },
+          {
+            "code": "FIC 4010",
+            "name": ""
+          },
+          {
+            "code": "FIC 4020",
+            "name": ""
+          },
+          {
+            "code": "FIC 4030",
+            "name": ""
+          },
+          {
+            "code": "FIC 4040",
+            "name": ""
+          },
+          {
+            "code": "FIC 4050",
+            "name": ""
+          },
+          {
+            "code": "SFE 4010",
+            "name": ""
+          },
+          {
+            "code": "SFE 4020",
+            "name": ""
+          },
+          {
+            "code": "SFE 4030",
+            "name": ""
+          },
+          {
+            "code": "APP 4035",
+            "name": ""
+          },
+          {
+            "code": "APP 4080",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "PHL 1104": "",
+      "SOC 1101": "",
+      "PSY 1101": "",
+      "BUS 1010": "",
+      "ECO 1010": "",
+      "ENT 1010": "",
+      "HRT 1010": "",
+      "GEO 3000": "",
+      "LIT 4815": "",
+      "SOC 3500": "",
+      "PHL 3310": "",
+      "PSY 3135": "",
+      "SOC 3301": "",
+      "MGT 3010": "",
+      "MKT 3010": ""
+    }
+  },
+  "The Bachelor of Science in Software Engineering program prepares students for successful careers as": {
+    "sections": {},
+    "courses": {}
+  },
+  "Bachelor of Science in Software Engineering": {
+    "sections": {
+      "Computing Core Course": {
+        "units": 48,
+        "courses": [
+          {
+            "code": "IST 1025",
+            "name": ""
+          },
+          {
+            "code": "APT 1040",
+            "name": ""
+          },
+          {
+            "code": "MTH 1110",
+            "name": ""
+          },
+          {
+            "code": "MTH 2010",
+            "name": ""
+          },
+          {
+            "code": "APT 1050",
+            "name": ""
+          },
+          {
+            "code": "SWE 1020",
+            "name": ""
+          },
+          {
+            "code": "IST 2010",
+            "name": ""
+          },
+          {
+            "code": "MTH 2215",
+            "name": ""
+          },
+          {
+            "code": "MTH 2030",
+            "name": ""
+          },
+          {
+            "code": "APT 2030",
+            "name": ""
+          },
+          {
+            "code": "IST 3020",
+            "name": ""
+          },
+          {
+            "code": "APT 2050",
+            "name": ""
+          },
+          {
+            "code": "APT 3010",
+            "name": ""
+          },
+          {
+            "code": "APT 3020",
+            "name": ""
+          },
+          {
+            "code": "APT 3040",
+            "name": ""
+          },
+          {
+            "code": "APT 3060",
+            "name": ""
+          }
+        ]
+      },
+      "Software Engineering Core Course": {
+        "units": 57,
+        "courses": [
+          {
+            "code": "SWE 2040",
+            "name": ""
+          },
+          {
+            "code": "APT 2080",
+            "name": ""
+          },
+          {
+            "code": "APT 3080",
+            "name": ""
+          },
+          {
+            "code": "SWE 2030",
+            "name": ""
+          },
+          {
+            "code": "APT 2010",
+            "name": ""
+          },
+          {
+            "code": "SWE 2020",
+            "name": ""
+          },
+          {
+            "code": "SWE 3050",
+            "name": ""
+          },
+          {
+            "code": "SWE 3090",
+            "name": ""
+          },
+          {
+            "code": "SWE 3020",
+            "name": ""
+          },
+          {
+            "code": "SWE 3030",
+            "name": ""
+          },
+          {
+            "code": "SFE 4010",
+            "name": ""
+          },
+          {
+            "code": "SFE 4015",
+            "name": ""
+          },
+          {
+            "code": "APP 4080",
+            "name": ""
+          },
+          {
+            "code": "SWE 3010",
+            "name": ""
+          },
+          {
+            "code": "SWE 3040",
+            "name": ""
+          },
+          {
+            "code": "SWE 4040",
+            "name": ""
+          },
+          {
+            "code": "SWE 4060",
+            "name": ""
+          },
+          {
+            "code": "SWE 4900",
+            "name": ""
+          },
+          {
+            "code": "SWE 4910",
+            "name": ""
+          },
+          {
+            "code": "APT 3095",
+            "name": ""
+          },
+          {
+            "code": "SWE 4070",
+            "name": ""
+          },
+          {
+            "code": "SWE 4080",
+            "name": ""
+          },
+          {
+            "code": "DST 4010",
+            "name": ""
+          },
+          {
+            "code": "SWE 4090",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "NSC 2215": "",
+      "PHL 3310": "",
+      "SOC 1101": "",
+      "MGT 3010": "",
+      "MKT 3010": "",
+      "JRN 3015": ""
+    }
+  },
+  "Bachelor of Science in Data Science and Analytics": {
+    "sections": {},
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "BUS 1010": "",
+      "SOC 1101": "",
+      "ENV 2001": "",
+      "PHL 3310": "",
+      "MGT 3010": "",
+      "NSC 3304": "",
+      "APT 1050": "",
+      "APT 2060": "",
+      "APT 3040": "",
+      "DSA 1060": "",
+      "DSA 1080": "",
+      "DSA 2020": "",
+      "DSA 2040": "",
+      "DSA 2050": "",
+      "DSA 3020": "",
+      "DSA 3030": "",
+      "DSA 3050": "",
+      "DSA 3900": "",
+      "DSA 4010": "",
+      "DSA 4020": "",
+      "DSA 4030": "",
+      "DSA 4050": "",
+      "DSA 4060": "",
+      "DSA 4900": "",
+      "DSA 4910": "",
+      "MTH 1040": "",
+      "MTH 1050": "",
+      "MTH 1060": "",
+      "MTH 1110": "",
+      "MTH 2020": "",
+      "MTH 2030": "",
+      "MTH 2215": "",
+      "MTH 3010": "",
+      "STA 1040": "",
+      "STA 2010": "",
+      "STA 2030": "",
+      "STA 2060": "",
+      "STA 3010": "",
+      "STA 3020": "",
+      "STA 3040": "",
+      "STA 3050": "",
+      "STA 4030": "",
+      "STA 1020": ""
+    }
+  },
+  "The objective of the Bachelor of Technology in Analytical Chemistry program is to prepare skilled": {
+    "sections": {},
+    "courses": {}
+  },
+  "Bachelor of Science in Information Systems Technology": {
+    "sections": {},
+    "courses": {}
+  },
+  "The goal of the Bachelor of Technology in": {
+    "sections": {
+      "Lower Level Core Courses": {
+        "units": 24,
+        "courses": [
+          {
+            "code": "IST 2010",
+            "name": ""
+          },
+          {
+            "code": "IST 2045",
+            "name": ""
+          },
+          {
+            "code": "IST 1025",
+            "name": ""
+          },
+          {
+            "code": "IST 2060",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level Core Courses": {
+        "units": 72,
+        "courses": [
+          {
+            "code": "IST 3005",
+            "name": ""
+          },
+          {
+            "code": "IST 3015",
+            "name": ""
+          },
+          {
+            "code": "IST 3020",
+            "name": ""
+          },
+          {
+            "code": "IST 3040",
+            "name": ""
+          },
+          {
+            "code": "IST 3050",
+            "name": ""
+          },
+          {
+            "code": "IST 4020",
+            "name": ""
+          },
+          {
+            "code": "IST 4030",
+            "name": ""
+          },
+          {
+            "code": "IST 4035",
+            "name": ""
+          },
+          {
+            "code": "IST 4040",
+            "name": ""
+          },
+          {
+            "code": "IST 4060",
+            "name": ""
+          },
+          {
+            "code": "IST 4070",
+            "name": ""
+          },
+          {
+            "code": "IST 4072",
+            "name": ""
+          },
+          {
+            "code": "IST 4075",
+            "name": ""
+          },
+          {
+            "code": "IST 4078",
+            "name": ""
+          },
+          {
+            "code": "IST 4900",
+            "name": ""
+          },
+          {
+            "code": "IST 4910",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1020": "",
+      "LIT 4815": ""
+    }
+  },
+  "Bachelor of Science in Artificial Intelligence (AI) and Robotics": {
+    "sections": {},
+    "courses": {}
+  },
+  "The philosophy of the Bachelor of Science in": {
+    "sections": {
+      "Core Computer Science courses": {
+        "units": 27,
+        "courses": [
+          {
+            "code": "IST 1025",
+            "name": ""
+          },
+          {
+            "code": "APT 1040",
+            "name": ""
+          },
+          {
+            "code": "APT 1050",
+            "name": ""
+          },
+          {
+            "code": "SWE 1020",
+            "name": ""
+          },
+          {
+            "code": "IST 2010",
+            "name": ""
+          },
+          {
+            "code": "APT 2040",
+            "name": ""
+          },
+          {
+            "code": "APT 2050",
+            "name": ""
+          },
+          {
+            "code": "APT 3040",
+            "name": ""
+          },
+          {
+            "code": "IST 3050",
+            "name": ""
+          },
+          {
+            "code": "AIR 2010",
+            "name": ""
+          },
+          {
+            "code": "AIR 2040",
+            "name": ""
+          },
+          {
+            "code": "AIR 3010",
+            "name": ""
+          },
+          {
+            "code": "AIR 3060",
+            "name": ""
+          },
+          {
+            "code": "AIR 3080",
+            "name": ""
+          },
+          {
+            "code": "APT 3010",
+            "name": ""
+          },
+          {
+            "code": "APT 3025",
+            "name": ""
+          },
+          {
+            "code": "DST 4020",
+            "name": ""
+          },
+          {
+            "code": "AIR 4010",
+            "name": ""
+          },
+          {
+            "code": "AIR 4020",
+            "name": ""
+          },
+          {
+            "code": "AIR 4040",
+            "name": ""
+          },
+          {
+            "code": "AIR 4050",
+            "name": ""
+          },
+          {
+            "code": "AIR 4060",
+            "name": ""
+          },
+          {
+            "code": "AIR 4070",
+            "name": ""
+          },
+          {
+            "code": "AIR 4080",
+            "name": ""
+          },
+          {
+            "code": "AIR 4090",
+            "name": ""
+          },
+          {
+            "code": "AIR 4910",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1020": "",
+      "NSC 2215": "",
+      "PHL 3310": "",
+      "SOC 1101": "",
+      "MGT 3010": "",
+      "MKT 3010": "",
+      "JRN 3015": "",
+      "MTH 1025": "",
+      "STA 1020": "",
+      "MTH 1040": "",
+      "AIR 1050": "",
+      "MTH 2025": "",
+      "MTH 2215": "",
+      "APT 2030": "",
+      "AIR 2030": "",
+      "STA 3040": "",
+      "STA 4030": ""
+    }
+  },
+  "Bachelor of Arts in Criminal Justice Studies": {
+    "sections": {},
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "BUS 1010": "",
+      "ECO 1010": "",
+      "ENT 1010": "",
+      "HRT 1010": "",
+      "MGT 3010": "",
+      "MKT 3010": "",
+      "ENV 2000": "",
+      "ENV 2001": "",
+      "JRN 1109": "",
+      "JRN 2103": "",
+      "MTH 2210": "",
+      "MTH 2010": "",
+      "NSC 2215": "",
+      "NSC 2205": "",
+      "NSC 2212": "",
+      "NSC 2216": "",
+      "ENV 4000": "",
+      "ENV 3200": "",
+      "ENV 3500": "",
+      "ENV 3300": "",
+      "ENV 3288": "",
+      "ENV 4200": "",
+      "NSC 3304": "",
+      "JRN 3015": "",
+      "CJS 1101": "",
+      "CJS 1103": "",
+      "CJS 1104": "",
+      "CJS 2203": "",
+      "CJS 2204": "",
+      "CJS 2205": "",
+      "CJS 2211": "",
+      "CJS 2212": "",
+      "CJS 2213": "",
+      "CJS 3301": "",
+      "CJS 3303": "",
+      "CJS 3305": "",
+      "CJS 3306": "",
+      "CJS 3307": "",
+      "CJS 3309": "",
+      "CJS 3310": "",
+      "CJS 4120": "",
+      "CJS 4130": "",
+      "CJS 4136": "",
+      "CJS 2200": "",
+      "CJS 2220": "",
+      "CJS 2221": "",
+      "CJS 2342": "",
+      "PSY 2105": "",
+      "CJS 3312": "",
+      "CJS 3117": "",
+      "CJS 3320": "",
+      "CJS 3321": "",
+      "CJS 3322": "",
+      "CJS 4138": "",
+      "CJS 4150": "",
+      "CJS 4151": "",
+      "CJS 4152": "",
+      "CJS 4153": "",
+      "CJS 4210": "",
+      "CJS 4211": "",
+      "CJS 4212": "",
+      "CJS 4250": "",
+      "SOC 3305": ""
+    }
+  },
+  "Bachelor of Arts in International Relations": {
+    "sections": {
+      "Lower Level Core Courses": {
+        "units": 12,
+        "courses": [
+          {
+            "code": "IRL 2000",
+            "name": ""
+          },
+          {
+            "code": "IRL 2005",
+            "name": ""
+          },
+          {
+            "code": "IRL 2010",
+            "name": ""
+          },
+          {
+            "code": "POL 2201",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level Core Courses": {
+        "units": 27,
+        "courses": [
+          {
+            "code": "IRL 3000",
+            "name": ""
+          },
+          {
+            "code": "IRL 3003",
+            "name": ""
+          },
+          {
+            "code": "IRL 3005",
+            "name": ""
+          },
+          {
+            "code": "IRL 3021",
+            "name": ""
+          },
+          {
+            "code": "IRL 3060",
+            "name": ""
+          },
+          {
+            "code": "IRL 4020",
+            "name": ""
+          },
+          {
+            "code": "IRL 4030",
+            "name": ""
+          },
+          {
+            "code": "IRL 4075",
+            "name": ""
+          },
+          {
+            "code": "IRL 4900",
+            "name": ""
+          },
+          {
+            "code": "IRL 4910",
+            "name": ""
+          }
+        ]
+      },
+      "Concentrations": {
+        "units": 18,
+        "courses": []
+      },
+      "Diplomacy & Foreign Policy": {
+        "units": 18,
+        "courses": [
+          {
+            "code": "IRL 3100",
+            "name": ""
+          },
+          {
+            "code": "IRL 3110",
+            "name": ""
+          },
+          {
+            "code": "IRL 3200",
+            "name": ""
+          },
+          {
+            "code": "IRL 4120",
+            "name": ""
+          },
+          {
+            "code": "IRL 4040",
+            "name": ""
+          },
+          {
+            "code": "IRL 4055",
+            "name": ""
+          },
+          {
+            "code": "IRL 4050",
+            "name": ""
+          },
+          {
+            "code": "IRL 4065",
+            "name": ""
+          },
+          {
+            "code": "IRL 4035",
+            "name": ""
+          },
+          {
+            "code": "IRL 4151",
+            "name": ""
+          },
+          {
+            "code": "IRL 4800",
+            "name": ""
+          }
+        ]
+      },
+      "Development Studies": {
+        "units": 18,
+        "courses": [
+          {
+            "code": "ECO 1010",
+            "name": ""
+          },
+          {
+            "code": "ECO 1020",
+            "name": ""
+          },
+          {
+            "code": "IRL 3010",
+            "name": ""
+          },
+          {
+            "code": "IRL 3045",
+            "name": ""
+          },
+          {
+            "code": "IRL 4151",
+            "name": ""
+          },
+          {
+            "code": "IRL 2100",
+            "name": ""
+          },
+          {
+            "code": "IRL 2220",
+            "name": ""
+          },
+          {
+            "code": "IRL 4035",
+            "name": ""
+          },
+          {
+            "code": "IRL 4150",
+            "name": ""
+          },
+          {
+            "code": "IRL 4220",
+            "name": ""
+          },
+          {
+            "code": "IRL 4811",
+            "name": ""
+          }
+        ]
+      },
+      "Peace & Conflict Studies": {
+        "units": 18,
+        "courses": [
+          {
+            "code": "IRL 3015",
+            "name": ""
+          },
+          {
+            "code": "IRL 3200",
+            "name": ""
+          },
+          {
+            "code": "IRL 4001",
+            "name": ""
+          },
+          {
+            "code": "IRL 4151",
+            "name": ""
+          },
+          {
+            "code": "IRL 4010",
+            "name": ""
+          },
+          {
+            "code": "IRL 4045",
+            "name": ""
+          },
+          {
+            "code": "IRL 4035",
+            "name": ""
+          },
+          {
+            "code": "IRL 4120",
+            "name": ""
+          },
+          {
+            "code": "IRL 4220",
+            "name": ""
+          },
+          {
+            "code": "IRL 4850",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "ENV 2000": "",
+      "ENV 2001": "",
+      "JRN 1109": "",
+      "JRN 2103": "",
+      "MTH 2210": "",
+      "MTH 2010": "",
+      "NSC 2215": "",
+      "NSC 2205": "",
+      "NSC 2212": "",
+      "NSC 2216": "",
+      "HSC 1394": "",
+      "EPI 1010": "",
+      "ENV 4000": "",
+      "ENV 3200": "",
+      "ENV 3500": "",
+      "ENV 3300": "",
+      "ENV 3288": "",
+      "ENV 4200": "",
+      "NSC 3304": "",
+      "JRN 3015": ""
+    }
+  },
+  "Bachelor of Arts in Psychology": {
+    "sections": {},
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "BUS 1010": "",
+      "ECO 1010": "",
+      "ENT 1010": "",
+      "HRT 1010": "",
+      "MGT 3010": "",
+      "MKT 3010": "",
+      "ENV 2000": "",
+      "ENV 2001": "",
+      "JRN 1109": "",
+      "JRN 2103": "",
+      "MTH 2210": "",
+      "MTH 2010": "",
+      "NSC 2215": "",
+      "NSC 2205": "",
+      "NSC 2212": "",
+      "NSC 2216": "",
+      "ENV 4000": "",
+      "ENV 3200": "",
+      "ENV 3500": "",
+      "ENV 3300": "",
+      "ENV 3288": "",
+      "ENV 4200": "",
+      "NSC 3304": "",
+      "JRN 3015": "",
+      "PSY 1101": "",
+      "PSY 1105": "",
+      "PSY 1110": "",
+      "PSY 1111": "",
+      "PSY 2105": "",
+      "PSY 2120": "",
+      "PSY 2125": "",
+      "PSY 3105": "",
+      "PSY 3110": "",
+      "PSY 3115": "",
+      "PSY 3116": "",
+      "PSY 3125": "",
+      "PSY 3140": "",
+      "PSY 3141": "",
+      "PSY 4105": "",
+      "PSY 4109": "",
+      "PSY 4110": "",
+      "PSY 4117": "",
+      "PSY 4900": "",
+      "PSY 4910": "",
+      "PSY 4181": "",
+      "PSY 1171": "",
+      "PSY 3130": "",
+      "PSY 3150": "",
+      "PSY 3160": "",
+      "PSY 3135": "",
+      "PSY 3143": "",
+      "PSY 3711": "",
+      "PSY 3172": "",
+      "PSY 4142": "",
+      "PSY 4143": "",
+      "PSY 4171": "",
+      "PSY 4172": "",
+      "PSY 4711": ""
+    }
+  },
+  "Bachelor of Arts in Sociology (Double Major) (On hold)": {
+    "sections": {
+      "ELECTIVE COURSES": {
+        "units": 9,
+        "courses": [
+          {
+            "code": "SOC 2212",
+            "name": ""
+          },
+          {
+            "code": "SOC 2215",
+            "name": ""
+          },
+          {
+            "code": "SOC 2216",
+            "name": ""
+          },
+          {
+            "code": "SOC 3305",
+            "name": ""
+          },
+          {
+            "code": "SOC 3313",
+            "name": ""
+          },
+          {
+            "code": "SOC 3314",
+            "name": ""
+          },
+          {
+            "code": "SOC 3316",
+            "name": ""
+          },
+          {
+            "code": "SOC 3321",
+            "name": ""
+          },
+          {
+            "code": "SOC 3323",
+            "name": ""
+          },
+          {
+            "code": "SOC 4412",
+            "name": ""
+          },
+          {
+            "code": "SOC 4415",
+            "name": ""
+          },
+          {
+            "code": "SOC 4419",
+            "name": ""
+          },
+          {
+            "code": "BUS 1010",
+            "name": ""
+          },
+          {
+            "code": "CJS 2211",
+            "name": ""
+          },
+          {
+            "code": "PSY 1171",
+            "name": ""
+          },
+          {
+            "code": "PSY 2125",
+            "name": ""
+          },
+          {
+            "code": "COM 3000",
+            "name": ""
+          },
+          {
+            "code": "IRL 3010",
+            "name": ""
+          },
+          {
+            "code": "SOC 1101",
+            "name": ""
+          },
+          {
+            "code": "SOC 1102",
+            "name": ""
+          },
+          {
+            "code": "SOC 3302",
+            "name": ""
+          },
+          {
+            "code": "SOC 3303",
+            "name": ""
+          },
+          {
+            "code": "SOC 4401",
+            "name": ""
+          },
+          {
+            "code": "SOC 2207",
+            "name": ""
+          },
+          {
+            "code": "SOC 2209",
+            "name": ""
+          },
+          {
+            "code": "SOC 2212",
+            "name": ""
+          },
+          {
+            "code": "SOC 2213",
+            "name": ""
+          },
+          {
+            "code": "SOC 2217",
+            "name": ""
+          },
+          {
+            "code": "SOC 3305",
+            "name": ""
+          },
+          {
+            "code": "SOC 3317",
+            "name": ""
+          },
+          {
+            "code": "SOC 3319",
+            "name": ""
+          },
+          {
+            "code": "SOC 3320",
+            "name": ""
+          },
+          {
+            "code": "SOC 4412",
+            "name": ""
+          },
+          {
+            "code": "SOC 4414",
+            "name": ""
+          },
+          {
+            "code": "SOC 4415",
+            "name": ""
+          },
+          {
+            "code": "SOC 4419",
+            "name": ""
+          },
+          {
+            "code": "HIS 3015",
+            "name": ""
+          },
+          {
+            "code": "HIS 3025",
+            "name": ""
+          },
+          {
+            "code": "HIS 4120",
+            "name": ""
+          },
+          {
+            "code": "IRL 3010",
+            "name": ""
+          },
+          {
+            "code": "IRL 3021",
+            "name": ""
+          },
+          {
+            "code": "IRL 3060",
+            "name": ""
+          },
+          {
+            "code": "IRL 4001",
+            "name": ""
+          },
+          {
+            "code": "IRL 4050",
+            "name": ""
+          },
+          {
+            "code": "IRL 3040",
+            "name": ""
+          },
+          {
+            "code": "IRL 4065",
+            "name": ""
+          },
+          {
+            "code": "IRL 4281",
+            "name": ""
+          },
+          {
+            "code": "IRL 4811",
+            "name": ""
+          },
+          {
+            "code": "LIT 4785",
+            "name": ""
+          },
+          {
+            "code": "PHL 4230",
+            "name": ""
+          },
+          {
+            "code": "ARB 2000",
+            "name": ""
+          },
+          {
+            "code": "ARB 3000",
+            "name": ""
+          },
+          {
+            "code": "ARB 3001",
+            "name": ""
+          },
+          {
+            "code": "ARB 3002",
+            "name": ""
+          },
+          {
+            "code": "ARB 3003",
+            "name": ""
+          },
+          {
+            "code": "ARB 3004",
+            "name": ""
+          },
+          {
+            "code": "ARB 3005",
+            "name": ""
+          },
+          {
+            "code": "ARB 4000",
+            "name": ""
+          },
+          {
+            "code": "ARB 4001",
+            "name": ""
+          },
+          {
+            "code": "PSY 1185",
+            "name": ""
+          },
+          {
+            "code": "PSY 2181",
+            "name": ""
+          },
+          {
+            "code": "PSY 2182",
+            "name": ""
+          },
+          {
+            "code": "PSY 2183",
+            "name": ""
+          },
+          {
+            "code": "PSY 3181",
+            "name": ""
+          },
+          {
+            "code": "PSY 3182",
+            "name": ""
+          },
+          {
+            "code": "PSY 4181",
+            "name": ""
+          },
+          {
+            "code": "CHI 2000",
+            "name": ""
+          },
+          {
+            "code": "CHI 3000",
+            "name": ""
+          },
+          {
+            "code": "CHI 3001",
+            "name": ""
+          },
+          {
+            "code": "CHI 3002",
+            "name": ""
+          },
+          {
+            "code": "CHI 3003",
+            "name": ""
+          },
+          {
+            "code": "CHI 3004",
+            "name": ""
+          },
+          {
+            "code": "CHI 4000",
+            "name": ""
+          },
+          {
+            "code": "CHI 4001",
+            "name": ""
+          },
+          {
+            "code": "PHL 1104",
+            "name": ""
+          },
+          {
+            "code": "PHL 3306",
+            "name": ""
+          },
+          {
+            "code": "PHL 3307",
+            "name": ""
+          },
+          {
+            "code": "PHL 3309",
+            "name": ""
+          },
+          {
+            "code": "PHL 3310",
+            "name": ""
+          },
+          {
+            "code": "PHL 3500",
+            "name": ""
+          },
+          {
+            "code": "PHL 4220",
+            "name": ""
+          },
+          {
+            "code": "CJS 1101",
+            "name": ""
+          },
+          {
+            "code": "CJS 1103",
+            "name": ""
+          },
+          {
+            "code": "CJS 2201",
+            "name": ""
+          },
+          {
+            "code": "CJS 2202",
+            "name": ""
+          },
+          {
+            "code": "CJS 2204",
+            "name": ""
+          },
+          {
+            "code": "CJS 3303",
+            "name": ""
+          },
+          {
+            "code": "CJS 3307",
+            "name": ""
+          },
+          {
+            "code": "CJS 3309",
+            "name": ""
+          },
+          {
+            "code": "CJS 4120",
+            "name": ""
+          },
+          {
+            "code": "SOC 2205",
+            "name": ""
+          },
+          {
+            "code": "SOC 3310",
+            "name": ""
+          },
+          {
+            "code": "PSY 3150",
+            "name": ""
+          },
+          {
+            "code": "PSY 3160",
+            "name": ""
+          },
+          {
+            "code": "PSY 3182",
+            "name": ""
+          },
+          {
+            "code": "FRN 2000",
+            "name": ""
+          },
+          {
+            "code": "FRN 3000",
+            "name": ""
+          },
+          {
+            "code": "FRN 3001",
+            "name": ""
+          },
+          {
+            "code": "FRN 3002",
+            "name": ""
+          },
+          {
+            "code": "FRN 3003",
+            "name": ""
+          },
+          {
+            "code": "FRN 3004",
+            "name": ""
+          },
+          {
+            "code": "FRN 3005",
+            "name": ""
+          },
+          {
+            "code": "FRN 4000",
+            "name": ""
+          },
+          {
+            "code": "FRN 4001",
+            "name": ""
+          },
+          {
+            "code": "FRN 4002",
+            "name": ""
+          },
+          {
+            "code": "FRN 4003",
+            "name": ""
+          },
+          {
+            "code": "FRN 4004",
+            "name": ""
+          },
+          {
+            "code": "GNS 2000",
+            "name": ""
+          },
+          {
+            "code": "GNS 2001",
+            "name": ""
+          },
+          {
+            "code": "GNS 3001",
+            "name": ""
+          },
+          {
+            "code": "GNS 4800",
+            "name": ""
+          },
+          {
+            "code": "HIS 3005",
+            "name": ""
+          },
+          {
+            "code": "PHL 3500",
+            "name": ""
+          },
+          {
+            "code": "PSY 2125",
+            "name": ""
+          },
+          {
+            "code": "SOC 3310",
+            "name": ""
+          },
+          {
+            "code": "PSY 1171",
+            "name": ""
+          },
+          {
+            "code": "PSY 3171",
+            "name": ""
+          },
+          {
+            "code": "PSY 3172",
+            "name": ""
+          },
+          {
+            "code": "PSY 4171",
+            "name": ""
+          },
+          {
+            "code": "PSY 4172",
+            "name": ""
+          },
+          {
+            "code": "PSY 3142",
+            "name": ""
+          },
+          {
+            "code": "PSY 3143",
+            "name": ""
+          },
+          {
+            "code": "PSY 4142",
+            "name": ""
+          },
+          {
+            "code": "PSY 4143",
+            "name": ""
+          },
+          {
+            "code": "PSY 4144",
+            "name": ""
+          },
+          {
+            "code": "IRL 2000",
+            "name": ""
+          },
+          {
+            "code": "IRL 2010",
+            "name": ""
+          },
+          {
+            "code": "POL 2201",
+            "name": ""
+          },
+          {
+            "code": "JPN 2000",
+            "name": ""
+          },
+          {
+            "code": "JPN 3000",
+            "name": ""
+          },
+          {
+            "code": "JPN 4000",
+            "name": ""
+          },
+          {
+            "code": "JPN 4001",
+            "name": ""
+          },
+          {
+            "code": "JPN 4002",
+            "name": ""
+          },
+          {
+            "code": "LIT 1106",
+            "name": ""
+          },
+          {
+            "code": "LIT 2220",
+            "name": ""
+          },
+          {
+            "code": "LIT 3340",
+            "name": ""
+          },
+          {
+            "code": "LIT 3351",
+            "name": ""
+          },
+          {
+            "code": "LIT 4785",
+            "name": ""
+          },
+          {
+            "code": "LIT 4815",
+            "name": ""
+          },
+          {
+            "code": "LIT 4825",
+            "name": ""
+          },
+          {
+            "code": "PSY 1101",
+            "name": ""
+          },
+          {
+            "code": "PSY 1105",
+            "name": ""
+          },
+          {
+            "code": "PSY 3110",
+            "name": ""
+          },
+          {
+            "code": "PSY 3115",
+            "name": ""
+          },
+          {
+            "code": "PSY 2125",
+            "name": ""
+          },
+          {
+            "code": "PSY 2105",
+            "name": ""
+          },
+          {
+            "code": "PSY 2120",
+            "name": ""
+          },
+          {
+            "code": "SOC 2201",
+            "name": ""
+          },
+          {
+            "code": "SOC 3301",
+            "name": ""
+          },
+          {
+            "code": "SOC 3305",
+            "name": ""
+          },
+          {
+            "code": "SOC 3310",
+            "name": ""
+          },
+          {
+            "code": "SOC 3315",
+            "name": ""
+          },
+          {
+            "code": "SOC 3500",
+            "name": ""
+          },
+          {
+            "code": "SOC 4025",
+            "name": ""
+          },
+          {
+            "code": "SPN 2000",
+            "name": ""
+          },
+          {
+            "code": "SPN 3000",
+            "name": ""
+          },
+          {
+            "code": "SPN 3001",
+            "name": ""
+          },
+          {
+            "code": "SPN 3002",
+            "name": ""
+          },
+          {
+            "code": "SPN 3003",
+            "name": ""
+          },
+          {
+            "code": "SPN 3004",
+            "name": ""
+          },
+          {
+            "code": "SPN 3005",
+            "name": ""
+          },
+          {
+            "code": "SPN 4000",
+            "name": ""
+          },
+          {
+            "code": "SPN 4001",
+            "name": ""
+          },
+          {
+            "code": "SPN 4002",
+            "name": ""
+          },
+          {
+            "code": "SPN 4003",
+            "name": ""
+          },
+          {
+            "code": "SPN 4004",
+            "name": ""
+          },
+          {
+            "code": "SWA 2000",
+            "name": ""
+          },
+          {
+            "code": "SWA 3000",
+            "name": ""
+          },
+          {
+            "code": "SWA 3001",
+            "name": ""
+          },
+          {
+            "code": "SWA 4000",
+            "name": ""
+          },
+          {
+            "code": "SWA 4001",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "BUS 1010": "",
+      "ECO 1010": "",
+      "ENT 1010": "",
+      "HRT 1010": "",
+      "MGT 3010": "",
+      "MKT 3010": "",
+      "ENV 2000": "",
+      "ENV 2001": "",
+      "JRN 1109": "",
+      "JRN 2103": "",
+      "MTH 2210": "",
+      "MTH 2010": "",
+      "NSC 2215": "",
+      "NSC 2205": "",
+      "NSC 2212": "",
+      "NSC 2216": "",
+      "ENV 4000": "",
+      "ENV 3200": "",
+      "ENV 3500": "",
+      "ENV 3300": "",
+      "ENV 3288": "",
+      "ENV 4200": "",
+      "NSC 3304": "",
+      "JRN 3015": "",
+      "SOC 1101": "",
+      "SOC 1102": "",
+      "PSY 2105": "",
+      "SOC 2214": "",
+      "SOC 2220": "",
+      "SOC 3302": "",
+      "SOC 3303": "",
+      "SOC 4401": "",
+      "SOC 4402": "",
+      "SOC 4403": "",
+      "SOC 4900": "",
+      "SOC 4910": "",
+      "SOC 2209": "",
+      "SOC 2217": "",
+      "SOC 2218": "",
+      "SOC 3306": "",
+      "SOC 3307": "",
+      "SOC 3317": "",
+      "SOC 3324": "",
+      "SOC 3325": "",
+      "SOC 4410": "",
+      "SOC 4414": "",
+      "SOC 4416": "",
+      "SOC 4421": "",
+      "SOC 2207": "",
+      "SOC 2208": "",
+      "PSY 3171": "",
+      "SOC 3309": "",
+      "SOC 3311": "",
+      "SOC 3312": "",
+      "SOC 3318": "",
+      "HSC 4010": "",
+      "SOC 4406": "",
+      "SOC 2213": "",
+      "SOC 3308": "",
+      "SOC 3319": "",
+      "SOC 3320": "",
+      "SOC 3322": "",
+      "MGT 4040": "",
+      "SOC 4407": "",
+      "SOC 4418": ""
+    }
+  },
+  "Dive into a world where imagination meets innovation! The Bachelor of Arts in Animation program is": {
+    "sections": {},
+    "courses": {}
+  },
+  "Bachelor of Arts in Animation": {
+    "sections": {
+      "Lower Level": {
+        "units": 45,
+        "courses": [
+          {
+            "code": "ANM 1010",
+            "name": ""
+          },
+          {
+            "code": "ANM 1020",
+            "name": ""
+          },
+          {
+            "code": "ANM 1030",
+            "name": ""
+          },
+          {
+            "code": "ANM 1040",
+            "name": ""
+          },
+          {
+            "code": "ANM 1050",
+            "name": ""
+          },
+          {
+            "code": "ANM 1060",
+            "name": ""
+          },
+          {
+            "code": "ANM 1070",
+            "name": ""
+          },
+          {
+            "code": "ANM 2010",
+            "name": ""
+          },
+          {
+            "code": "ANM 2020",
+            "name": ""
+          },
+          {
+            "code": "ANM 2040",
+            "name": ""
+          },
+          {
+            "code": "ANM 2050",
+            "name": ""
+          },
+          {
+            "code": "ANM 2070",
+            "name": ""
+          },
+          {
+            "code": "ANM 2080",
+            "name": ""
+          },
+          {
+            "code": "ANM 2090",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level": {
+        "units": 27,
+        "courses": [
+          {
+            "code": "ANM 3000",
+            "name": ""
+          },
+          {
+            "code": "ANM 3010",
+            "name": ""
+          },
+          {
+            "code": "ANM 3015",
+            "name": ""
+          },
+          {
+            "code": "ANM 3040",
+            "name": ""
+          },
+          {
+            "code": "ANM 3060",
+            "name": ""
+          },
+          {
+            "code": "ANM 4015",
+            "name": ""
+          },
+          {
+            "code": "ANM 4050",
+            "name": ""
+          },
+          {
+            "code": "ANM 4060",
+            "name": ""
+          },
+          {
+            "code": "ANM 4910",
+            "name": ""
+          },
+          {
+            "code": "ANM 4020",
+            "name": ""
+          },
+          {
+            "code": "ANM 4030",
+            "name": ""
+          },
+          {
+            "code": "ANM 4035",
+            "name": ""
+          },
+          {
+            "code": "ANM 4045",
+            "name": ""
+          },
+          {
+            "code": "ANM 4055",
+            "name": ""
+          },
+          {
+            "code": "ANM 4080",
+            "name": ""
+          },
+          {
+            "code": "ANM 4082",
+            "name": ""
+          },
+          {
+            "code": "ANM 4085",
+            "name": ""
+          },
+          {
+            "code": "ANM 4090",
+            "name": ""
+          },
+          {
+            "code": "ANM 4092",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "COM 1500": "",
+      "PSY 3135": "",
+      "LIT 4785": ""
+    }
+  },
+  "Bachelor of Arts in Film Production & Directing": {
+    "sections": {
+      "Lower Level": {
+        "units": 51,
+        "courses": [
+          {
+            "code": "FLA 1005",
+            "name": ""
+          },
+          {
+            "code": "FLA 1010",
+            "name": ""
+          },
+          {
+            "code": "FLA 1015",
+            "name": ""
+          },
+          {
+            "code": "FLA 1020",
+            "name": ""
+          },
+          {
+            "code": "SND 1005",
+            "name": ""
+          },
+          {
+            "code": "FLA 1030",
+            "name": ""
+          },
+          {
+            "code": "FLA 1035",
+            "name": ""
+          },
+          {
+            "code": "FLA 1040",
+            "name": ""
+          },
+          {
+            "code": "CIN  2005",
+            "name": ""
+          },
+          {
+            "code": "FLA 2010",
+            "name": ""
+          },
+          {
+            "code": "FLA 2015",
+            "name": ""
+          },
+          {
+            "code": "SND 2010",
+            "name": ""
+          },
+          {
+            "code": "FLA 2020",
+            "name": ""
+          },
+          {
+            "code": "FLA 2025",
+            "name": ""
+          },
+          {
+            "code": "FLA 2030",
+            "name": ""
+          },
+          {
+            "code": "FLA 2035",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level": {
+        "units": 15,
+        "courses": [
+          {
+            "code": "SND 3005",
+            "name": ""
+          },
+          {
+            "code": "PRD 3005",
+            "name": ""
+          },
+          {
+            "code": "SND 3010",
+            "name": ""
+          },
+          {
+            "code": "PRD 4020",
+            "name": ""
+          },
+          {
+            "code": "PRD 4010",
+            "name": ""
+          },
+          {
+            "code": "PRD 4910",
+            "name": ""
+          },
+          {
+            "code": "CIN 3005",
+            "name": ""
+          },
+          {
+            "code": "CIN 3010",
+            "name": ""
+          },
+          {
+            "code": "CIN 3015",
+            "name": ""
+          },
+          {
+            "code": "CIN 4005",
+            "name": ""
+          },
+          {
+            "code": "PRD 4005",
+            "name": ""
+          },
+          {
+            "code": "SCR 3005",
+            "name": ""
+          },
+          {
+            "code": "SCR 3010",
+            "name": ""
+          },
+          {
+            "code": "SCR 3015",
+            "name": ""
+          },
+          {
+            "code": "SCR 4005",
+            "name": ""
+          },
+          {
+            "code": "PRD 4005",
+            "name": ""
+          },
+          {
+            "code": "CIN 3005",
+            "name": ""
+          },
+          {
+            "code": "CIN 3010",
+            "name": ""
+          },
+          {
+            "code": "CIN 3015",
+            "name": ""
+          },
+          {
+            "code": "CIN 4005",
+            "name": ""
+          },
+          {
+            "code": "PRD 4005",
+            "name": ""
+          },
+          {
+            "code": "EDT 3005",
+            "name": ""
+          },
+          {
+            "code": "EDT 3010",
+            "name": ""
+          },
+          {
+            "code": "EDT 3015",
+            "name": ""
+          },
+          {
+            "code": "EDT 4005",
+            "name": ""
+          },
+          {
+            "code": "PRD 4005",
+            "name": ""
+          },
+          {
+            "code": "DIR 3005",
+            "name": ""
+          },
+          {
+            "code": "DIR 3010",
+            "name": ""
+          },
+          {
+            "code": "DIR 3015",
+            "name": ""
+          },
+          {
+            "code": "DIR 4005",
+            "name": ""
+          },
+          {
+            "code": "PRD 4005",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "COM 1500": "",
+      "PSY 3135": "",
+      "LIT 4785": ""
+    }
+  },
+  "Bachelor of Arts in Journalism": {
+    "sections": {
+      "Lower Level": {
+        "units": 27,
+        "courses": [
+          {
+            "code": "JRN 1100",
+            "name": ""
+          },
+          {
+            "code": "JRN 1106",
+            "name": ""
+          },
+          {
+            "code": "JRN 1109",
+            "name": ""
+          },
+          {
+            "code": "JRN 2004",
+            "name": ""
+          },
+          {
+            "code": "JRN 2103",
+            "name": ""
+          },
+          {
+            "code": "JRN 2106",
+            "name": ""
+          },
+          {
+            "code": "JRN 2107",
+            "name": ""
+          },
+          {
+            "code": "JRN 2202",
+            "name": ""
+          },
+          {
+            "code": "JRN 2223",
+            "name": ""
+          }
+        ]
+      },
+      "Upper Level": {
+        "units": 27,
+        "courses": [
+          {
+            "code": "JRN 3000",
+            "name": ""
+          },
+          {
+            "code": "JRN 3003",
+            "name": ""
+          },
+          {
+            "code": "JRN 3004",
+            "name": ""
+          },
+          {
+            "code": "JRN 3006",
+            "name": ""
+          },
+          {
+            "code": "JRN 3015",
+            "name": ""
+          },
+          {
+            "code": "JRN 3024",
+            "name": ""
+          },
+          {
+            "code": "JRN 3027",
+            "name": ""
+          },
+          {
+            "code": "JRN 3029",
+            "name": ""
+          },
+          {
+            "code": "JRN 4900",
+            "name": ""
+          },
+          {
+            "code": "JRN 4910",
+            "name": ""
+          },
+          {
+            "code": "JRN 4911",
+            "name": ""
+          },
+          {
+            "code": "JRN 3002",
+            "name": ""
+          },
+          {
+            "code": "JRN 3020",
+            "name": ""
+          },
+          {
+            "code": "JRN 3301",
+            "name": ""
+          },
+          {
+            "code": "JRN 3922",
+            "name": ""
+          },
+          {
+            "code": "JRN 4031",
+            "name": ""
+          },
+          {
+            "code": "JRN 4401",
+            "name": ""
+          },
+          {
+            "code": "JRN 3010",
+            "name": ""
+          },
+          {
+            "code": "JRN 3012",
+            "name": ""
+          },
+          {
+            "code": "JRN 3013",
+            "name": ""
+          },
+          {
+            "code": "JRN 3321",
+            "name": ""
+          },
+          {
+            "code": "JRN 4013",
+            "name": ""
+          },
+          {
+            "code": "JRN 4030",
+            "name": ""
+          },
+          {
+            "code": "JRN 2109",
+            "name": ""
+          },
+          {
+            "code": "JRN 3018",
+            "name": ""
+          },
+          {
+            "code": "JRN 3901",
+            "name": ""
+          },
+          {
+            "code": "JRN 3911",
+            "name": ""
+          },
+          {
+            "code": "JRN 4033",
+            "name": ""
+          },
+          {
+            "code": "JRN 4037",
+            "name": ""
+          }
+        ]
+      },
+      "Journalism Electives": {
+        "units": 9,
+        "courses": [
+          {
+            "code": "JRN 3020",
+            "name": ""
+          },
+          {
+            "code": "JRN 4025",
+            "name": ""
+          },
+          {
+            "code": "JRN 3026",
+            "name": ""
+          },
+          {
+            "code": "JRN 4027",
+            "name": ""
+          },
+          {
+            "code": "JRN 4029",
+            "name": ""
+          },
+          {
+            "code": "JRN 4030",
+            "name": ""
+          },
+          {
+            "code": "JRN 3016",
+            "name": ""
+          },
+          {
+            "code": "JRN 4037",
+            "name": ""
+          },
+          {
+            "code": "JRN 4050",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "SUS 1010": "",
+      "GRM 2000": "",
+      "CMS 3700": "",
+      "SEN 4800": "",
+      "FIL 1010": "",
+      "ENG 1106": "",
+      "ENG 2206": "",
+      "IST 1010": "",
+      "MTH 1109": "",
+      "COM 1500": "",
+      "PSY 3135": "",
+      "LIT 4785": ""
+    }
+  },
+  "Master of Arts in Counseling Psychology": {
+    "sections": {
+      "Practicum": {
+        "units": 6,
+        "courses": [
+          {
+            "code": "PSY 6248",
+            "name": ""
+          },
+          {
+            "code": "PSY 6249",
+            "name": ""
+          },
+          {
+            "code": "PSY 6248",
+            "name": ""
+          },
+          {
+            "code": "PSY 6249",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "PSY 1101": "",
+      "PSY 1105": "",
+      "PSY 3110": "",
+      "PSY 3115": "",
+      "PSY 6002": "",
+      "PSY 6003": "",
+      "PSY 6005": "",
+      "PSY 6111": "",
+      "PSY 6113": "",
+      "PSY 6114": "",
+      "PSY 6115": "",
+      "PSY 6116": "",
+      "PSY 6117": "",
+      "PSY 6118": "",
+      "PSY 6220": "",
+      "PSY 6259": "",
+      "PSY 6312": "",
+      "PSY 6329": "",
+      "PSY 6330": "",
+      "PSY 6331": "",
+      "PSY 6713": "",
+      "PSY 6991": "",
+      "PSY 6992": ""
+    }
+  },
+  "Master of Arts in Marriage and Family Therapy": {
+    "sections": {
+      "CORE COURSES": {
+        "units": 30,
+        "courses": [
+          {
+            "code": "MFT 6800",
+            "name": ""
+          },
+          {
+            "code": "MFT 6801",
+            "name": ""
+          },
+          {
+            "code": "MFT 6802",
+            "name": ""
+          },
+          {
+            "code": "MFT 6803",
+            "name": ""
+          },
+          {
+            "code": "MFT 6805",
+            "name": ""
+          },
+          {
+            "code": "MFT 6806",
+            "name": ""
+          },
+          {
+            "code": "MFT 6807",
+            "name": ""
+          },
+          {
+            "code": "MFT 6812",
+            "name": ""
+          },
+          {
+            "code": "PSY 6002",
+            "name": ""
+          },
+          {
+            "code": "PSY 6704",
+            "name": ""
+          },
+          {
+            "code": "MFT 6819",
+            "name": ""
+          },
+          {
+            "code": "MFT 6821",
+            "name": ""
+          },
+          {
+            "code": "MFT 6822",
+            "name": ""
+          },
+          {
+            "code": "MFT 6823",
+            "name": ""
+          },
+          {
+            "code": "MFT 6824",
+            "name": ""
+          },
+          {
+            "code": "MFT 6826",
+            "name": ""
+          },
+          {
+            "code": "MFT 6827",
+            "name": ""
+          },
+          {
+            "code": "MFT 6828",
+            "name": ""
+          }
+        ]
+      },
+      "Thesis": {
+        "units": 6,
+        "courses": [
+          {
+            "code": "MFT 6810",
+            "name": ""
+          },
+          {
+            "code": "MFT 6811",
+            "name": ""
+          }
+        ]
+      },
+      "Practicum": {
+        "units": 9,
+        "courses": [
+          {
+            "code": "MFT 6804",
+            "name": ""
+          },
+          {
+            "code": "MFT 6809",
+            "name": ""
+          },
+          {
+            "code": "MFT 6813",
+            "name": ""
+          },
+          {
+            "code": "MFT 6814",
+            "name": ""
+          },
+          {
+            "code": "MFT 6815",
+            "name": ""
+          },
+          {
+            "code": "MFT 6816",
+            "name": ""
+          },
+          {
+            "code": "MFT 6817",
+            "name": ""
+          },
+          {
+            "code": "MFT 6818",
+            "name": ""
+          },
+          {
+            "code": "MFT 6820",
+            "name": ""
+          },
+          {
+            "code": "MFT 6825",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "PSY 1101": "",
+      "PSY 1105": "",
+      "PSY 3110": "",
+      "PSY 3115": ""
+    }
+  },
+  "Master of Arts in Clinical Psychology": {
+    "sections": {},
+    "courses": {
+      "PSY 1101": "",
+      "PSY 1105": "",
+      "PSY 3110": "",
+      "PSY 3115": "",
+      "PSY 6002": "",
+      "PSY 6003": "",
+      "PSY 6110": "",
+      "PSY 6114": "",
+      "PSY 6116": "",
+      "PSY 6216": "",
+      "PSY 6220": "",
+      "PSY 6703": "",
+      "PSY 6704": "",
+      "PSY 6707": "",
+      "PSY 6713": "",
+      "PSY 6717": "",
+      "PSY 6718": "",
+      "PSY 6722": "",
+      "PSY 6771": "",
+      "PSY 6772": "",
+      "PSY 6773": ""
+    }
+  },
+  "Master of Arts in Criminal & Transitional Justice": {
+    "sections": {
+      "Thesis": {
+        "units": 9,
+        "courses": [
+          {
+            "code": "CTJ 6020",
+            "name": ""
+          },
+          {
+            "code": "CTJ 6021",
+            "name": ""
+          }
+        ]
+      },
+      "Electives": {
+        "units": 12,
+        "courses": [
+          {
+            "code": "CTJ 6030",
+            "name": ""
+          },
+          {
+            "code": "CTJ 6031",
+            "name": ""
+          },
+          {
+            "code": "CTJ 6032",
+            "name": ""
+          },
+          {
+            "code": "CTJ 6033",
+            "name": ""
+          },
+          {
+            "code": "CTJ 6034",
+            "name": ""
+          },
+          {
+            "code": "CTJ 6035",
+            "name": ""
+          },
+          {
+            "code": "CTJ 6036",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "PSY 1101": "",
+      "PSY 1105": "",
+      "PSY 3110": "",
+      "PSY 3115": "",
+      "CTJ 6000": "",
+      "CTJ 6001": "",
+      "CTJ 6002": "",
+      "CTJ 6010": "",
+      "CTJ 6011": "",
+      "CTJ 6012": "",
+      "CTJ 6015": "",
+      "CTJ 6016": "",
+      "CTJ 6017": ""
+    }
+  },
+  "Master of Arts in International Relations": {
+    "sections": {},
+    "courses": {
+      "POL 2201": "",
+      "IRL 2000": "",
+      "IRL 4020": ""
+    }
+  },
+  "Master of Arts in Communication Studies": {
+    "sections": {
+      "Strategic Corporate Communications": {
+        "units": 15,
+        "courses": [
+          {
+            "code": "SCC 6110",
+            "name": ""
+          },
+          {
+            "code": "SCC 6130",
+            "name": ""
+          },
+          {
+            "code": "SCC 6140",
+            "name": ""
+          },
+          {
+            "code": "SCC 6160",
+            "name": ""
+          },
+          {
+            "code": "SCC 6170",
+            "name": ""
+          },
+          {
+            "code": "SCC 6110",
+            "name": ""
+          },
+          {
+            "code": "SCC 6120",
+            "name": ""
+          },
+          {
+            "code": "SCC 6140",
+            "name": ""
+          },
+          {
+            "code": "SCC 6160",
+            "name": ""
+          },
+          {
+            "code": "SCC 6170",
+            "name": ""
+          },
+          {
+            "code": "DCM 6110",
+            "name": ""
+          },
+          {
+            "code": "DCM 6120",
+            "name": ""
+          },
+          {
+            "code": "DCM 6130",
+            "name": ""
+          },
+          {
+            "code": "DCM 6160",
+            "name": ""
+          },
+          {
+            "code": "DCM 6170",
+            "name": ""
+          },
+          {
+            "code": "CFD 6110",
+            "name": ""
+          },
+          {
+            "code": "CFD 6120",
+            "name": ""
+          },
+          {
+            "code": "CFD 6130",
+            "name": ""
+          },
+          {
+            "code": "CFD 6140",
+            "name": ""
+          },
+          {
+            "code": "CFD 6170",
+            "name": ""
+          },
+          {
+            "code": "MDS 6110",
+            "name": ""
+          },
+          {
+            "code": "MDS 6120",
+            "name": ""
+          },
+          {
+            "code": "MDS 6140",
+            "name": ""
+          },
+          {
+            "code": "MDS 6160",
+            "name": ""
+          },
+          {
+            "code": "MDS 6170",
+            "name": ""
+          },
+          {
+            "code": "CFD 6160",
+            "name": ""
+          },
+          {
+            "code": "CFD 6150",
+            "name": ""
+          },
+          {
+            "code": "CFD 6180",
+            "name": ""
+          },
+          {
+            "code": "DCM 6140",
+            "name": ""
+          },
+          {
+            "code": "MDS 6130",
+            "name": ""
+          },
+          {
+            "code": "MDS 6190",
+            "name": ""
+          },
+          {
+            "code": "SCC 6130",
+            "name": ""
+          }
+        ]
+      },
+      "Digital Communication": {
+        "units": 15,
+        "courses": [
+          {
+            "code": "DCM 6110",
+            "name": ""
+          },
+          {
+            "code": "DCM 6130",
+            "name": ""
+          },
+          {
+            "code": "DCM 6140",
+            "name": ""
+          },
+          {
+            "code": "DCM 6160",
+            "name": ""
+          },
+          {
+            "code": "DCM 6170",
+            "name": ""
+          }
+        ]
+      },
+      "Communication for Development": {
+        "units": 15,
+        "courses": [
+          {
+            "code": "CFD 6110",
+            "name": ""
+          },
+          {
+            "code": "CFD 6120",
+            "name": ""
+          },
+          {
+            "code": "CFD 6130",
+            "name": ""
+          },
+          {
+            "code": "CFD 6140",
+            "name": ""
+          },
+          {
+            "code": "CFD 6170",
+            "name": ""
+          }
+        ]
+      },
+      "Media Studies \u2013 (ON HOLD)": {
+        "units": 15,
+        "courses": [
+          {
+            "code": "MDS 6110",
+            "name": ""
+          },
+          {
+            "code": "MDS 6120",
+            "name": ""
+          },
+          {
+            "code": "MDS 6140",
+            "name": ""
+          },
+          {
+            "code": "MDS 6160",
+            "name": ""
+          },
+          {
+            "code": "MDS 6170",
+            "name": ""
+          },
+          {
+            "code": "CFD 6160",
+            "name": ""
+          },
+          {
+            "code": "CFD 6180",
+            "name": ""
+          },
+          {
+            "code": "DCM 6120",
+            "name": ""
+          },
+          {
+            "code": "SCC 6120",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "JRN 3004": "",
+      "JRN 3000": "",
+      "JRN 3020": "",
+      "JRN 3911": "",
+      "MAC 6010": "",
+      "MAC 6020": "",
+      "MAC 6030": "",
+      "MAC 6040": "",
+      "MAC 6050": "",
+      "MAC 6060": "",
+      "MAC 6120": "",
+      "MAC 6851": "",
+      "MAC 6852": "",
+      "MAC 6061": "",
+      "MAC 6151": "",
+      "MAC 6152": ""
+    }
+  },
+  "Master of Business Administration (MBA)": {
+    "sections": {
+      "Concentrations": {
+        "units": 18,
+        "courses": [
+          {
+            "code": "FIN 6010",
+            "name": ""
+          },
+          {
+            "code": "FIN 6030",
+            "name": ""
+          },
+          {
+            "code": "FIN 6040",
+            "name": ""
+          },
+          {
+            "code": "FIN 6810",
+            "name": ""
+          },
+          {
+            "code": "GSE 6010",
+            "name": ""
+          },
+          {
+            "code": "GSE 6030",
+            "name": ""
+          },
+          {
+            "code": "GSE 6040",
+            "name": ""
+          },
+          {
+            "code": "GSE 6890",
+            "name": ""
+          },
+          {
+            "code": "BUS 6050",
+            "name": ""
+          },
+          {
+            "code": "MGT 6010",
+            "name": ""
+          },
+          {
+            "code": "MGT 6020",
+            "name": ""
+          },
+          {
+            "code": "MGT 6030",
+            "name": ""
+          },
+          {
+            "code": "MKT 6010",
+            "name": ""
+          },
+          {
+            "code": "MKT 6020",
+            "name": ""
+          },
+          {
+            "code": "MKT 6040",
+            "name": ""
+          },
+          {
+            "code": "MKT 6050",
+            "name": ""
+          },
+          {
+            "code": "BUS 6120",
+            "name": ""
+          },
+          {
+            "code": "BUS 6140",
+            "name": ""
+          },
+          {
+            "code": "BUS 6150",
+            "name": ""
+          },
+          {
+            "code": "GMB 6010",
+            "name": ""
+          },
+          {
+            "code": "GMB 6020",
+            "name": ""
+          },
+          {
+            "code": "GMB 6040",
+            "name": ""
+          },
+          {
+            "code": "GMB 6055",
+            "name": ""
+          },
+          {
+            "code": "GMB 6230",
+            "name": ""
+          },
+          {
+            "code": "MBH 6010",
+            "name": ""
+          },
+          {
+            "code": "MBH 6020",
+            "name": ""
+          },
+          {
+            "code": "MBH 6040",
+            "name": ""
+          },
+          {
+            "code": "MBH 6070",
+            "name": ""
+          },
+          {
+            "code": "GMB 6230",
+            "name": ""
+          }
+        ]
+      },
+      "Electives": {
+        "units": 3,
+        "courses": [
+          {
+            "code": "MDA 6460",
+            "name": ""
+          },
+          {
+            "code": "SDE 6030",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "ACT 6010": "",
+      "BUS 6020": "",
+      "BUS 6035": "",
+      "BUS 6220": "",
+      "BUS 6225": "",
+      "ECO 6010": "",
+      "FIN 6000": "",
+      "MKT 6000": "",
+      "GSE 6000": ""
+    }
+  },
+  "Master of Business Administration in Global Business": {
+    "sections": {},
+    "courses": {}
+  },
+  "Upon completion of the Master of Business": {
+    "sections": {},
+    "courses": {
+      "ACT 6010": "",
+      "BUS 6020": "",
+      "BUS 6035": "",
+      "BUS 6220": "",
+      "BUS 6225": "",
+      "ECO 6010": "",
+      "FIN 6000": "",
+      "MKT 6000": "",
+      "GMB 6010": "",
+      "GMB 6020": "",
+      "GMB 6040": "",
+      "GMB 6055": "",
+      "GMB 6230": "",
+      "MBH 6010": "",
+      "MBH 6020": "",
+      "MBH 6040": "",
+      "MBH 6070": ""
+    }
+  },
+  "Master of Business Administration in in Health Leadership &": {
+    "sections": {},
+    "courses": {}
+  },
+  "Master of Science in Global Banking & Finance": {
+    "sections": {},
+    "courses": {
+      "GBF 6000": "",
+      "FIN 6000": "",
+      "GBF 6010": "",
+      "GBF 6020": "",
+      "GBF 6030": "",
+      "GBF 6040": "",
+      "FIN 6030": "",
+      "GBF 6050": "",
+      "GBF 6060": "",
+      "BUS 6220": "",
+      "GBF 6100": "",
+      "GBF 6110": "",
+      "GBF 6860": "",
+      "GBF 6850": "",
+      "GBF 6851": ""
+    }
+  },
+  "The mission of the Master of Science in Management & Organisational Development program is to": {
+    "sections": {},
+    "courses": {}
+  },
+  "Master of Science in Management & Organisational": {
+    "sections": {},
+    "courses": {
+      "MOD 6000": "",
+      "MOD 6010": "",
+      "MOD 6020": "",
+      "MOD 6035": "",
+      "MOD 6040": "",
+      "MOD 6045": "",
+      "MOD 6050": "",
+      "MOD 6070": "",
+      "MOD 6075": "",
+      "MOD 6080": "",
+      "MOD 6220": "",
+      "MOD 6225": ""
+    }
+  },
+  "Master of Science in Information Systems Technology": {
+    "sections": {
+      "Business Information Systems": {
+        "units": 15,
+        "courses": [
+          {
+            "code": "BIS 6120",
+            "name": ""
+          },
+          {
+            "code": "BIS 6130",
+            "name": ""
+          },
+          {
+            "code": "BIS 6150",
+            "name": ""
+          },
+          {
+            "code": "TMC 6130",
+            "name": ""
+          },
+          {
+            "code": "MIS 6851",
+            "name": ""
+          },
+          {
+            "code": "MIS 6852",
+            "name": ""
+          }
+        ]
+      },
+      "Software Engineering": {
+        "units": 15,
+        "courses": [
+          {
+            "code": "SWE 6110",
+            "name": ""
+          },
+          {
+            "code": "SWE 6120",
+            "name": ""
+          },
+          {
+            "code": "SWE 6130",
+            "name": ""
+          },
+          {
+            "code": "SWE 6140",
+            "name": ""
+          },
+          {
+            "code": "MIS 6851",
+            "name": ""
+          },
+          {
+            "code": "MIS 6852",
+            "name": ""
+          },
+          {
+            "code": "TMC 6110",
+            "name": ""
+          },
+          {
+            "code": "TMC 6120",
+            "name": ""
+          },
+          {
+            "code": "TMC 6130",
+            "name": ""
+          },
+          {
+            "code": "TMC 6140",
+            "name": ""
+          },
+          {
+            "code": "MIS 6851",
+            "name": ""
+          },
+          {
+            "code": "MIS 6852",
+            "name": ""
+          }
+        ]
+      },
+      "Internet Security and Cybercrime": {
+        "units": 15,
+        "courses": [
+          {
+            "code": "ISC 6110",
+            "name": ""
+          },
+          {
+            "code": "ISC 6120",
+            "name": ""
+          },
+          {
+            "code": "ISC 6130",
+            "name": ""
+          },
+          {
+            "code": "ISC 6140",
+            "name": ""
+          },
+          {
+            "code": "MIS 6851",
+            "name": ""
+          },
+          {
+            "code": "MIS 6852",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "MIS 6010": "",
+      "MIS 6020": "",
+      "MIS 6030": "",
+      "MIS 6040": "",
+      "MIS 6050": "",
+      "MIS 6060": "",
+      "MIS 6070": "",
+      "MIS 6120": "",
+      "MIS 6130": "",
+      "MIS 6140": "",
+      "MIS 6160": "",
+      "MIS 6220": ""
+    }
+  },
+  "Master of Science in Information Security": {
+    "sections": {},
+    "courses": {
+      "ISC 6110": "",
+      "ISC 6125": "",
+      "ISC 6140": "",
+      "ISC 6210": "",
+      "ISC 6220": "",
+      "ISC 6230": "",
+      "ISC 6310": "",
+      "ISC 6320": "",
+      "ISC 6330": "",
+      "ISR 6410": "",
+      "ISR 6420": "",
+      "ISC 6430": "",
+      "ISR 6890": "",
+      "ISR 6892": "",
+      "ISR 6894": "",
+      "ISE 6440": "",
+      "ISE 6450": ""
+    }
+  },
+  "Master of Science in Clinical Pharmacology and Therapeutics": {
+    "sections": {},
+    "courses": {
+      "PHM 6511": "",
+      "PHM 6512": "",
+      "PHM 6513": "",
+      "PHM 6521": "",
+      "PHM 6422": "",
+      "PHM 6522": "",
+      "PHM 6523": "",
+      "PHM 6531": "",
+      "PHM 6432": "",
+      "PHM 6433": "",
+      "PHM 6541": "",
+      "PHM 6542": "",
+      "PHM 6551": "",
+      "PHM 6561": "",
+      "PHM 6543": "",
+      "PHM 6544": ""
+    }
+  },
+  "a health-related field, specifically: Bachelor of": {
+    "sections": {},
+    "courses": {}
+  },
+  "Pharmacy (BPharm), MBChB, Doctor of Pharmacy": {
+    "sections": {},
+    "courses": {}
+  },
+  "(PharmD), Doctor of Dental Medicine (DDM), Doctor": {
+    "sections": {},
+    "courses": {}
+  },
+  "Doctor of Business Administration (DBA)": {
+    "sections": {},
+    "courses": {}
+  },
+  "the Doctor of Business Administration program\u2019s": {
+    "sections": {},
+    "courses": {
+      "DBA 7000": "",
+      "DBA 7010": "",
+      "DBA 7020": "",
+      "DBA 7030": "",
+      "DBA 7040": "",
+      "DBA 7050": "",
+      "DBA 7060": "",
+      "DBA 7070": "",
+      "FIN 7000": "",
+      "FIN 7010": "",
+      "MGT 7000": "",
+      "MGT 7010": "",
+      "LED 7000": "",
+      "LED 7010": ""
+    }
+  },
+  "Doctor of Psychology (Psy D.) in Clinical Psychology": {
+    "sections": {},
+    "courses": {
+      "PSY 7701": "",
+      "PSY 7703": "",
+      "PSY 7708": "",
+      "PSY 7709": "",
+      "PSY 7714": "",
+      "PSY 7716": "",
+      "PSY 7717": "",
+      "PSY 7718": "",
+      "PSY 7719": "",
+      "PSY 7720": "",
+      "PSY 7721": "",
+      "PSY 7722": "",
+      "PSY 7723": "",
+      "PSY 7724": "",
+      "PSY 7725": "",
+      "PSY 7726": "",
+      "PSY 7727": "",
+      "PSY 7729": "",
+      "PSY 7730": "",
+      "PSY 7734": "",
+      "PSY 7736": "",
+      "PSY 7737": "",
+      "PSY 7748": "",
+      "PSY 7731": "",
+      "PSY 7732": "",
+      "PSY 7733": "",
+      "PSY 7735": "",
+      "PSY 7741": "",
+      "PSY 7742": "",
+      "PSY 7743": "",
+      "PSY 7760": "",
+      "PSY 7761": "",
+      "PSY 7751": "",
+      "PSY 7752": "",
+      "PSY 7753": "",
+      "PSY 7754": "",
+      "PSY 7755": "",
+      "PSY 7756": "",
+      "PSY 7757": ""
+    }
+  },
+  "Doctor of Philosophy in International Relations": {
+    "sections": {},
+    "courses": {
+      "IRL 7001": "",
+      "IRL 7002": "",
+      "IRL 7004": "",
+      "IRL 7005": "",
+      "IRL 7007": "",
+      "IRL 7008": "",
+      "IRL 7009": "",
+      "IRL 7011": "",
+      "IRL 7012": "",
+      "IRL 7013": "",
+      "IRL 7015": "",
+      "IRL 7016": "",
+      "IRL 7003": "",
+      "IRL 7006": "",
+      "IRL 7010": "",
+      "IRL 7014": "",
+      "IRL 7017": "",
+      "IRL 7018": "",
+      "IRL 7019": "",
+      "IRL 7900": ""
+    }
+  },
+  "Doctor of Philosophy in Information Systems and Technology": {
+    "sections": {},
+    "courses": {
+      "PIS 8110": "",
+      "PIS 8120": "",
+      "PIS 8130": "",
+      "PIS 8140": "",
+      "PIS 8150": "",
+      "PIS 8160": "",
+      "PIS 8170": "",
+      "PIS 8180": "",
+      "PIS 8190": "",
+      "PIS 8210": "",
+      "PIS 8220": "",
+      "PIS 8230": "",
+      "PIS 8240": "",
+      "PIS 8250": "",
+      "PIS 8310": "",
+      "PIS 8320": "",
+      "PIS 8330": ""
+    }
+  },
+  "Master of Science in Data Science and Analytics (Online only)": {
+    "sections": {
+      "CONCENTRATIONS": {
+        "units": 15,
+        "courses": [
+          {
+            "code": "MDA 6410",
+            "name": ""
+          },
+          {
+            "code": "MTH 6420",
+            "name": ""
+          },
+          {
+            "code": "MDA 6430",
+            "name": ""
+          },
+          {
+            "code": "STA 6510",
+            "name": ""
+          },
+          {
+            "code": "MTH 6520",
+            "name": ""
+          },
+          {
+            "code": "MDA 6410",
+            "name": ""
+          },
+          {
+            "code": "MTH 6420",
+            "name": ""
+          },
+          {
+            "code": "MDA 6430",
+            "name": ""
+          },
+          {
+            "code": "MDA 6450",
+            "name": ""
+          },
+          {
+            "code": "MDA 6530",
+            "name": ""
+          },
+          {
+            "code": "MDA 6460",
+            "name": ""
+          },
+          {
+            "code": "MDA 6470",
+            "name": ""
+          },
+          {
+            "code": "MDA 6480",
+            "name": ""
+          },
+          {
+            "code": "MDA 6550",
+            "name": ""
+          },
+          {
+            "code": "MDA 6560",
+            "name": ""
+          }
+        ]
+      }
+    },
+    "courses": {
+      "MDA 5110": "",
+      "MDA 5120": "",
+      "MDA 5130": "",
+      "MDA 5140": "",
+      "STA 6110": "",
+      "MTH 6120": "",
+      "STA 6130": "",
+      "MDA 6210": "",
+      "STA 6220": "",
+      "STA 6230": "",
+      "MDA 6310": "",
+      "MDA 6320": "",
+      "MDA 6330": "",
+      "MDA 6570": "",
+      "MDA 6610": ""
+    }
+  },
+  "The mission of the Master of Arts in Communication Studies program is to advance knowledge through": {
+    "sections": {},
+    "courses": {}
+  },
+  "Master of Business Administration": {
+    "sections": {},
+    "courses": {
+      "MBA 6000": "",
+      "MBA 6010": "",
+      "MBA 6020": "",
+      "MBA 6030": "",
+      "MBA 6040": "",
+      "MBA 6050": "",
+      "MBA 6060": "",
+      "MBA 6070": "",
+      "MBA 6080": "",
+      "MBA 6090": "",
+      "MBA 6100": "",
+      "MBA 6110": "",
+      "MBA 6120": "",
+      "MBA 6130": "",
+      "MBA 6131": ""
+    }
+  },
+  "\u2022\t Bachelor of Global Leadership and Governance": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022\t Master of Business Administration (MBA)": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022\t Online Master of Business Administration (Online": {
+    "sections": {},
+    "courses": {}
+  },
+  "\u2022\t Doctor of Business Administration (DBA)": {
+    "sections": {},
+    "courses": {
+      "BUS 1010": ""
+    }
+  },
+  "DBA: Doctor of Business Administration": {
+    "sections": {},
+    "courses": {
+      "BUS 6020": ""
+    }
+  },
+  "MOD: Master of Science in Organisational Development": {
+    "sections": {
+      "Credit": {
+        "units": 3,
+        "courses": []
+      }
+    },
+    "courses": {}
+  },
+  "Louisiana, USA , Doctor of Business Administration,": {
+    "sections": {},
+    "courses": {}
+  },
+  "Bachelor of  Education (Arts) Mathematics and": {
+    "sections": {},
+    "courses": {}
+  },
+  "Bachelor of Architecture, University of Nairobi (K),": {
+    "sections": {},
+    "courses": {}
+  },
+  "Bachelor of Education: Kenyatta University,": {
+    "sections": {},
+    "courses": {}
+  },
+  "Master of Urban and Regional Planning, Master": {
+    "sections": {},
+    "courses": {}
+  }
+}

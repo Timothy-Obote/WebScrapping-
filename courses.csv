@@ -1,0 +1,816 @@
+program,code,name
+Bachelor of Arts in Animation,ANM 1010,History of Film Animation
+Bachelor of Arts in Animation,ANM 1020,Fundamentals of Animation
+Bachelor of Arts in Animation,ANM 1030,Introduction to Drawing
+Bachelor of Arts in Animation,ANM 1040,Character Design
+Bachelor of Arts in Animation,ANM 1050,Cinema and Television Equipment
+Bachelor of Arts in Animation,ANM 1060,Illustration and Environment Design
+Bachelor of Arts in Animation,ANM 1070,The Art of the Storyboard and
+Bachelor of Arts in Animation,ANM 2010,Fundamentals of Scripting for
+Bachelor of Arts in Animation,ANM 2020,Introduction to 2D and 3D Animation
+Bachelor of Arts in Animation,ANM 2040,Acting for Animators
+Bachelor of Arts in Animation,ANM 2050,Camera Language and
+Bachelor of Arts in Animation,ANM 2070,Theoretical Perspectives in Film and
+Bachelor of Arts in Animation,ANM 2080,Composition and Sound Design for
+Bachelor of Arts in Animation,ANM 2090,Theories of Popular Media and Art
+Bachelor of Arts in Animation,ANM 3000,Fundamentals of Compositing
+Bachelor of Arts in Animation,ANM 3010,Storyboarding and the Script
+Bachelor of Arts in Animation,ANM 3015,Character Rigging
+Bachelor of Arts in Animation,ANM 3040,Law & Ethics in the Animation
+Bachelor of Arts in Animation,ANM 3060,The Business of Animation Content
+Bachelor of Arts in Animation,ANM 4015,Aesthetics of the African Story
+Bachelor of Arts in Animation,ANM 4050,Advanced Scripting for Animation
+Bachelor of Arts in Animation,ANM 4060,Senior Project and Portfolio
+Bachelor of Arts in Animation,ANM 4910,Internship
+Bachelor of Arts in Animation,ANM 4020,3D Environment and Effects
+Bachelor of Arts in Animation,ANM 4030,Advanced 3D Animation
+Bachelor of Arts in Animation,ANM 4035,Advanced 2D Computer Animation
+Bachelor of Arts in Animation,ANM 4045,3D Modeling & Design Methods
+Bachelor of Arts in Animation,ANM 4055,Digital Effects for Film and Television
+Bachelor of Arts in Animation,ANM 4080,Interactive Design
+Bachelor of Arts in Animation,ANM 4082,Virtual and Augmented Design
+Bachelor of Arts in Animation,ANM 4085,Gaming Environment Design
+Bachelor of Arts in Animation,ANM 4090,Artificial Intelligence in Gaming
+Bachelor of Arts in Animation,ANM 4092,Game Programming
+Bachelor of Arts in Film Production & Directing,FLA 1005,History of Film & Video
+Bachelor of Arts in Film Production & Directing,FLA 1010,Fundamentals of Photography &
+Bachelor of Arts in Film Production & Directing,FLA 1015,Fundamental of Scripting
+Bachelor of Arts in Film Production & Directing,FLA 1020,Film and Video Production
+Bachelor of Arts in Film Production & Directing,SND 1005,History &Theory of Sound for Film &
+Bachelor of Arts in Film Production & Directing,FLA 1030,Fundamentals of Film Editing
+Bachelor of Arts in Film Production & Directing,FLA 1035,Introduction to Production Design
+Bachelor of Arts in Film Production & Directing,FLA 1040,Camera Operation Techniques and
+Bachelor of Arts in Film Production & Directing,CIN  2005,Visual Production Design
+Bachelor of Arts in Film Production & Directing,FLA 2010,"The Business of Film, Culture and"
+Bachelor of Arts in Film Production & Directing,FLA 2015,Fundamentals of Film Directing
+Bachelor of Arts in Film Production & Directing,SND 2010,Sound Physics
+Bachelor of Arts in Film Production & Directing,FLA 2020,Principles of Writing for Dramatic
+Bachelor of Arts in Film Production & Directing,FLA 2025,World Approaches to Film
+Bachelor of Arts in Film Production & Directing,FLA 2030,Entertainment Law & Ethics of Film
+Bachelor of Arts in Film Production & Directing,FLA 2035,Film Theory and Criticism
+Bachelor of Arts in Film Production & Directing,SND 3005,Sound Mixing
+Bachelor of Arts in Film Production & Directing,PRD 3005,The Art of the Pitch
+Bachelor of Arts in Film Production & Directing,SND 3010,Sound Script Analysis and Project
+Bachelor of Arts in Film Production & Directing,PRD 4020,Costume and Makeup for Film
+Bachelor of Arts in Film Production & Directing,PRD 4010,Producing: From Green Light to
+Bachelor of Arts in Film Production & Directing,PRD 4910,Internship in Film Production
+Bachelor of Arts in Film Production & Directing,CIN 3005,Advanced Colour Theory and Colour
+Bachelor of Arts in Film Production & Directing,CIN 3010,Shooting the Master Scene
+Bachelor of Arts in Film Production & Directing,CIN 3015,Visual Effects and Green Screen
+Bachelor of Arts in Film Production & Directing,CIN 4005,Studio production
+Bachelor of Arts in Film Production & Directing,PRD 4005,Screen Acting
+Bachelor of Arts in Film Production & Directing,SCR 3005,Screen writing: Characters & Genres
+Bachelor of Arts in Film Production & Directing,SCR 3010,Writing for the Short Film
+Bachelor of Arts in Film Production & Directing,SCR 3015,Writing for Television Drama
+Bachelor of Arts in Film Production & Directing,SCR 4005,Feature Film Writing
+Bachelor of Arts in Film Production & Directing,PRD 4005,Screen Acting Cinematography
+Bachelor of Arts in Film Production & Directing,CIN 3005,Advanced Colour Theory and Colour
+Bachelor of Arts in Film Production & Directing,CIN 3010,Shooting the Master Scene
+Bachelor of Arts in Film Production & Directing,CIN 3015,Visual Effects and Green Screen
+Bachelor of Arts in Film Production & Directing,CIN 4005,Studio production
+Bachelor of Arts in Film Production & Directing,PRD 4005,Screen Acting
+Bachelor of Arts in Film Production & Directing,EDT 3005,Sound and VFX for Film and Video
+Bachelor of Arts in Film Production & Directing,EDT 3010,Advanced Colour Theory and Colour
+Bachelor of Arts in Film Production & Directing,EDT 3015,After Effects
+Bachelor of Arts in Film Production & Directing,EDT 4005,Editing the Narrative
+Bachelor of Arts in Film Production & Directing,PRD 4005,Screen Acting
+Bachelor of Arts in Film Production & Directing,DIR 3005,Art Direction and Production Design
+Bachelor of Arts in Film Production & Directing,DIR 3010,Directing Actors
+Bachelor of Arts in Film Production & Directing,DIR 3015,Location and Studio Directing
+Bachelor of Arts in Film Production & Directing,DIR 4005,Directing the Master Scene
+Bachelor of Arts in Film Production & Directing,PRD 4005,Screen Acting
+Bachelor of Arts in International Relations,ECO 1010,Principles of Microeconomics
+Bachelor of Arts in International Relations,ECO 1020,Principles of Macroeconomics
+Bachelor of Arts in International Relations,IRL 3010,Development Issues in Africa
+Bachelor of Arts in International Relations,IRL 3045,Politics of Regionalism in Africa
+Bachelor of Arts in International Relations,IRL 4151,Field Study (WI)
+Bachelor of Arts in International Relations,IRL 2100,Introduction to Human Rights
+Bachelor of Arts in International Relations,IRL 2220,Gender and IR
+Bachelor of Arts in International Relations,IRL 4035,Environmental Politics
+Bachelor of Arts in International Relations,IRL 4150,Area Studies
+Bachelor of Arts in International Relations,IRL 4220,Refugee Studies
+Bachelor of Arts in International Relations,IRL 4811,Critical Issues in Africa
+Bachelor of Arts in International Relations,IRL 3100,Diplomacy
+Bachelor of Arts in International Relations,IRL 3110,Simulation Exercise (OI)
+Bachelor of Arts in International Relations,IRL 3200,Negotiation & Mediation
+Bachelor of Arts in International Relations,IRL 4120,International Humanitarian Law
+Bachelor of Arts in International Relations,IRL 4040,Africa � Asia Relations
+Bachelor of Arts in International Relations,IRL 4055,Africa � Middle East Relations
+Bachelor of Arts in International Relations,IRL 4050,U.S./Africa Relations
+Bachelor of Arts in International Relations,IRL 4065,East Africa in World Affairs
+Bachelor of Arts in International Relations,IRL 4035,Environmental Politics
+Bachelor of Arts in International Relations,IRL 4151,Field Study (WI)
+Bachelor of Arts in International Relations,IRL 4800,Critical Issues in Kenyan Foreign
+Bachelor of Arts in International Relations,IRL 2000,Foundations of International
+Bachelor of Arts in International Relations,IRL 2005,Comparative Foreign Policy
+Bachelor of Arts in International Relations,IRL 2010,International Organisations
+Bachelor of Arts in International Relations,POL 2201,Introduction to Political Science
+Bachelor of Arts in International Relations,IRL 3015,Introduction to Peace & Conflict
+Bachelor of Arts in International Relations,IRL 3200,Negotiation & Mediation
+Bachelor of Arts in International Relations,IRL 4001,Regional Conflicts in Africa
+Bachelor of Arts in International Relations,IRL 4151,Field Study (WI)
+Bachelor of Arts in International Relations,IRL 4010,Geopolitics
+Bachelor of Arts in International Relations,IRL 4045,Security Studies & Strategies
+Bachelor of Arts in International Relations,IRL 4035,Environmental Politics
+Bachelor of Arts in International Relations,IRL 4120,International Humanitarian Law
+Bachelor of Arts in International Relations,IRL 4220,Refugee Studies
+Bachelor of Arts in International Relations,IRL 4850,Studies in Contemporary
+Bachelor of Arts in International Relations,IRL 3000,Comparative Political Systems (ILI)
+Bachelor of Arts in International Relations,IRL 3003,Research Methods in IR (WI)
+Bachelor of Arts in International Relations,IRL 3005,Contemporary Theories & Ideologies
+Bachelor of Arts in International Relations,IRL 3021,African Philosophy & Ideologies
+Bachelor of Arts in International Relations,IRL 3060,African International Relations
+Bachelor of Arts in International Relations,IRL 4020,International Law (OI)
+Bachelor of Arts in International Relations,IRL 4030,International Political Economy (ILI)
+Bachelor of Arts in International Relations,IRL 4075,Mechanism of International
+Bachelor of Arts in International Relations,IRL 4900,International Relations Project (WI)
+Bachelor of Arts in International Relations,IRL 4910,International Relations Senior
+Bachelor of Arts in Journalism,JRN 3020,Development Journalism
+Bachelor of Arts in Journalism,JRN 4025,Creative Writing
+Bachelor of Arts in Journalism,JRN 3026,Gender Reporting
+Bachelor of Arts in Journalism,JRN 4027,Documentary Production
+Bachelor of Arts in Journalism,JRN 4029,Radio Production II
+Bachelor of Arts in Journalism,JRN 4030,Television and Video Production II
+Bachelor of Arts in Journalism,JRN 3016,Public Speaking
+Bachelor of Arts in Journalism,JRN 4037,Advertising and Creative Strategy
+Bachelor of Arts in Journalism,JRN 4050,Advertising Planning and Placement
+Bachelor of Arts in Journalism,JRN 1100,Introduction to Broadcast Media
+Bachelor of Arts in Journalism,JRN 1106,History and Theory of Public
+Bachelor of Arts in Journalism,JRN 1109,Introduction to Mass
+Bachelor of Arts in Journalism,JRN 2004,Public Relations Writing
+Bachelor of Arts in Journalism,JRN 2103,Fundamentals of Photography
+Bachelor of Arts in Journalism,JRN 2106,Principles of Broadcasting
+Bachelor of Arts in Journalism,JRN 2107,Writing for Broadcast Media
+Bachelor of Arts in Journalism,JRN 2202,Introduction to Print Media
+Bachelor of Arts in Journalism,JRN 2223,Theories of Mass Communication
+Bachelor of Arts in Journalism,JRN 3000,News Reporting and Writing
+Bachelor of Arts in Journalism,JRN 3003,Media Law
+Bachelor of Arts in Journalism,JRN 3004,Media Ethics
+Bachelor of Arts in Journalism,JRN 3006,International Mass Media
+Bachelor of Arts in Journalism,JRN 3015,Media Management
+Bachelor of Arts in Journalism,JRN 3024,Communication Research
+Bachelor of Arts in Journalism,JRN 3027,New Media Production
+Bachelor of Arts in Journalism,JRN 3029,Media Studies
+Bachelor of Arts in Journalism,JRN 4900,Project OR
+Bachelor of Arts in Journalism,JRN 4910,Internship OR
+Bachelor of Arts in Journalism,JRN 4911,Media Tour Experience
+Bachelor of Arts in Journalism,JRN 3002,Introduction to News Editing
+Bachelor of Arts in Journalism,JRN 3020,Development Journalism
+Bachelor of Arts in Journalism,JRN 3301,Feature Writing
+Bachelor of Arts in Journalism,JRN 3922,Photojournalism
+Bachelor of Arts in Journalism,JRN 4031,Print Media Production
+Bachelor of Arts in Journalism,JRN 4401,Editorial Writing
+Bachelor of Arts in Journalism,JRN 3010,Television & Video Production I
+Bachelor of Arts in Journalism,JRN 3012,Broadcast Presentation
+Bachelor of Arts in Journalism,JRN 3013,Broadcast Journalism
+Bachelor of Arts in Journalism,JRN 3321,Radio Production I
+Bachelor of Arts in Journalism,JRN 4013,Broadcast Screenwriting
+Bachelor of Arts in Journalism,JRN 4030,Television and Video Production II
+Bachelor of Arts in Journalism,JRN 2109,History & Theory of Advertising
+Bachelor of Arts in Journalism,JRN 3018,Organisational Communication
+Bachelor of Arts in Journalism,JRN 3901,Principles of Advertising
+Bachelor of Arts in Journalism,JRN 3911,Principles of Public Relations
+Bachelor of Arts in Journalism,JRN 4033,Advertising content & Media
+Bachelor of Arts in Journalism,JRN 4037,Advertising and Creative Strategy
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 2212,Sociology of Gender
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 2215,Sociology of Religion
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 2216,Sociology of Education
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3305,Deviant Behavior
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3313,Political Sociology
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3314,Environmental Sociology
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3316,Sociology of Development
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3321,Race and Ethnic Relations
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3323,Social Demography
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 4412,Collective Behavior and Social
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 4415,Sociology of Law
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 4419,Sociology of Mass Communication
+Bachelor of Arts in Sociology (Double Major) (On hold),BUS 1010,Introduction to Business
+Bachelor of Arts in Sociology (Double Major) (On hold),CJS 2211,Community and Social Justice
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 1171,Introduction to Health Psychology
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 2125,Human Sexuality
+Bachelor of Arts in Sociology (Double Major) (On hold),COM 3000,Organizational Communication
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 3010,Development Issues in Africa
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 1101,Basic Sociological Concepts and
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 1102,The Social Structure of Society
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3302,Classical Sociological Theory
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3303,Social Research Method
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 4401,Modern Sociological Theory
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 2207,The Concepts of Health and
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 2209,Social Problems
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 2212,Sociology of Gender
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 2213,Sociology of the Family
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 2217,Social Inequality
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3305,Deviant Behavior
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3317,Social Conflict and Resolution
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3319,Sociology of Work and
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3320,Urban Sociology
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 4412,Collective Behavior and Social
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 4414,Rural Sociology
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 4415,Sociology of Law
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 4419,Sociology of Mass Communication
+Bachelor of Arts in Sociology (Double Major) (On hold),HIS 3015,20th Century Eastern Africa
+Bachelor of Arts in Sociology (Double Major) (On hold),HIS 3025,"History of Kenya (WI, OI)"
+Bachelor of Arts in Sociology (Double Major) (On hold),HIS 4120,African Economic History Since
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 3010,Development Issues in Africa
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 3021,Hunger and Development in Africa
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 3060,African International Relations
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 4001,Regional Conflict in Africa
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 4050,U.S. � Africa Relations
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 3040,Politics in Africa
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 4065,U.S. � East Africa Relations
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 4281,East Africa and the Indian Sub-
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 4811,Critical Issues in Africa Literature
+Bachelor of Arts in Sociology (Double Major) (On hold),LIT 4785,African Authors Seminar Philosophy
+Bachelor of Arts in Sociology (Double Major) (On hold),PHL 4230,African Philosophy
+Bachelor of Arts in Sociology (Double Major) (On hold),ARB 2000,Intermediate Arabic I
+Bachelor of Arts in Sociology (Double Major) (On hold),ARB 3000,Advanced Grammar and
+Bachelor of Arts in Sociology (Double Major) (On hold),ARB 3001,Arabic Culture and Civilization
+Bachelor of Arts in Sociology (Double Major) (On hold),ARB 3002,Contemporary History of the Arabic
+Bachelor of Arts in Sociology (Double Major) (On hold),ARB 3003,Arabic Literature 1 (Pre-Islamic)
+Bachelor of Arts in Sociology (Double Major) (On hold),ARB 3004,Arabic Literature II (Islamic/
+Bachelor of Arts in Sociology (Double Major) (On hold),ARB 3005,Arabic Literature III
+Bachelor of Arts in Sociology (Double Major) (On hold),ARB 4000,Arabic-Islamic Thought I
+Bachelor of Arts in Sociology (Double Major) (On hold),ARB 4001,Arabic-Islamic Thought II
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 1185,Introduction to Chemical
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 2181,Psychopharmacology and Addiction
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 2182,Treatment Methods and Modalities of
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 2183,Theories and Techniques of
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3181,Trends and Issues in Chemical
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3182,Group and Family Counseling with
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 4181,Field work in Chemical Dependency
+Bachelor of Arts in Sociology (Double Major) (On hold),CHI 2000,Intermediate Chinese I
+Bachelor of Arts in Sociology (Double Major) (On hold),CHI 3000,Advanced Grammar & Composition I
+Bachelor of Arts in Sociology (Double Major) (On hold),CHI 3001,Advanced Grammar& Composition II
+Bachelor of Arts in Sociology (Double Major) (On hold),CHI 3002,Ancient China: Culture & Civilization
+Bachelor of Arts in Sociology (Double Major) (On hold),CHI 3003,Modern China: Culture & Civilization
+Bachelor of Arts in Sociology (Double Major) (On hold),CHI 3004,Advanced Business Chinese
+Bachelor of Arts in Sociology (Double Major) (On hold),CHI 4000,Advanced Chinese Reading &
+Bachelor of Arts in Sociology (Double Major) (On hold),CHI 4001,Advanced Chinese Reading &
+Bachelor of Arts in Sociology (Double Major) (On hold),PHL 1104,"Introduction to Philosophy (WI, OI)"
+Bachelor of Arts in Sociology (Double Major) (On hold),PHL 3306,Comparative Philosophy
+Bachelor of Arts in Sociology (Double Major) (On hold),PHL 3307,Major Movements in U.S. Philosophy
+Bachelor of Arts in Sociology (Double Major) (On hold),PHL 3309,Major Figures in Philosophy
+Bachelor of Arts in Sociology (Double Major) (On hold),PHL 3310,"Ethics and Value Theory (WI, OI)"
+Bachelor of Arts in Sociology (Double Major) (On hold),PHL 3500,Epistemology and Gender
+Bachelor of Arts in Sociology (Double Major) (On hold),PHL 4220,Asian Philosophy
+Bachelor of Arts in Sociology (Double Major) (On hold),CJS 1101,Introduction to Criminal Justice
+Bachelor of Arts in Sociology (Double Major) (On hold),CJS 1103,Juvenile Justice
+Bachelor of Arts in Sociology (Double Major) (On hold),CJS 2201,Criminal Law
+Bachelor of Arts in Sociology (Double Major) (On hold),CJS 2202,Criminal Procedure
+Bachelor of Arts in Sociology (Double Major) (On hold),CJS 2204,Corrections and Punishment
+Bachelor of Arts in Sociology (Double Major) (On hold),CJS 3303,Victimology
+Bachelor of Arts in Sociology (Double Major) (On hold),CJS 3307,Comparative Criminal Justice
+Bachelor of Arts in Sociology (Double Major) (On hold),CJS 3309,Terrorism and International Security
+Bachelor of Arts in Sociology (Double Major) (On hold),CJS 4120,Criminal Evidence
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 2205,The Family in the United States
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3310,Family and kinship in a multicultural
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3150,Courtship and Marriage
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3160,Introduction to Marriage and Family
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3182,Group and Family Counseling with
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 2000,Intermediate French I
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 3000,Advanced Grammar & Composition
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 3001,French Culture and Civilization
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 3002,Contemporary French History
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 3003,Literature in France I (France)
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 3004,Literature in France II (French-African
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 3005,Literature in French III (French-
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 4000,Francophone Culture and Civilization
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 4001,Contemporary Francophone History
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 4002,Literature in Francophone Nations I
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 4003,Literature in Francophone Nations II
+Bachelor of Arts in Sociology (Double Major) (On hold),FRN 4004,French and Francophone Film
+Bachelor of Arts in Sociology (Double Major) (On hold),GNS 2000,Introduction to Gender Studies
+Bachelor of Arts in Sociology (Double Major) (On hold),GNS 2001,"Communication and Gender (WI, OI)"
+Bachelor of Arts in Sociology (Double Major) (On hold),GNS 3001,Women and Men in Cross-Cultural
+Bachelor of Arts in Sociology (Double Major) (On hold),GNS 4800,Seminar: Male and Female Creativity
+Bachelor of Arts in Sociology (Double Major) (On hold),HIS 3005,History of Women & Men in the U.S.
+Bachelor of Arts in Sociology (Double Major) (On hold),PHL 3500,Epistemology and Gender
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 2125,Human Sexuality
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3310,Family and Kinship in a Multicultural
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 1171,Introduction to Health Psychology
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3171,Social Psychology of Health Care
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3172,"Understanding Grief, Loss and"
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 4171,Behavioral Health Therapy
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 4172,HIV � AIDS Testing and Counseling
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3142,Introduction to Industrial and
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3143,Psychology at Work I: Measuring
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 4142,Psychology at Work II: Prediction and
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 4143,Social Psychology in an
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 4144,Communication and Leadership
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 2000,Foundations of International
+Bachelor of Arts in Sociology (Double Major) (On hold),IRL 2010,International Organizations
+Bachelor of Arts in Sociology (Double Major) (On hold),POL 2201,Introduction to Political Science
+Bachelor of Arts in Sociology (Double Major) (On hold),JPN 2000,Intermediate Japanese I
+Bachelor of Arts in Sociology (Double Major) (On hold),JPN 3000,Intermediate Japanese II
+Bachelor of Arts in Sociology (Double Major) (On hold),JPN 4000,Advanced Japanese I
+Bachelor of Arts in Sociology (Double Major) (On hold),JPN 4001,Advanced Japanese II
+Bachelor of Arts in Sociology (Double Major) (On hold),JPN 4002,Japanese Culture and Civilization
+Bachelor of Arts in Sociology (Double Major) (On hold),LIT 1106,African Fiction: Introduction to
+Bachelor of Arts in Sociology (Double Major) (On hold),LIT 2220,"Literature and Culture (WI, OI)"
+Bachelor of Arts in Sociology (Double Major) (On hold),LIT 3340,"Myths, Rituals and Archetypes"
+Bachelor of Arts in Sociology (Double Major) (On hold),LIT 3351,Masterpieces of World Literature:
+Bachelor of Arts in Sociology (Double Major) (On hold),LIT 4785,"African Authors Seminar (WI, OI)"
+Bachelor of Arts in Sociology (Double Major) (On hold),LIT 4815,Oral Literature
+Bachelor of Arts in Sociology (Double Major) (On hold),LIT 4825,Contemporary Literary Critical
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 1101,Introduction to Psychology
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 1105,Developmental Psychology
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3110,Psychology of Personality
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 3115,Abnormal Psychology
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 2125,Human Sexuality
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 2105,Social Psychology
+Bachelor of Arts in Sociology (Double Major) (On hold),PSY 2120,Psychology of Learning
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 2201,Introduction to Sociology
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3301,Social Problems
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3305,Deviant Behavior
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3310,Family & Kinship in a Multicultural
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3315,Sociology of intercultural Relations
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 3500,Social Conflict and Resolution
+Bachelor of Arts in Sociology (Double Major) (On hold),SOC 4025,Perspectives on the Future of Human
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 2000,Intermediate Spanish I
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 3000,Advanced Grammar and
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 3001,Spanish Culture and Civilization
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 3002,Contemporary Spanish History
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 3003,Spanish Literature I
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 3004,Spanish Literature II
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 3005,Spanish Literature III
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 4000,Latin American Culture and
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 4001,Contemporary Latin American
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 4002,Latin American Literature I
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 4003,Latin American Literature II
+Bachelor of Arts in Sociology (Double Major) (On hold),SPN 4004,Spanish and Latin
+Bachelor of Arts in Sociology (Double Major) (On hold),SWA 2000,Intermediate Swahili I
+Bachelor of Arts in Sociology (Double Major) (On hold),SWA 3000,Advanced Grammar & Composition
+Bachelor of Arts in Sociology (Double Major) (On hold),SWA 3001,Culture and Civilization of Swahili-
+Bachelor of Arts in Sociology (Double Major) (On hold),SWA 4000,Classical and Modern Swahili
+Bachelor of Arts in Sociology (Double Major) (On hold),SWA 4001,Political Terminology
+Bachelor of Science in Accounting,FIN 4130,Financial Analysis and Reporting
+Bachelor of Science in Accounting,FIN 4030,Investments
+Bachelor of Science in Accounting,ACT 4130,Forensic Accounting
+Bachelor of Science in Accounting,ACT 1010,Principles of Accounting I
+Bachelor of Science in Accounting,ACT 2010,Principles of Accounting II
+Bachelor of Science in Accounting,BUS 1010,Introduction to Business
+Bachelor of Science in Accounting,BUS 2020,Business Communications
+Bachelor of Science in Accounting,ECO 1010,Principles of Micro
+Bachelor of Science in Accounting,ECO 1020,Principles of Macro Economics
+Bachelor of Science in Accounting,ACT 3010,Accounting Information Systems
+Bachelor of Science in Accounting,ACT 4010,Managerial Accounting
+Bachelor of Science in Accounting,ACT 4040,Cost Accounting
+Bachelor of Science in Accounting,ACT 4050,International Accounting
+Bachelor of Science in Accounting,ACT 4060,Taxation I
+Bachelor of Science in Accounting,ACT 4071,Principles of Auditing
+Bachelor of Science in Accounting,ACT 4120,Auditing & Investigations
+Bachelor of Science in Accounting,ACT 4131,Public Sector Accounting
+Bachelor of Science in Accounting,BUS 3010,Business Law
+Bachelor of Science in Accounting,BUS 3030,Business Statistics
+Bachelor of Science in Accounting,BUS 4030,Quantitative Methods
+Bachelor of Science in Accounting,BUS 4070,Business Values and Ethics
+Bachelor of Science in Accounting,FIN 3010,Principles of Finance
+Bachelor of Science in Accounting,MGT 3010,Overview of Management
+Bachelor of Science in Accounting,BUS 4000,Corporate Law
+Bachelor of Science in Accounting,ACT 4910,Accounting Internship Or
+Bachelor of Science in Accounting,ACT 4950,Accounting Project
+Bachelor of Science in Applied Computer Technology,IST 1025,Introduction to Programming
+Bachelor of Science in Applied Computer Technology,APT 1030,Fundamentals of Programming
+Bachelor of Science in Applied Computer Technology,APT 1040,Introduction to Web Design and
+Bachelor of Science in Applied Computer Technology,APT 1050,Database Systems
+Bachelor of Science in Applied Computer Technology,APT 2010,Systems Analysis and Design
+Bachelor of Science in Applied Computer Technology,APT 2020,Computer Organisation
+Bachelor of Science in Applied Computer Technology,APT 2022,Introduction to Assembly
+Bachelor of Science in Applied Computer Technology,APT 2030,Digital Electronics
+Bachelor of Science in Applied Computer Technology,APT 2040,Operating Systems
+Bachelor of Science in Applied Computer Technology,APT 2050,Computer Network and
+Bachelor of Science in Applied Computer Technology,APT 2055,Hardware and Software Practicum
+Bachelor of Science in Applied Computer Technology,APT 2060,Data Structures & Algorithms
+Bachelor of Science in Applied Computer Technology,APT 2080,Introduction to Software Engineering
+Bachelor of Science in Applied Computer Technology,APT 2090,Computer Graphics
+Bachelor of Science in Applied Computer Technology,IST 2045,Introduction to Computer Networks
+Bachelor of Science in Applied Computer Technology,MTH 2215,Discrete Mathematics
+Bachelor of Science in Applied Computer Technology,MTH 1110,Calculus
+Bachelor of Science in Applied Computer Technology,APT 3010,Introduction to Artificial Intelligence
+Bachelor of Science in Applied Computer Technology,APT 3025,Applied Machine Learning
+Bachelor of Science in Applied Computer Technology,APT 3040,Object Oriented Design and
+Bachelor of Science in Applied Computer Technology,APT 3050,Introduction to Project Management
+Bachelor of Science in Applied Computer Technology,APT 3060,Mobile Programming
+Bachelor of Science in Applied Computer Technology,APT 3065,Mid-Term Project
+Bachelor of Science in Applied Computer Technology,APT 3080,Management Information Systems
+Bachelor of Science in Applied Computer Technology,APT 3090,Cryptography and Network Security
+Bachelor of Science in Applied Computer Technology,APT 3095,Cloud Computing and Virtualization
+Bachelor of Science in Applied Computer Technology,APT 4900,Applied Computer Technology
+Bachelor of Science in Applied Computer Technology,APT 4910,Applied Computer Technology
+Bachelor of Science in Applied Computer Technology,IST 3015,Business Data Analytics
+Bachelor of Science in Applied Computer Technology,IST 3050,Introduction to Security Systems
+Bachelor of Science in Applied Computer Technology,IST 4035,Advanced Web Design and
+Bachelor of Science in Applied Computer Technology,IST 4078,IT Innovation and Entrepreneurship
+Bachelor of Science in Applied Computer Technology,DST 4010,Distributed Systems
+Bachelor of Science in Applied Computer Technology,DST 4020,Mobile Computing
+Bachelor of Science in Applied Computer Technology,DST 4030,Parallel Computing
+Bachelor of Science in Applied Computer Technology,DST 4040,Digital Wireless Communication and
+Bachelor of Science in Applied Computer Technology,DST 4050,Embedded Real-Time Systems
+Bachelor of Science in Applied Computer Technology,DST 4010,Distributed Systems
+Bachelor of Science in Applied Computer Technology,NET 4020,Network Management & Security
+Bachelor of Science in Applied Computer Technology,NET 4030,Internet Architecture and Protocols
+Bachelor of Science in Applied Computer Technology,APP 4035,Web Application Development
+Bachelor of Science in Applied Computer Technology,NET 4050,Sensor Networks & Internet of
+Bachelor of Science in Applied Computer Technology,FIC 4010,Information System Security
+Bachelor of Science in Applied Computer Technology,FIC 4020,Forensic Accounting and Fraud
+Bachelor of Science in Applied Computer Technology,FIC 4030,Information Systems Audit
+Bachelor of Science in Applied Computer Technology,FIC 4040,Information Technology &
+Bachelor of Science in Applied Computer Technology,FIC 4050,Computer Forensics and
+Bachelor of Science in Applied Computer Technology,SFE 4010,Human Computer Interaction
+Bachelor of Science in Applied Computer Technology,SFE 4020,Software Design & Architecture
+Bachelor of Science in Applied Computer Technology,SFE 4030,Software Testing & Quality
+Bachelor of Science in Applied Computer Technology,APP 4035,Web Application Development
+Bachelor of Science in Applied Computer Technology,APP 4080,Collaborative (Team Work In)
+Bachelor of Science in Finance,ACT 1010,Principles of Accounting I
+Bachelor of Science in Finance,ACT 2010,Principles of Accounting II
+Bachelor of Science in Finance,BUS 1010,Introduction to Business
+Bachelor of Science in Finance,BUS 2020,Business Communications
+Bachelor of Science in Finance,ECO 1010,Principles of Micro Economics
+Bachelor of Science in Finance,ECO 1020,Principles of Macro Economics
+Bachelor of Science in Finance,BUS 4020,Business Mathematics and Statistics
+Bachelor of Science in Finance,BUS 4030,Quantitative Methods
+Bachelor of Science in Finance,BUS 4070,Business Values & Ethics
+Bachelor of Science in Finance,BUS 4090,Strategic Management
+Bachelor of Science in Finance,FIN 4050,Financial Information Systems
+Bachelor of Science in Finance,FIN 4060,Financial Management in Public
+Bachelor of Science in Finance,ECO 4010,Intermediate Microeconomics
+Bachelor of Science in Finance,ECO 4020,Intermediate Macroeconomics
+Bachelor of Science in Finance,ECO 4030,Economic Development
+Bachelor of Science in Finance,ECO 4040,Public Finance
+Bachelor of Science in Finance,ECO 4050,Health Finance and Economics
+Bachelor of Science in Finance,FIN 4110,Portfolio and Derivatives
+Bachelor of Science in Finance,FIN 4120,Pensions and Insurance
+Bachelor of Science in Finance,FIN 4130,Financial Analysis and Reporting
+Bachelor of Science in Finance,FIN 4140,Emerging Issues in Finance
+Bachelor of Science in Finance,FIN 4150,Financial Modelling
+Bachelor of Science in Finance,FIN 4210,Real Estate Portfolio Management
+Bachelor of Science in Finance,FIN 4220,Real Estate Investment Analysis
+Bachelor of Science in Finance,FIN 4230,Real Estate Economics
+Bachelor of Science in Finance,FIN 4240,Property Law
+Bachelor of Science in Finance,FIN 4250,Real Estate Management and
+Bachelor of Science in Hotel and Restaurant Management,ACT 1010,Principles of Accounting I
+Bachelor of Science in Hotel and Restaurant Management,ACT 2010,Principles of Accounting II
+Bachelor of Science in Hotel and Restaurant Management,BUS 1010,Introduction to Business
+Bachelor of Science in Hotel and Restaurant Management,BUS 2020,Business Communications
+Bachelor of Science in Hotel and Restaurant Management,ECO 1010,Principles of Micro Economics
+Bachelor of Science in Hotel and Restaurant Management,ECO 1020,Principles of Macro Economics
+Bachelor of Science in Hotel and Restaurant Management,BUS 3010,Business Law
+Bachelor of Science in Hotel and Restaurant Management,FIN 3010,Principles of Finance
+Bachelor of Science in Hotel and Restaurant Management,ACT 4060,Taxation I
+Bachelor of Science in Hotel and Restaurant Management,ACT 4110,Taxation II
+Bachelor of Science in Hotel and Restaurant Management,BUS 4020,Business Mathematics and Statistics
+Bachelor of Science in Hotel and Restaurant Management,BUS 4030,Quantitative Methods
+Bachelor of Science in Hotel and Restaurant Management,BUS 4070,Business Values & Ethics
+Bachelor of Science in Hotel and Restaurant Management,BUS 4090,Strategic Management
+Bachelor of Science in Hotel and Restaurant Management,FIN 4050,Financial Information Systems
+Bachelor of Science in Hotel and Restaurant Management,FIN 4060,Financial Management in Public
+Bachelor of Science in Hotel and Restaurant Management,ECO 4010,Intermediate Microeconomics
+Bachelor of Science in Hotel and Restaurant Management,ECO 4020,Intermediate Macroeconomics
+Bachelor of Science in Hotel and Restaurant Management,ECO 4030,Economic Development
+Bachelor of Science in Hotel and Restaurant Management,ECO 4040,Public Finance
+Bachelor of Science in Hotel and Restaurant Management,ECO 4050,Health Finance and Economics
+Bachelor of Science in Hotel and Restaurant Management,FIN 4110,Portfolio and Derivatives
+Bachelor of Science in Hotel and Restaurant Management,FIN 4120,Pensions and Insurance
+Bachelor of Science in Hotel and Restaurant Management,FIN 4130,Financial Analysis and Reporting
+Bachelor of Science in Hotel and Restaurant Management,FIN 4140,Emerging Issues in Finance
+Bachelor of Science in Hotel and Restaurant Management,FIN 4150,Financial Modelling
+Bachelor of Science in Hotel and Restaurant Management,FIN 4210,Real Estate Portfolio Management
+Bachelor of Science in Hotel and Restaurant Management,FIN 4220,Real Estate Investment Analysis
+Bachelor of Science in Hotel and Restaurant Management,FIN 4230,Real Estate Economics
+Bachelor of Science in Hotel and Restaurant Management,FIN 4240,Property Law
+Bachelor of Science in Hotel and Restaurant Management,FIN 4250,Real Estate Management and
+Bachelor of Science in International Business Administration,BUS 4000,Corporate Law
+Bachelor of Science in International Business Administration,BUS 4005,Project Management
+Bachelor of Science in International Business Administration,BUS 4080,Business Process Management
+Bachelor of Science in International Business Administration,BUS 4015,Supply Chain Management
+Bachelor of Science in International Business Administration,ACT 3010,Accounting Information Systems
+Bachelor of Science in International Business Administration,ACT 4010,Managerial Accounting
+Bachelor of Science in International Business Administration,ACT 4020,Financial Accounting I
+Bachelor of Science in International Business Administration,ACT 4030,Financial Accounting II
+Bachelor of Science in International Business Administration,ACT 4040,Cost Accounting or
+Bachelor of Science in International Business Administration,ACT 4050,International Accounting
+Bachelor of Science in International Business Administration,ENT 4005,Entrepreneurial Behavior & Ethics
+Bachelor of Science in International Business Administration,ENT 4020,Management of Entrepreneurial
+Bachelor of Science in International Business Administration,ENT 4040,Electronic Commerce
+Bachelor of Science in International Business Administration,ENT 4050,International Dimensions of
+Bachelor of Science in International Business Administration,ENT 4060,Small Business Consulting Finance
+Bachelor of Science in International Business Administration,FIN 4010,International Managerial Finance
+Bachelor of Science in International Business Administration,FIN 4020,Corporate Finance
+Bachelor of Science in International Business Administration,FIN 4030,Investments
+Bachelor of Science in International Business Administration,FIN 4040,Money and Capital Markets
+Bachelor of Science in International Business Administration,FIN 4050,Financial Information Systems
+Bachelor of Science in International Business Administration,ENT 4020,Management of Entrepreneurial
+Bachelor of Science in International Business Administration,MGT 4010,Dimensions of Leadership and
+Bachelor of Science in International Business Administration,MGT 4020,Organisations and Organisational
+Bachelor of Science in International Business Administration,MGT 4040,Human Resource Management
+Bachelor of Science in International Business Administration,MGT 4050,Total Quality Management
+Bachelor of Science in International Business Administration,MKT 3020,Marketing Information Systems
+Bachelor of Science in International Business Administration,MKT 4010,International Marketing
+Bachelor of Science in International Business Administration,MKT 4020,Marketing Research
+Bachelor of Science in International Business Administration,MKT 4030,Marketing Communications and
+Bachelor of Science in International Business Administration,MKT 4050,Services Marketing
+Bachelor of Science in International Business Administration,ACT 1010,Principles of Accounting I
+Bachelor of Science in International Business Administration,ACT 2010,Principles of Accounting II
+Bachelor of Science in International Business Administration,BUS 1010,Introduction to Business
+Bachelor of Science in International Business Administration,BUS 2010,Business Mathematics
+Bachelor of Science in International Business Administration,BUS 2020,Business Communications
+Bachelor of Science in International Business Administration,ECO 1010,Principles of Micro Economics
+Bachelor of Science in International Business Administration,ECO 1020,Principles of Macro Economics
+Bachelor of Science in International Business Administration,IST 2040,Information Systems and
+Bachelor of Science in International Business Administration,BUS 3010,Business Law
+Bachelor of Science in International Business Administration,BUS 3020,Production and Operations
+Bachelor of Science in International Business Administration,BUS 3030,Business Statistics
+Bachelor of Science in International Business Administration,BUS 4070,Business Values and Ethics
+Bachelor of Science in International Business Administration,BUS 4090,Strategic Management
+Bachelor of Science in International Business Administration,FIN 3010,Principles of Finance
+Bachelor of Science in International Business Administration,IBA 4010,International Business Operations
+Bachelor of Science in International Business Administration,IBA 4020,International Economics and Trade
+Bachelor of Science in International Business Administration,MGT 3010,Overview of Management Practice
+Bachelor of Science in International Business Administration,MGT 4030,Cross-Cultural Management
+Bachelor of Science in International Business Administration,MKT 3010,Principles of Marketing
+Bachelor of Science in International Business Administration,IBA 4950,International Business Project or
+Bachelor of Science in International Business Administration,IBA 4910,International Business Internship
+Bachelor of Science in Software Engineering,IST 1025,Introduction to Programming
+Bachelor of Science in Software Engineering,APT 1040,Introduction to Web Design and
+Bachelor of Science in Software Engineering,MTH 1110,Calculus
+Bachelor of Science in Software Engineering,MTH 2010,Probability and Statistics
+Bachelor of Science in Software Engineering,APT 1050,Database Systems
+Bachelor of Science in Software Engineering,SWE 1020,Data Structure Analysis and
+Bachelor of Science in Software Engineering,IST 2010,Computer Organisation and
+Bachelor of Science in Software Engineering,MTH 2215,Discrete Mathematics
+Bachelor of Science in Software Engineering,MTH 2030,Numerical Analysis and its
+Bachelor of Science in Software Engineering,APT 2030,Digital Electronics
+Bachelor of Science in Software Engineering,IST 3020,Principles of Operating Systems
+Bachelor of Science in Software Engineering,APT 2050,Computer Networks and
+Bachelor of Science in Software Engineering,APT 3010,Introduction to Artificial Intelligence
+Bachelor of Science in Software Engineering,APT 3020,Knowledge-Based Systems
+Bachelor of Science in Software Engineering,APT 3040,"Object Oriented Analysis, Design"
+Bachelor of Science in Software Engineering,APT 3060,Mobile Programming
+Bachelor of Science in Software Engineering,SWE 2040,Programming with Frameworks
+Bachelor of Science in Software Engineering,APT 2080,Introduction to Software Engineering
+Bachelor of Science in Software Engineering,APT 3080,Management Information Systems
+Bachelor of Science in Software Engineering,SWE 2030,Software Requirements Engineering
+Bachelor of Science in Software Engineering,APT 2010,System Analysis and Design
+Bachelor of Science in Software Engineering,SWE 2020,Machine Learning and Big Data
+Bachelor of Science in Software Engineering,SWE 3050,"Software Verification, Validation and"
+Bachelor of Science in Software Engineering,SWE 3090,Software Engineering Project I
+Bachelor of Science in Software Engineering,SWE 3020,Software Quality Assurance and
+Bachelor of Science in Software Engineering,SWE 3030,Software Costing and Estimation
+Bachelor of Science in Software Engineering,SFE 4010,Human Computer Interaction
+Bachelor of Science in Software Engineering,SFE 4015,Software Configuration Management
+Bachelor of Science in Software Engineering,APP 4080,Collaborative (Team Work In)
+Bachelor of Science in Software Engineering,SWE 3010,Security and Business Continuity
+Bachelor of Science in Software Engineering,SWE 3040,Software Engineering Process
+Bachelor of Science in Software Engineering,SWE 4040,Software Construction and
+Bachelor of Science in Software Engineering,SWE 4060,Software Project Planning and
+Bachelor of Science in Software Engineering,SWE 4900,Software Engineering Capstone
+Bachelor of Science in Software Engineering,SWE 4910,Software Engineering Internship
+Bachelor of Science in Software Engineering,APT 3095,Cloud Computing and Virtualization
+Bachelor of Science in Software Engineering,SWE 4070,Advanced Web-Based Systems
+Bachelor of Science in Software Engineering,SWE 4080,Computer and Network Security
+Bachelor of Science in Software Engineering,DST 4010,Distributed Systems
+Bachelor of Science in Software Engineering,SWE 4090,Enterprise Resource Planning
+Master of Arts in Communication Studies,CFD 6110,Development Communication
+Master of Arts in Communication Studies,CFD 6120,Participatory Communication
+Master of Arts in Communication Studies,CFD 6130,Public Policy & Advocacy
+Master of Arts in Communication Studies,CFD 6140,Risk Communication
+Master of Arts in Communication Studies,CFD 6170,Program Monitoring & Evaluation
+Master of Arts in Communication Studies,DCM 6110,Multimedia Design
+Master of Arts in Communication Studies,DCM 6130,Digital Communication Strategy
+Master of Arts in Communication Studies,DCM 6140,Online Corporate Branding
+Master of Arts in Communication Studies,DCM 6160,Effective Web Design and Strategy
+Master of Arts in Communication Studies,DCM 6170,Social Media Strategies
+Master of Arts in Communication Studies,MDS 6110,Media Criticism and Theory
+Master of Arts in Communication Studies,MDS 6120,Media Writing
+Master of Arts in Communication Studies,MDS 6140,"Media, Identity and Representation"
+Master of Arts in Communication Studies,MDS 6160,Multimedia Journalism
+Master of Arts in Communication Studies,MDS 6170,Media Management
+Master of Arts in Communication Studies,CFD 6160,Behavior Change Communication
+Master of Arts in Communication Studies,CFD 6180,Resource Mobilization
+Master of Arts in Communication Studies,DCM 6120,Digital Communication & Society
+Master of Arts in Communication Studies,SCC 6120,Integrated Marketing
+Master of Arts in Communication Studies,SCC 6110,Corporate Communication
+Master of Arts in Communication Studies,SCC 6130,Managing the Communication
+Master of Arts in Communication Studies,SCC 6140,PR Writing
+Master of Arts in Communication Studies,SCC 6160,Issues & Crisis Management
+Master of Arts in Communication Studies,SCC 6170,Communications Strategies and
+Master of Arts in Communication Studies,SCC 6110,Corporate Communication
+Master of Arts in Communication Studies,SCC 6120,Integrated Marketing
+Master of Arts in Communication Studies,SCC 6140,PR Writing
+Master of Arts in Communication Studies,SCC 6160,Issues & Crisis Management
+Master of Arts in Communication Studies,SCC 6170,Communications Strategies and
+Master of Arts in Communication Studies,DCM 6110,Multimedia Design
+Master of Arts in Communication Studies,DCM 6120,Digital Communication & Society
+Master of Arts in Communication Studies,DCM 6130,Digital Communication Strategy
+Master of Arts in Communication Studies,DCM 6160,Effective Web Design and Strategy
+Master of Arts in Communication Studies,DCM 6170,Social Media Strategies
+Master of Arts in Communication Studies,CFD 6110,Development Communication
+Master of Arts in Communication Studies,CFD 6120,Participatory Communication
+Master of Arts in Communication Studies,CFD 6130,Public Policy & Advocacy
+Master of Arts in Communication Studies,CFD 6140,Risk Communication
+Master of Arts in Communication Studies,CFD 6170,Program Monitoring & Evaluation
+Master of Arts in Communication Studies,MDS 6110,Media Criticism and Theory
+Master of Arts in Communication Studies,MDS 6120,Media Writing
+Master of Arts in Communication Studies,MDS 6140,"Media, Identity and Representation"
+Master of Arts in Communication Studies,MDS 6160,Multimedia Journalism
+Master of Arts in Communication Studies,MDS 6170,Media Management
+Master of Arts in Communication Studies,CFD 6160,Behaviour Change Communication
+Master of Arts in Communication Studies,CFD 6150,Project Management
+Master of Arts in Communication Studies,CFD 6180,Resource Mobilization
+Master of Arts in Communication Studies,DCM 6140,Online Corporate Branding
+Master of Arts in Communication Studies,MDS 6130,Political Communication
+Master of Arts in Communication Studies,MDS 6190,Community Media and ICT in
+Master of Arts in Communication Studies,SCC 6130,Managing the Communication
+Master of Arts in Counseling Psychology,PSY 6248,Counseling Practicum I
+Master of Arts in Counseling Psychology,PSY 6249,Counseling Practicum II
+Master of Arts in Counseling Psychology,PSY 6248,Counseling Practicum I
+Master of Arts in Counseling Psychology,PSY 6249,Counseling Practicum II
+Master of Arts in Criminal & Transitional Justice,CTJ 6030,Reparations & Truth Commissions
+Master of Arts in Criminal & Transitional Justice,CTJ 6031,Prosecution & Diversion
+Master of Arts in Criminal & Transitional Justice,CTJ 6032,Punishment & the International
+Master of Arts in Criminal & Transitional Justice,CTJ 6033,Public & Private Policing
+Master of Arts in Criminal & Transitional Justice,CTJ 6034,"Law, Crime & Society"
+Master of Arts in Criminal & Transitional Justice,CTJ 6035,Transitional Justice Comparative
+Master of Arts in Criminal & Transitional Justice,CTJ 6036,International Criminal Courts &
+Master of Arts in Criminal & Transitional Justice,CTJ 6020,Thesis 1
+Master of Arts in Criminal & Transitional Justice,CTJ 6021,Thesis 2
+Master of Arts in Marriage and Family Therapy,MFT 6800,Introduction to Family Therapy
+Master of Arts in Marriage and Family Therapy,MFT 6801,MFT Ethics and the Law
+Master of Arts in Marriage and Family Therapy,MFT 6802,Family Therapy with Adolescents
+Master of Arts in Marriage and Family Therapy,MFT 6803,Child Abuse and Family Violence
+Master of Arts in Marriage and Family Therapy,MFT 6805,Group Psychotherapy
+Master of Arts in Marriage and Family Therapy,MFT 6806,Supervision in MFT
+Master of Arts in Marriage and Family Therapy,MFT 6807,Couples and Sex
+Master of Arts in Marriage and Family Therapy,MFT 6812,Family Assessment
+Master of Arts in Marriage and Family Therapy,PSY 6002,Research Methods
+Master of Arts in Marriage and Family Therapy,PSY 6704,Clinical Psychopathology I
+Master of Arts in Marriage and Family Therapy,MFT 6819,"First Responders, Military Personnel"
+Master of Arts in Marriage and Family Therapy,MFT 6821,"Culture, Attachment and Trauma"
+Master of Arts in Marriage and Family Therapy,MFT 6822,Immigration Trauma
+Master of Arts in Marriage and Family Therapy,MFT 6823,Trauma and the Family
+Master of Arts in Marriage and Family Therapy,MFT 6824,Mindfulness and Acceptance in
+Master of Arts in Marriage and Family Therapy,MFT 6826,Mindfulness and Family Therapy
+Master of Arts in Marriage and Family Therapy,MFT 6827,Integrating Mindfulness and
+Master of Arts in Marriage and Family Therapy,MFT 6828,Mindfulness and Art Therapy
+Master of Arts in Marriage and Family Therapy,MFT 6804,Publication & Research Presentation
+Master of Arts in Marriage and Family Therapy,MFT 6809,Family and Divorce Mediation
+Master of Arts in Marriage and Family Therapy,MFT 6813,Life Work and Planning
+Master of Arts in Marriage and Family Therapy,MFT 6814,Men and Families
+Master of Arts in Marriage and Family Therapy,MFT 6815,Couple & Family Therapy with
+Master of Arts in Marriage and Family Therapy,MFT 6816,School Counseling Seminar
+Master of Arts in Marriage and Family Therapy,MFT 6817,Play Therapy
+Master of Arts in Marriage and Family Therapy,MFT 6818,Current Trends in the Field of Family
+Master of Arts in Marriage and Family Therapy,MFT 6820,Substance Abuse and Childhood
+Master of Arts in Marriage and Family Therapy,MFT 6825,Mindfulness Based-play Family
+Master of Arts in Marriage and Family Therapy,MFT 6810,Master�s Thesis I
+Master of Arts in Marriage and Family Therapy,MFT 6811,Master�s Thesis II
+Master of Business Administration (MBA),FIN 6010,Investments
+Master of Business Administration (MBA),FIN 6030,International Financial Markets
+Master of Business Administration (MBA),FIN 6040,Information Systems Applications in
+Master of Business Administration (MBA),FIN 6810,Climate Finance and Emerging
+Master of Business Administration (MBA),GSE 6010,Global Social Sustainable
+Master of Business Administration (MBA),GSE 6030,Development of Social Sustainable
+Master of Business Administration (MBA),GSE 6040,Sustainable Enterprise Funding and
+Master of Business Administration (MBA),GSE 6890,Project Practicum
+Master of Business Administration (MBA),BUS 6050,Total Quality Management
+Master of Business Administration (MBA),MGT 6010,Human Resource Management
+Master of Business Administration (MBA),MGT 6020,Human Resource Development
+Master of Business Administration (MBA),MGT 6030,Labour Relations Management
+Master of Business Administration (MBA),MKT 6010,Marketing Communications Strategy
+Master of Business Administration (MBA),MKT 6020,Marketing Research
+Master of Business Administration (MBA),MKT 6040,Global Marketing Strategy
+Master of Business Administration (MBA),MKT 6050,Information Systems Applications in
+Master of Business Administration (MBA),BUS 6120,Strategic Responses to Turbulent
+Master of Business Administration (MBA),BUS 6140,Management of Technological
+Master of Business Administration (MBA),BUS 6150,Contributors to Strategic
+Master of Business Administration (MBA),GMB 6010,Global Strategic Management
+Master of Business Administration (MBA),GMB 6020,Management of Global
+Master of Business Administration (MBA),GMB 6040,International Financial Markets
+Master of Business Administration (MBA),GMB 6055,International Business and Trade
+Master of Business Administration (MBA),GMB 6230,Global Study Tour
+Master of Business Administration (MBA),MBH 6010,Organisation Theory in the Health
+Master of Business Administration (MBA),MBH 6020,Project Management and
+Master of Business Administration (MBA),MBH 6040,Health Management Information
+Master of Business Administration (MBA),MBH 6070,Strategic Human Resource
+Master of Business Administration (MBA),GMB 6230,Global Study Tour
+Master of Business Administration (MBA),MDA 6460,Business Analytics
+Master of Business Administration (MBA),SDE 6030,Sustainable Procurement and
+Master of Science in Data Science and Analytics (Online only),MDA 6410,Advanced Machine Learning
+Master of Science in Data Science and Analytics (Online only),MTH 6420,Graph Analytics
+Master of Science in Data Science and Analytics (Online only),MDA 6430,Data Mining and Warehousing
+Master of Science in Data Science and Analytics (Online only),STA 6510,Multivariate Methods
+Master of Science in Data Science and Analytics (Online only),MTH 6520,Optimization and Simulation
+Master of Science in Data Science and Analytics (Online only),MDA 6410,Advanced Machine Learning
+Master of Science in Data Science and Analytics (Online only),MTH 6420,Graph Analytics
+Master of Science in Data Science and Analytics (Online only),MDA 6430,Data Mining and Warehousing
+Master of Science in Data Science and Analytics (Online only),MDA 6450,DevOps
+Master of Science in Data Science and Analytics (Online only),MDA 6530,Software Design and Architecture
+Master of Science in Data Science and Analytics (Online only),MDA 6460,Business Analytics
+Master of Science in Data Science and Analytics (Online only),MDA 6470,Fraud Detection Analytics
+Master of Science in Data Science and Analytics (Online only),MDA 6480,Text Analytics
+Master of Science in Data Science and Analytics (Online only),MDA 6550,Finance and Risk Management
+Master of Science in Data Science and Analytics (Online only),MDA 6560,Geo-Intelligence/ Spatial Analytics
+Master of Science in Information Systems Technology,BIS 6120,Knowledge Management Systems
+Master of Science in Information Systems Technology,BIS 6130,Management and Economics of
+Master of Science in Information Systems Technology,BIS 6150,Enterprise Systems
+Master of Science in Information Systems Technology,TMC 6130,Cloud Computing and Virtualization
+Master of Science in Information Systems Technology,MIS 6851,Information Systems Project I
+Master of Science in Information Systems Technology,MIS 6852,Information Systems Project II
+Master of Science in Information Systems Technology,ISC 6110,Network Security and Management
+Master of Science in Information Systems Technology,ISC 6120,Advanced Information Systems
+Master of Science in Information Systems Technology,ISC 6130,Computer Forensics and Cybercrime
+Master of Science in Information Systems Technology,ISC 6140,IT Security Techniques and Incident
+Master of Science in Information Systems Technology,MIS 6851,Information Systems Project I
+Master of Science in Information Systems Technology,MIS 6852,Information Systems Project II
+Master of Science in Information Systems Technology,SWE 6110,Principles of Software Engineering
+Master of Science in Information Systems Technology,SWE 6120,Human Computer Interface
+Master of Science in Information Systems Technology,SWE 6130,Mobile Applications Development
+Master of Science in Information Systems Technology,SWE 6140,Group Work in Large Scale Software
+Master of Science in Information Systems Technology,MIS 6851,Information Systems Project I
+Master of Science in Information Systems Technology,MIS 6852,Information Systems Project II
+Master of Science in Information Systems Technology,TMC 6110,Broadband Network Architectures
+Master of Science in Information Systems Technology,TMC 6120,Digital Mobile Communications
+Master of Science in Information Systems Technology,TMC 6130,Cloud Computing and Virtualization
+Master of Science in Information Systems Technology,TMC 6140,Cryptography and Network Security
+Master of Science in Information Systems Technology,MIS 6851,Information Systems Project I
+Master of Science in Information Systems Technology,MIS 6852,Information Systems Project II
+The goal of the Bachelor of Technology in,IST 2010,Computer Organisation and Assembly
+The goal of the Bachelor of Technology in,IST 2045,Introduction to Computer Networks
+The goal of the Bachelor of Technology in,IST 1025,Introduction to Programming
+The goal of the Bachelor of Technology in,IST 2060,Data Structures and Algorithms
+The goal of the Bachelor of Technology in,IST 3005,Application of Social Media for
+The goal of the Bachelor of Technology in,IST 3015,Business Data Analytics
+The goal of the Bachelor of Technology in,IST 3020,Principles of Operating Systems
+The goal of the Bachelor of Technology in,IST 3040,Digital Lab
+The goal of the Bachelor of Technology in,IST 3050,Introduction to Security Systems
+The goal of the Bachelor of Technology in,IST 4020,Systems Analysis and Design
+The goal of the Bachelor of Technology in,IST 4030,Database Management Systems
+The goal of the Bachelor of Technology in,IST 4035,Advanced Web Design and
+The goal of the Bachelor of Technology in,IST 4040,Decision Analysis
+The goal of the Bachelor of Technology in,IST 4060,Telecommunications and Networks
+The goal of the Bachelor of Technology in,IST 4070,Object-Oriented Programming
+The goal of the Bachelor of Technology in,IST 4072,Object Oriented Analysis and Design
+The goal of the Bachelor of Technology in,IST 4075,Mobile Applications Development
+The goal of the Bachelor of Technology in,IST 4078,IT Innovation and Entrepreneurship
+The goal of the Bachelor of Technology in,IST 4900,Information Technology Project
+The goal of the Bachelor of Technology in,IST 4910,Information Systems Internship
+The philosophy of the Bachelor of Science in,IST 1025,Introduction to Programming
+The philosophy of the Bachelor of Science in,APT 1040,Introduction to Web design and
+The philosophy of the Bachelor of Science in,APT 1050,Database Systems
+The philosophy of the Bachelor of Science in,SWE 1020,Data Structure analysis and algorithms
+The philosophy of the Bachelor of Science in,IST 2010,Computer Organization and Assembly
+The philosophy of the Bachelor of Science in,APT 2040,Operating Systems
+The philosophy of the Bachelor of Science in,APT 2050,Computer Networks and
+The philosophy of the Bachelor of Science in,APT 3040,Object Oriented Analysis Design and
+The philosophy of the Bachelor of Science in,IST 3050,Introduction to Security Systems
+The philosophy of the Bachelor of Science in,AIR 2010,Introduction to Robotics
+The philosophy of the Bachelor of Science in,AIR 2040,Real-Time Software Engineering
+The philosophy of the Bachelor of Science in,AIR 3010,Design of Real-Time Systems
+The philosophy of the Bachelor of Science in,AIR 3060,Robotics Applications Programming
+The philosophy of the Bachelor of Science in,AIR 3080,Artificial Intelligence and Robotics
+The philosophy of the Bachelor of Science in,APT 3010,Introduction to Artificial Intelligence
+The philosophy of the Bachelor of Science in,APT 3025,Applied Machine Learning
+The philosophy of the Bachelor of Science in,DST 4020,Mobile Computing
+The philosophy of the Bachelor of Science in,AIR 4010,Deep Learning and Computer Vision
+The philosophy of the Bachelor of Science in,AIR 4020,Human-Robot Interaction
+The philosophy of the Bachelor of Science in,AIR 4040,Reinforcement learning for robotics
+The philosophy of the Bachelor of Science in,AIR 4050,Intelligent Multi-Agent Systems
+The philosophy of the Bachelor of Science in,AIR 4060,Engineering and Informatics Ethics and
+The philosophy of the Bachelor of Science in,AIR 4070,Robotics Design
+The philosophy of the Bachelor of Science in,AIR 4080,Industrial Automation and Robotics
+The philosophy of the Bachelor of Science in,AIR 4090,Speech and Natural Language
+The philosophy of the Bachelor of Science in,AIR 4910,Artificial Intelligence and Robotics
+Upon successful completion of the Bachelor of,ACT 1010,Principles of Accounting I
+Upon successful completion of the Bachelor of,ECO 1015,Introduction to Economics
+Upon successful completion of the Bachelor of,GLG 1010,Introduction to Leadership
+Upon successful completion of the Bachelor of,BUS 1010,Introduction to Business
+Upon successful completion of the Bachelor of,GLG 2000,Marketing for Business Leaders
+Upon successful completion of the Bachelor of,GLG 2010,Psychology of Leadership
+Upon successful completion of the Bachelor of,BUS 2020,Business Communications
+Upon successful completion of the Bachelor of,GLG 2080,Human Rights and Labour
+Upon successful completion of the Bachelor of,BUS 3010,Business Law
+Upon successful completion of the Bachelor of,FIN 3010,Principles of Finance
+Upon successful completion of the Bachelor of,GLG 3010,Leadership and Organization
+Upon successful completion of the Bachelor of,MGT 3010,Principles of Management
+Upon successful completion of the Bachelor of,GLG 3020,Policy Formulation & Analysis
+Upon successful completion of the Bachelor of,GLG 4020,Sustainable Social Entrepreneurship
+Upon successful completion of the Bachelor of,GLG 4030,Communication and Conflict
+Upon successful completion of the Bachelor of,MGT 4030,Cross Cultural Management
+Upon successful completion of the Bachelor of,MGT 4040,Human Resources Management
+Upon successful completion of the Bachelor of,GLG 4090,Global Leadership and Management
+Upon successful completion of the Bachelor of,BUS 4090,Strategic Management
+Upon successful completion of the Bachelor of,GLG 4910,Global Leadership and Governance
+Upon successful completion of the Bachelor of,BUS 4005,Project Management
+Upon successful completion of the Bachelor of,BUS 4015,Supply Chain Management
+Upon successful completion of the Bachelor of,ENT 4020,Management of Entrepreneurial
+Upon successful completion of the Bachelor of,FIN 4030,Investments
+Upon successful completion of the Bachelor of,BUS 4000,Corporate Law
+Upon successful completion of the Bachelor of,FIN 4020,Corporate Finance
+Upon successful completion of the Bachelor of,GLG 4040,Board Leadership and Governance
+Upon successful completion of the Bachelor of,GLG 4045,Risk Management
+Upon successful completion of the Bachelor of,MGT 4050,Total Quality Management
+Upon successful completion of the Bachelor of,FIN 4015,Public Finance and Budgeting
+Upon successful completion of the Bachelor of,GLG 4015,Constitutional and Administrative
+Upon successful completion of the Bachelor of,GLG 4075,Politics and Administration
+Upon successful completion of the Bachelor of,GLG 4080,Global Leadership and Democracy
+Upon successful completion of the Bachelor of,GLG 4085,Advocacy and Lobbying

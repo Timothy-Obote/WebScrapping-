@@ -149,8 +149,8 @@
 | IRL 3110 | Simulation Exercise (OI) |
 | IRL 3200 | Negotiation & Mediation |
 | IRL 4120 | International Humanitarian Law |
-| IRL 4040 | Africa – Asia Relations |
-| IRL 4055 | Africa – Middle East Relations |
+| IRL 4040 | Africa ï¿½ Asia Relations |
+| IRL 4055 | Africa ï¿½ Middle East Relations |
 | IRL 4050 | U.S./Africa Relations |
 | IRL 4065 | East Africa in World Affairs |
 | IRL 4035 | Environmental Politics |
@@ -323,9 +323,9 @@
 | IRL 3021 | Hunger and Development in Africa |
 | IRL 3060 | African International Relations |
 | IRL 4001 | Regional Conflict in Africa |
-| IRL 4050 | U.S. – Africa Relations |
+| IRL 4050 | U.S. ï¿½ Africa Relations |
 | IRL 3040 | Politics in Africa |
-| IRL 4065 | U.S. – East Africa Relations |
+| IRL 4065 | U.S. ï¿½ East Africa Relations |
 | IRL 4281 | East Africa and the Indian Sub- |
 | IRL 4811 | Critical Issues in Africa Literature |
 | LIT 4785 | African Authors Seminar Philosophy |
@@ -399,7 +399,7 @@
 | PSY 3171 | Social Psychology of Health Care |
 | PSY 3172 | Understanding Grief, Loss and |
 | PSY 4171 | Behavioral Health Therapy |
-| PSY 4172 | HIV – AIDS Testing and Counseling |
+| PSY 4172 | HIV ï¿½ AIDS Testing and Counseling |
 | PSY 3142 | Introduction to Industrial and |
 | PSY 3143 | Psychology at Work I: Measuring |
 | PSY 4142 | Psychology at Work II: Prediction and |
@@ -831,7 +831,7 @@
 | DCM 6160 | Effective Web Design and Strategy |
 | DCM 6170 | Social Media Strategies |
 
-### Media Studies – (ON HOLD) (15 Units)
+### Media Studies ï¿½ (ON HOLD) (15 Units)
 
 **Total Courses: 9**
 
@@ -974,8 +974,8 @@
 
 | Code | Course Name |
 |---|---|
-| MFT 6810 | Master’s Thesis I |
-| MFT 6811 | Master’s Thesis II |
+| MFT 6810 | Masterï¿½s Thesis I |
+| MFT 6811 | Masterï¿½s Thesis II |
 
 ## Master of Business Administration (MBA)
 

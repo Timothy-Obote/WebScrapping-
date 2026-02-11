@@ -17,8 +17,8 @@ for page_num in range(70, min(80, len(doc))):
     
     for block in blocks:
         if "lines" in block:
-            for line in block["lines"]:
-                for span in line.get("spans", []):
+            for line in block["lines"]: # type: ignore
+                for span in line.get("spans", []): # type: ignore
                     text = span["text"].strip()
                     font = span.get("font", "")
                     size = span.get("size", 0)

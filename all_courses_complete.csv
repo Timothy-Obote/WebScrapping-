@@ -1,0 +1,962 @@
+level,program,total_units,code,name,status
+Undergraduate,Bachelor of Science in Accounting,26,FIN 4130,Financial Analysis and Reporting,Matched
+Undergraduate,Bachelor of Science in Accounting,26,FIN 4030,Investments,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 4130,Forensic Accounting,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 1010,Principles of Accounting I,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 2010,Principles of Accounting II,Matched
+Undergraduate,Bachelor of Science in Accounting,26,BUS 1010,Introduction to Business,Matched
+Undergraduate,Bachelor of Science in Accounting,26,BUS 2020,Business Communications,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ECO 1010,Principles of Micro,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ECO 1020,Principles of Macro Economics,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 3010,Accounting Information Systems,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 4010,Managerial Accounting,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 4040,Cost Accounting,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 4050,International Accounting,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 4060,Taxation I,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 4071,Principles of Auditing,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 4120,Auditing & Investigations,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 4131,Public Sector Accounting,Matched
+Undergraduate,Bachelor of Science in Accounting,26,BUS 3010,Business Law,Matched
+Undergraduate,Bachelor of Science in Accounting,26,BUS 3030,Business Statistics,Matched
+Undergraduate,Bachelor of Science in Accounting,26,BUS 4030,Quantitative Methods,Matched
+Undergraduate,Bachelor of Science in Accounting,26,BUS 4070,Business Values and Ethics,Matched
+Undergraduate,Bachelor of Science in Accounting,26,FIN 3010,Principles of Finance,Matched
+Undergraduate,Bachelor of Science in Accounting,26,MGT 3010,Overview of Management,Matched
+Undergraduate,Bachelor of Science in Accounting,26,BUS 4000,Corporate Law,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 4910,Accounting Internship Or,Matched
+Undergraduate,Bachelor of Science in Accounting,26,ACT 4950,Accounting Project,Matched
+Undergraduate,Bachelor of Science in Finance,26,FIN 4130,Financial Analysis and Reporting,Matched
+Undergraduate,Bachelor of Science in Finance,26,FIN 4030,Investments,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 4130,Forensic Accounting,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 1010,Principles of Accounting I,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 2010,Principles of Accounting II,Matched
+Undergraduate,Bachelor of Science in Finance,26,BUS 1010,Introduction to Business,Matched
+Undergraduate,Bachelor of Science in Finance,26,BUS 2020,Business Communications,Matched
+Undergraduate,Bachelor of Science in Finance,26,ECO 1010,Principles of Micro,Matched
+Undergraduate,Bachelor of Science in Finance,26,ECO 1020,Principles of Macro Economics,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 3010,Accounting Information Systems,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 4010,Managerial Accounting,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 4040,Cost Accounting,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 4050,International Accounting,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 4060,Taxation I,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 4071,Principles of Auditing,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 4120,Auditing & Investigations,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 4131,Public Sector Accounting,Matched
+Undergraduate,Bachelor of Science in Finance,26,BUS 3010,Business Law,Matched
+Undergraduate,Bachelor of Science in Finance,26,BUS 3030,Business Statistics,Matched
+Undergraduate,Bachelor of Science in Finance,26,BUS 4030,Quantitative Methods,Matched
+Undergraduate,Bachelor of Science in Finance,26,BUS 4070,Business Values and Ethics,Matched
+Undergraduate,Bachelor of Science in Finance,26,FIN 3010,Principles of Finance,Matched
+Undergraduate,Bachelor of Science in Finance,26,MGT 3010,Overview of Management,Matched
+Undergraduate,Bachelor of Science in Finance,26,BUS 4000,Corporate Law,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 4910,Accounting Internship Or,Matched
+Undergraduate,Bachelor of Science in Finance,26,ACT 4950,Accounting Project,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ACT 1010,Principles of Accounting I,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ACT 2010,Principles of Accounting II,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,BUS 1010,Introduction to Business,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,BUS 2020,Business Communications,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ECO 1010,Principles of Micro Economics,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ECO 1020,Principles of Macro Economics,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,BUS 3010,Business Law,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 3010,Principles of Finance,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ACT 4060,Taxation I,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ACT 4110,Taxation II,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,BUS 4020,Business Mathematics and Statistics,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,BUS 4030,Quantitative Methods,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,BUS 4070,Business Values & Ethics,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,BUS 4090,Strategic Management,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4050,Financial Information Systems,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4060,Financial Management in Public,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ECO 4010,Intermediate Microeconomics,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ECO 4020,Intermediate Macroeconomics,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ECO 4030,Economic Development,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ECO 4040,Public Finance,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,ECO 4050,Health Finance and Economics,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4110,Portfolio and Derivatives,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4120,Pensions and Insurance,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4130,Financial Analysis and Reporting,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4140,Emerging Issues in Finance,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4150,Financial Modelling,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4210,Real Estate Portfolio Management,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4220,Real Estate Investment Analysis,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4230,Real Estate Economics,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4240,Property Law,Matched
+Undergraduate,Bachelor of Science in Hotel & Restaurant Management,31,FIN 4250,Real Estate Management and,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 4000,Corporate Law,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 4005,Project Management,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 4080,Business Process Management,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 4015,Supply Chain Management,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ACT 3010,Accounting Information Systems,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ACT 4010,Managerial Accounting,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ACT 4020,Financial Accounting I,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ACT 4030,Financial Accounting II,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ACT 4040,Cost Accounting or,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ACT 4050,International Accounting,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ENT 4005,Entrepreneurial Behavior & Ethics,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ENT 4020,Management of Entrepreneurial,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ENT 4040,Electronic Commerce,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ENT 4050,International Dimensions of,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ENT 4060,Small Business Consulting Finance,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,FIN 4010,International Managerial Finance,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,FIN 4020,Corporate Finance,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,FIN 4030,Investments,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,FIN 4040,Money and Capital Markets,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,FIN 4050,Financial Information Systems,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ENT 4020,Management of Entrepreneurial,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MGT 4010,Dimensions of Leadership and,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MGT 4020,Organisations and Organisational,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MGT 4040,Human Resource Management,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MGT 4050,Total Quality Management,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MKT 3020,Marketing Information Systems,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MKT 4010,International Marketing,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MKT 4020,Marketing Research,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MKT 4030,Marketing Communications and,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MKT 4050,Services Marketing,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ACT 1010,Principles of Accounting I,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ACT 2010,Principles of Accounting II,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 1010,Introduction to Business,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 2010,Business Mathematics,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 2020,Business Communications,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ECO 1010,Principles of Micro Economics,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,ECO 1020,Principles of Macro Economics,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,IST 2040,Information Systems and,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 3010,Business Law,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 3020,Production and Operations,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 3030,Business Statistics,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 4070,Business Values and Ethics,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,BUS 4090,Strategic Management,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,FIN 3010,Principles of Finance,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,IBA 4010,International Business Operations,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,IBA 4020,International Economics and Trade,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MGT 3010,Overview of Management Practice,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MGT 4030,Cross-Cultural Management,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,MKT 3010,Principles of Marketing,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,IBA 4950,International Business Project or,Matched
+Undergraduate,Bachelor of Science in International Business Administration,51,IBA 4910,International Business Internship,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BIO 1010,General Biology I,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BIO 1020,General Biology II,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,CHM 1010,General Chemistry I,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,CHM 1020,General Chemistry II,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,MTH 1110,Calculus,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,PHY 1010,Physics I,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,PHY 1020,Physics II,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BIO 1030,Introduction to Biochemistry,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BCH 3010,Protein Structure and Function,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BCH 3020,Enzymology and Metabolism,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BCH 4010,Advanced Biochemistry,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BCH 4020,Molecular Biology,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BCH 4030,Biotechnology,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BCH 4040,Bioinformatics,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,CHM 3010,Organic Chemistry I,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,CHM 3020,Organic Chemistry II,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,CHM 4010,Analytical Chemistry,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BIO 3010,Cell Biology,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BIO 3020,Genetics,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BIO 4010,Microbiology,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BIO 4020,Immunology,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BIO 4030,Pharmacology,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BIO 4040,Toxicology,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,RES 3010,Research Methods in Biochemistry,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,RES 4010,Biochemistry Research Project I,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,RES 4020,Biochemistry Research Project II,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,SEM 4010,Biochemistry Seminar,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,INT 4010,Biochemistry Internship,Matched
+Undergraduate,Bachelor of Science in Applied Biochemistry,29,BCH 4050,Clinical Biochemistry,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6410,Advanced Machine Learning,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MTH 6420,Graph Analytics,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6430,Data Mining and Warehousing,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,STA 6510,Multivariate Methods,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MTH 6520,Optimization and Simulation,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6410,Advanced Machine Learning,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MTH 6420,Graph Analytics,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6430,Data Mining and Warehousing,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6450,DevOps,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6530,Software Design and Architecture,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6460,Business Analytics,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6470,Fraud Detection Analytics,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6480,Text Analytics,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6550,Finance and Risk Management,Matched
+Undergraduate,Bachelor of Science in Data Science & Analytics,15,MDA 6560,Geo-Intelligence/ Spatial Analytics,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,IST 1025,Introduction to Programming,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 1040,Introduction to Web Design and,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,MTH 1110,Calculus,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,MTH 2010,Probability and Statistics,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 1050,Database Systems,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 1020,Data Structure Analysis and,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,IST 2010,Computer Organisation and,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,MTH 2215,Discrete Mathematics,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,MTH 2030,Numerical Analysis and its,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 2030,Digital Electronics,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,IST 3020,Principles of Operating Systems,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 2050,Computer Networks and,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 3010,Introduction to Artificial Intelligence,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 3020,Knowledge-Based Systems,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 3040,"Object Oriented Analysis, Design",Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 3060,Mobile Programming,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 2040,Programming with Frameworks,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 2080,Introduction to Software Engineering,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 3080,Management Information Systems,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 2030,Software Requirements Engineering,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 2010,System Analysis and Design,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 2020,Machine Learning and Big Data,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 3050,"Software Verification, Validation and",Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 3090,Software Engineering Project I,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 3020,Software Quality Assurance and,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 3030,Software Costing and Estimation,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SFE 4010,Human Computer Interaction,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SFE 4015,Software Configuration Management,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APP 4080,Collaborative (Team Work In),Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 3010,Security and Business Continuity,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 3040,Software Engineering Process,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 4040,Software Construction and,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 4060,Software Project Planning and,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 4900,Software Engineering Capstone,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 4910,Software Engineering Internship,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,APT 3095,Cloud Computing and Virtualization,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 4070,Advanced Web-Based Systems,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 4080,Computer and Network Security,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,DST 4010,Distributed Systems,Matched
+Undergraduate,Bachelor of Science in Software Engineering,40,SWE 4090,Enterprise Resource Planning,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6010,Advanced Database Systems,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6020,Enterprise Systems Architecture,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6030,IT Project Management,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6040,IT Strategic Planning,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6050,Systems Analysis and Design,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6060,Business Process Management,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6070,Data Analytics for Business,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6080,Research Methods in IS,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6090,IT Governance,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6100,IS Practicum,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6150,Capstone Project I,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6200,Master's Thesis I,Matched
+Undergraduate,Bachelor of Science in Information Systems & Technology,13,IST 6210,Master's Thesis II,Matched
+Undergraduate,Bachelor of Science in Nursing,26,FIN 4130,Financial Analysis and Reporting,Matched
+Undergraduate,Bachelor of Science in Nursing,26,FIN 4030,Investments,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 4130,Forensic Accounting,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 1010,Principles of Accounting I,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 2010,Principles of Accounting II,Matched
+Undergraduate,Bachelor of Science in Nursing,26,BUS 1010,Introduction to Business,Matched
+Undergraduate,Bachelor of Science in Nursing,26,BUS 2020,Business Communications,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ECO 1010,Principles of Micro,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ECO 1020,Principles of Macro Economics,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 3010,Accounting Information Systems,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 4010,Managerial Accounting,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 4040,Cost Accounting,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 4050,International Accounting,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 4060,Taxation I,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 4071,Principles of Auditing,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 4120,Auditing & Investigations,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 4131,Public Sector Accounting,Matched
+Undergraduate,Bachelor of Science in Nursing,26,BUS 3010,Business Law,Matched
+Undergraduate,Bachelor of Science in Nursing,26,BUS 3030,Business Statistics,Matched
+Undergraduate,Bachelor of Science in Nursing,26,BUS 4030,Quantitative Methods,Matched
+Undergraduate,Bachelor of Science in Nursing,26,BUS 4070,Business Values and Ethics,Matched
+Undergraduate,Bachelor of Science in Nursing,26,FIN 3010,Principles of Finance,Matched
+Undergraduate,Bachelor of Science in Nursing,26,MGT 3010,Overview of Management,Matched
+Undergraduate,Bachelor of Science in Nursing,26,BUS 4000,Corporate Law,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 4910,Accounting Internship Or,Matched
+Undergraduate,Bachelor of Science in Nursing,26,ACT 4950,Accounting Project,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 1010,Introduction to AI and Robotics,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 1020,Programming Foundations for AI,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,MTH 1110,Calculus,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,MTH 2215,Discrete Mathematics,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,IST 1025,Introduction to Programming,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 2010,Introduction to Robotics,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 2020,Linear Algebra for AI,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 2030,Data Structures,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 2040,Real-Time Software Engineering,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 3010,Design of Real-Time Systems,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 3020,Machine Learning Fundamentals,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 3030,Neural Networks,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 3060,Robotics Applications Programming,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 3080,Artificial Intelligence and Robotics,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,APT 3010,Introduction to Artificial Intelligence,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,MTH 2010,Probability and Statistics,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4010,Deep Learning and Computer Vision,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4020,Human-Robot Interaction,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4030,Autonomous Systems,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4040,Reinforcement Learning for Robotics,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4050,Intelligent Multi-Agent Systems,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4060,Engineering and Informatics Ethics,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4070,Robotics Design,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4080,Industrial Automation and Robotics,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4090,Speech and Natural Language Processing,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,APT 3040,Object Oriented Analysis Design,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,APT 3060,Mobile Programming,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,DST 4020,Mobile Computing,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,NET 4030,Internet Architecture and Protocols,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,SFE 4020,Software Design and Architecture,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,SFE 4030,Software Testing and Quality,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4100,AI Project I,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4110,AI Project II,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4910,AI and Robotics Internship,Matched
+Undergraduate,Bachelor of Science in Artificial Intelligence (AI) and Robotics,35,AIR 4920,Capstone Project in AI Robotics,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 1010,History of Film Animation,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 1020,Fundamentals of Animation,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 1030,Introduction to Drawing,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 1040,Character Design,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 1050,Cinema and Television Equipment,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 1060,Illustration and Environment Design,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 1070,The Art of the Storyboard and,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 2010,Fundamentals of Scripting for,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 2020,Introduction to 2D and 3D Animation,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 2040,Acting for Animators,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 2050,Camera Language and,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 2070,Theoretical Perspectives in Film and,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 2080,Composition and Sound Design for,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 2090,Theories of Popular Media and Art,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 3000,Fundamentals of Compositing,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 3010,Storyboarding and the Script,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 3015,Character Rigging,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 3040,Law & Ethics in the Animation,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 3060,The Business of Animation Content,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4015,Aesthetics of the African Story,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4050,Advanced Scripting for Animation,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4060,Senior Project and Portfolio,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4910,Internship,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4020,3D Environment and Effects,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4030,Advanced 3D Animation,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4035,Advanced 2D Computer Animation,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4045,3D Modeling & Design Methods,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4055,Digital Effects for Film and Television,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4080,Interactive Design,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4082,Virtual and Augmented Design,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4085,Gaming Environment Design,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4090,Artificial Intelligence in Gaming,Matched
+Undergraduate,Bachelor of Arts in Journalism,33,ANM 4092,Game Programming,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 1005,History of Film & Video,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 1010,Fundamentals of Photography &,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 1015,Fundamental of Scripting,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 1020,Film and Video Production,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,SND 1005,History &Theory of Sound for Film &,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 1030,Fundamentals of Film Editing,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 1035,Introduction to Production Design,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 1040,Camera Operation Techniques and,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,CIN  2005,Visual Production Design,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 2010,"The Business of Film, Culture and",Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 2015,Fundamentals of Film Directing,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,SND 2010,Sound Physics,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 2020,Principles of Writing for Dramatic,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 2025,World Approaches to Film,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 2030,Entertainment Law & Ethics of Film,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,FLA 2035,Film Theory and Criticism,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,SND 3005,Sound Mixing,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,PRD 3005,The Art of the Pitch,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,SND 3010,Sound Script Analysis and Project,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,PRD 4020,Costume and Makeup for Film,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,PRD 4010,Producing: From Green Light to,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,PRD 4910,Internship in Film Production,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,CIN 3005,Advanced Colour Theory and Colour,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,CIN 3010,Shooting the Master Scene,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,CIN 3015,Visual Effects and Green Screen,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,CIN 4005,Studio production,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,PRD 4005,Screen Acting,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,SCR 3005,Screen writing: Characters & Genres,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,SCR 3010,Writing for the Short Film,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,SCR 3015,Writing for Television Drama,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,SCR 4005,Feature Film Writing,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,PRD 4005,Screen Acting Cinematography,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,CIN 3005,Advanced Colour Theory and Colour,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,CIN 3010,Shooting the Master Scene,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,CIN 3015,Visual Effects and Green Screen,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,CIN 4005,Studio production,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,PRD 4005,Screen Acting,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,EDT 3005,Sound and VFX for Film and Video,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,EDT 3010,Advanced Colour Theory and Colour,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,EDT 3015,After Effects,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,EDT 4005,Editing the Narrative,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,PRD 4005,Screen Acting,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,DIR 3005,Art Direction and Production Design,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,DIR 3010,Directing Actors,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,DIR 3015,Location and Studio Directing,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,DIR 4005,Directing the Master Scene,Matched
+Undergraduate,Bachelor of Arts in Film Production & Directing,47,PRD 4005,Screen Acting,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 1010,History of Film Animation,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 1020,Fundamentals of Animation,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 1030,Introduction to Drawing,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 1040,Character Design,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 1050,Cinema and Television Equipment,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 1060,Illustration and Environment Design,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 1070,The Art of the Storyboard and,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 2010,Fundamentals of Scripting for,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 2020,Introduction to 2D and 3D Animation,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 2040,Acting for Animators,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 2050,Camera Language and,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 2070,Theoretical Perspectives in Film and,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 2080,Composition and Sound Design for,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 2090,Theories of Popular Media and Art,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 3000,Fundamentals of Compositing,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 3010,Storyboarding and the Script,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 3015,Character Rigging,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 3040,Law & Ethics in the Animation,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 3060,The Business of Animation Content,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4015,Aesthetics of the African Story,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4050,Advanced Scripting for Animation,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4060,Senior Project and Portfolio,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4910,Internship,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4020,3D Environment and Effects,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4030,Advanced 3D Animation,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4035,Advanced 2D Computer Animation,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4045,3D Modeling & Design Methods,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4055,Digital Effects for Film and Television,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4080,Interactive Design,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4082,Virtual and Augmented Design,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4085,Gaming Environment Design,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4090,Artificial Intelligence in Gaming,Matched
+Undergraduate,Bachelor of Arts in Animation,33,ANM 4092,Game Programming,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,ECO 1010,Principles of Microeconomics,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,ECO 1020,Principles of Macroeconomics,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3010,Development Issues in Africa,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3045,Politics of Regionalism in Africa,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4151,Field Study (WI),Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 2100,Introduction to Human Rights,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 2220,Gender and IR,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4035,Environmental Politics,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4150,Area Studies,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4220,Refugee Studies,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4811,Critical Issues in Africa,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3100,Diplomacy,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3110,Simulation Exercise (OI),Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3200,Negotiation & Mediation,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4120,International Humanitarian Law,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4040,Africa � Asia Relations,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4055,Africa � Middle East Relations,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4050,U.S./Africa Relations,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4065,East Africa in World Affairs,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4035,Environmental Politics,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4151,Field Study (WI),Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4800,Critical Issues in Kenyan Foreign,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 2000,Foundations of International,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 2005,Comparative Foreign Policy,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 2010,International Organisations,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,POL 2201,Introduction to Political Science,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3015,Introduction to Peace & Conflict,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3200,Negotiation & Mediation,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4001,Regional Conflicts in Africa,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4151,Field Study (WI),Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4010,Geopolitics,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4045,Security Studies & Strategies,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4035,Environmental Politics,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4120,International Humanitarian Law,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4220,Refugee Studies,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4850,Studies in Contemporary,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3000,Comparative Political Systems (ILI),Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3003,Research Methods in IR (WI),Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3005,Contemporary Theories & Ideologies,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3021,African Philosophy & Ideologies,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 3060,African International Relations,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4020,International Law (OI),Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4030,International Political Economy (ILI),Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4075,Mechanism of International,Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4900,International Relations Project (WI),Matched
+Undergraduate,Bachelor of Arts in International Relations,46,IRL 4910,International Relations Senior,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 1010,History of Film Animation,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 1020,Fundamentals of Animation,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 1030,Introduction to Drawing,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 1040,Character Design,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 1050,Cinema and Television Equipment,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 1060,Illustration and Environment Design,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 1070,The Art of the Storyboard and,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 2010,Fundamentals of Scripting for,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 2020,Introduction to 2D and 3D Animation,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 2040,Acting for Animators,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 2050,Camera Language and,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 2070,Theoretical Perspectives in Film and,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 2080,Composition and Sound Design for,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 2090,Theories of Popular Media and Art,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 3000,Fundamentals of Compositing,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 3010,Storyboarding and the Script,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 3015,Character Rigging,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 3040,Law & Ethics in the Animation,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 3060,The Business of Animation Content,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4015,Aesthetics of the African Story,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4050,Advanced Scripting for Animation,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4060,Senior Project and Portfolio,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4910,Internship,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4020,3D Environment and Effects,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4030,Advanced 3D Animation,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4035,Advanced 2D Computer Animation,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4045,3D Modeling & Design Methods,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4055,Digital Effects for Film and Television,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4080,Interactive Design,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4082,Virtual and Augmented Design,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4085,Gaming Environment Design,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4090,Artificial Intelligence in Gaming,Matched
+Undergraduate,Bachelor of Arts in Psychology,33,ANM 4092,Game Programming,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 1101,Introduction to Criminal Justice,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 1103,Juvenile Justice,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 2201,Criminal Law,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 2202,Criminal Procedure,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 2204,Corrections and Punishment,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 3303,Victimology,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 3307,Comparative Criminal Justice,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 4120,Criminal Evidence,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 3309,Terrorism and International Security,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 4200,Criminal Justice Ethics,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 4210,Policing Strategies and Reform,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 4220,Court Systems and Administration,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 4230,Corrections Management,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 4240,Cybercrime and Digital Forensics,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 4250,Restorative Justice,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 4260,Crime Analysis and Prevention,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,SOC 3305,Deviant Behavior,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,SOC 3313,Political Sociology,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,PSY 1101,Introduction to Psychology,Matched
+Undergraduate,Bachelor of Arts in Criminal Justice Studies,20,CJS 4910,Criminal Justice Internship,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 1010,History of Film Animation,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 1020,Fundamentals of Animation,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 1030,Introduction to Drawing,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 1040,Character Design,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 1050,Cinema and Television Equipment,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 1060,Illustration and Environment Design,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 1070,The Art of the Storyboard and,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 2010,Fundamentals of Scripting for,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 2020,Introduction to 2D and 3D Animation,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 2040,Acting for Animators,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 2050,Camera Language and,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 2070,Theoretical Perspectives in Film and,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 2080,Composition and Sound Design for,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 2090,Theories of Popular Media and Art,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 3000,Fundamentals of Compositing,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 3010,Storyboarding and the Script,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 3015,Character Rigging,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 3040,Law & Ethics in the Animation,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 3060,The Business of Animation Content,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4015,Aesthetics of the African Story,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4050,Advanced Scripting for Animation,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4060,Senior Project and Portfolio,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4910,Internship,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4020,3D Environment and Effects,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4030,Advanced 3D Animation,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4035,Advanced 2D Computer Animation,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4045,3D Modeling & Design Methods,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4055,Digital Effects for Film and Television,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4080,Interactive Design,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4082,Virtual and Augmented Design,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4085,Gaming Environment Design,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4090,Artificial Intelligence in Gaming,Matched
+Undergraduate,Bachelor of Pharmacy,33,ANM 4092,Game Programming,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6001,Advanced Theories in Psychology,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6002,Research Methods in Clinical Psychology,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6010,Advanced Psychopathology,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6020,Cognitive and Behavioral Therapies,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6030,Psychodynamic Approaches,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6040,Family Systems Theory,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6050,Group Therapy Techniques,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6060,Psychological Assessment,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6070,Ethics and Professional Issues,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6080,Clinical Practicum I,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6090,Clinical Practicum II,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6100,Master's Thesis I,Matched
+Graduate,Master of Arts in Clinical Psychology,13,PSY 6110,Master's Thesis II,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6110,Development Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6120,Participatory Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6130,Public Policy & Advocacy,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6140,Risk Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6170,Program Monitoring & Evaluation,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6110,Multimedia Design,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6130,Digital Communication Strategy,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6140,Online Corporate Branding,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6160,Effective Web Design and Strategy,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6170,Social Media Strategies,Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6110,Media Criticism and Theory,Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6120,Media Writing,Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6140,"Media, Identity and Representation",Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6160,Multimedia Journalism,Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6170,Media Management,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6160,Behavior Change Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6180,Resource Mobilization,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6120,Digital Communication & Society,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6120,Integrated Marketing,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6110,Corporate Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6130,Managing the Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6140,PR Writing,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6160,Issues & Crisis Management,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6170,Communications Strategies and,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6110,Corporate Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6120,Integrated Marketing,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6140,PR Writing,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6160,Issues & Crisis Management,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6170,Communications Strategies and,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6110,Multimedia Design,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6120,Digital Communication & Society,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6130,Digital Communication Strategy,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6160,Effective Web Design and Strategy,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6170,Social Media Strategies,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6110,Development Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6120,Participatory Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6130,Public Policy & Advocacy,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6140,Risk Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6170,Program Monitoring & Evaluation,Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6110,Media Criticism and Theory,Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6120,Media Writing,Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6140,"Media, Identity and Representation",Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6160,Multimedia Journalism,Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6170,Media Management,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6160,Behaviour Change Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6150,Project Management,Matched
+Graduate,Master of Arts in Communication Studies,51,CFD 6180,Resource Mobilization,Matched
+Graduate,Master of Arts in Communication Studies,51,DCM 6140,Online Corporate Branding,Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6130,Political Communication,Matched
+Graduate,Master of Arts in Communication Studies,51,MDS 6190,Community Media and ICT in,Matched
+Graduate,Master of Arts in Communication Studies,51,SCC 6130,Managing the Communication,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6001,Advanced Theories in Psychology,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6002,Research Methods in Clinical Psychology,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6010,Advanced Psychopathology,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6020,Cognitive and Behavioral Therapies,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6030,Psychodynamic Approaches,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6040,Family Systems Theory,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6050,Group Therapy Techniques,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6060,Psychological Assessment,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6070,Ethics and Professional Issues,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6080,Clinical Practicum I,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6090,Clinical Practicum II,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6100,Master's Thesis I,Matched
+Graduate,Master of Arts in Counseling Psychology,13,PSY 6110,Master's Thesis II,Matched
+Graduate,Master of Arts in International Relations,46,ECO 1010,Principles of Microeconomics,Matched
+Graduate,Master of Arts in International Relations,46,ECO 1020,Principles of Macroeconomics,Matched
+Graduate,Master of Arts in International Relations,46,IRL 3010,Development Issues in Africa,Matched
+Graduate,Master of Arts in International Relations,46,IRL 3045,Politics of Regionalism in Africa,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4151,Field Study (WI),Matched
+Graduate,Master of Arts in International Relations,46,IRL 2100,Introduction to Human Rights,Matched
+Graduate,Master of Arts in International Relations,46,IRL 2220,Gender and IR,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4035,Environmental Politics,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4150,Area Studies,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4220,Refugee Studies,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4811,Critical Issues in Africa,Matched
+Graduate,Master of Arts in International Relations,46,IRL 3100,Diplomacy,Matched
+Graduate,Master of Arts in International Relations,46,IRL 3110,Simulation Exercise (OI),Matched
+Graduate,Master of Arts in International Relations,46,IRL 3200,Negotiation & Mediation,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4120,International Humanitarian Law,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4040,Africa � Asia Relations,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4055,Africa � Middle East Relations,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4050,U.S./Africa Relations,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4065,East Africa in World Affairs,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4035,Environmental Politics,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4151,Field Study (WI),Matched
+Graduate,Master of Arts in International Relations,46,IRL 4800,Critical Issues in Kenyan Foreign,Matched
+Graduate,Master of Arts in International Relations,46,IRL 2000,Foundations of International,Matched
+Graduate,Master of Arts in International Relations,46,IRL 2005,Comparative Foreign Policy,Matched
+Graduate,Master of Arts in International Relations,46,IRL 2010,International Organisations,Matched
+Graduate,Master of Arts in International Relations,46,POL 2201,Introduction to Political Science,Matched
+Graduate,Master of Arts in International Relations,46,IRL 3015,Introduction to Peace & Conflict,Matched
+Graduate,Master of Arts in International Relations,46,IRL 3200,Negotiation & Mediation,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4001,Regional Conflicts in Africa,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4151,Field Study (WI),Matched
+Graduate,Master of Arts in International Relations,46,IRL 4010,Geopolitics,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4045,Security Studies & Strategies,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4035,Environmental Politics,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4120,International Humanitarian Law,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4220,Refugee Studies,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4850,Studies in Contemporary,Matched
+Graduate,Master of Arts in International Relations,46,IRL 3000,Comparative Political Systems (ILI),Matched
+Graduate,Master of Arts in International Relations,46,IRL 3003,Research Methods in IR (WI),Matched
+Graduate,Master of Arts in International Relations,46,IRL 3005,Contemporary Theories & Ideologies,Matched
+Graduate,Master of Arts in International Relations,46,IRL 3021,African Philosophy & Ideologies,Matched
+Graduate,Master of Arts in International Relations,46,IRL 3060,African International Relations,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4020,International Law (OI),Matched
+Graduate,Master of Arts in International Relations,46,IRL 4030,International Political Economy (ILI),Matched
+Graduate,Master of Arts in International Relations,46,IRL 4075,Mechanism of International,Matched
+Graduate,Master of Arts in International Relations,46,IRL 4900,International Relations Project (WI),Matched
+Graduate,Master of Arts in International Relations,46,IRL 4910,International Relations Senior,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6800,Introduction to Family Therapy,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6801,MFT Ethics and the Law,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6802,Family Therapy with Adolescents,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6803,Child Abuse and Family Violence,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6805,Group Psychotherapy,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6806,Supervision in MFT,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6807,Couples and Sex,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6812,Family Assessment,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,PSY 6002,Research Methods,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,PSY 6704,Clinical Psychopathology I,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6819,"First Responders, Military Personnel",Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6821,"Culture, Attachment and Trauma",Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6822,Immigration Trauma,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6823,Trauma and the Family,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6824,Mindfulness and Acceptance in,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6826,Mindfulness and Family Therapy,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6827,Integrating Mindfulness and,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6828,Mindfulness and Art Therapy,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6804,Publication & Research Presentation,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6809,Family and Divorce Mediation,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6813,Life Work and Planning,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6814,Men and Families,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6815,Couple & Family Therapy with,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6816,School Counseling Seminar,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6817,Play Therapy,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6818,Current Trends in the Field of Family,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6820,Substance Abuse and Childhood,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6825,Mindfulness Based-play Family,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6810,Master�s Thesis I,Matched
+Graduate,Master of Arts in Marriage & Family Therapy,30,MFT 6811,Master�s Thesis II,Matched
+Graduate,Master of Arts in Criminal & Transitional Justice,9,CTJ 6030,Reparations & Truth Commissions,Matched
+Graduate,Master of Arts in Criminal & Transitional Justice,9,CTJ 6031,Prosecution & Diversion,Matched
+Graduate,Master of Arts in Criminal & Transitional Justice,9,CTJ 6032,Punishment & the International,Matched
+Graduate,Master of Arts in Criminal & Transitional Justice,9,CTJ 6033,Public & Private Policing,Matched
+Graduate,Master of Arts in Criminal & Transitional Justice,9,CTJ 6034,"Law, Crime & Society",Matched
+Graduate,Master of Arts in Criminal & Transitional Justice,9,CTJ 6035,Transitional Justice Comparative,Matched
+Graduate,Master of Arts in Criminal & Transitional Justice,9,CTJ 6036,International Criminal Courts &,Matched
+Graduate,Master of Arts in Criminal & Transitional Justice,9,CTJ 6020,Thesis 1,Matched
+Graduate,Master of Arts in Criminal & Transitional Justice,9,CTJ 6021,Thesis 2,Matched
+Graduate,Master of Business Administration,51,BUS 4000,Corporate Law,Matched
+Graduate,Master of Business Administration,51,BUS 4005,Project Management,Matched
+Graduate,Master of Business Administration,51,BUS 4080,Business Process Management,Matched
+Graduate,Master of Business Administration,51,BUS 4015,Supply Chain Management,Matched
+Graduate,Master of Business Administration,51,ACT 3010,Accounting Information Systems,Matched
+Graduate,Master of Business Administration,51,ACT 4010,Managerial Accounting,Matched
+Graduate,Master of Business Administration,51,ACT 4020,Financial Accounting I,Matched
+Graduate,Master of Business Administration,51,ACT 4030,Financial Accounting II,Matched
+Graduate,Master of Business Administration,51,ACT 4040,Cost Accounting or,Matched
+Graduate,Master of Business Administration,51,ACT 4050,International Accounting,Matched
+Graduate,Master of Business Administration,51,ENT 4005,Entrepreneurial Behavior & Ethics,Matched
+Graduate,Master of Business Administration,51,ENT 4020,Management of Entrepreneurial,Matched
+Graduate,Master of Business Administration,51,ENT 4040,Electronic Commerce,Matched
+Graduate,Master of Business Administration,51,ENT 4050,International Dimensions of,Matched
+Graduate,Master of Business Administration,51,ENT 4060,Small Business Consulting Finance,Matched
+Graduate,Master of Business Administration,51,FIN 4010,International Managerial Finance,Matched
+Graduate,Master of Business Administration,51,FIN 4020,Corporate Finance,Matched
+Graduate,Master of Business Administration,51,FIN 4030,Investments,Matched
+Graduate,Master of Business Administration,51,FIN 4040,Money and Capital Markets,Matched
+Graduate,Master of Business Administration,51,FIN 4050,Financial Information Systems,Matched
+Graduate,Master of Business Administration,51,ENT 4020,Management of Entrepreneurial,Matched
+Graduate,Master of Business Administration,51,MGT 4010,Dimensions of Leadership and,Matched
+Graduate,Master of Business Administration,51,MGT 4020,Organisations and Organisational,Matched
+Graduate,Master of Business Administration,51,MGT 4040,Human Resource Management,Matched
+Graduate,Master of Business Administration,51,MGT 4050,Total Quality Management,Matched
+Graduate,Master of Business Administration,51,MKT 3020,Marketing Information Systems,Matched
+Graduate,Master of Business Administration,51,MKT 4010,International Marketing,Matched
+Graduate,Master of Business Administration,51,MKT 4020,Marketing Research,Matched
+Graduate,Master of Business Administration,51,MKT 4030,Marketing Communications and,Matched
+Graduate,Master of Business Administration,51,MKT 4050,Services Marketing,Matched
+Graduate,Master of Business Administration,51,ACT 1010,Principles of Accounting I,Matched
+Graduate,Master of Business Administration,51,ACT 2010,Principles of Accounting II,Matched
+Graduate,Master of Business Administration,51,BUS 1010,Introduction to Business,Matched
+Graduate,Master of Business Administration,51,BUS 2010,Business Mathematics,Matched
+Graduate,Master of Business Administration,51,BUS 2020,Business Communications,Matched
+Graduate,Master of Business Administration,51,ECO 1010,Principles of Micro Economics,Matched
+Graduate,Master of Business Administration,51,ECO 1020,Principles of Macro Economics,Matched
+Graduate,Master of Business Administration,51,IST 2040,Information Systems and,Matched
+Graduate,Master of Business Administration,51,BUS 3010,Business Law,Matched
+Graduate,Master of Business Administration,51,BUS 3020,Production and Operations,Matched
+Graduate,Master of Business Administration,51,BUS 3030,Business Statistics,Matched
+Graduate,Master of Business Administration,51,BUS 4070,Business Values and Ethics,Matched
+Graduate,Master of Business Administration,51,BUS 4090,Strategic Management,Matched
+Graduate,Master of Business Administration,51,FIN 3010,Principles of Finance,Matched
+Graduate,Master of Business Administration,51,IBA 4010,International Business Operations,Matched
+Graduate,Master of Business Administration,51,IBA 4020,International Economics and Trade,Matched
+Graduate,Master of Business Administration,51,MGT 3010,Overview of Management Practice,Matched
+Graduate,Master of Business Administration,51,MGT 4030,Cross-Cultural Management,Matched
+Graduate,Master of Business Administration,51,MKT 3010,Principles of Marketing,Matched
+Graduate,Master of Business Administration,51,IBA 4950,International Business Project or,Matched
+Graduate,Master of Business Administration,51,IBA 4910,International Business Internship,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6010,Global Strategic Management,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6020,Management of Global Organizations,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6030,International Business Strategy,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6040,International Financial Markets,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6050,Global Supply Chain Management,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6055,International Business and Trade,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6060,Cross-Cultural Management,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6070,Global Marketing Strategy,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6080,Global Entrepreneurship,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6090,Research Methods in Global Business,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6100,Global Business Seminar,Matched
+Graduate,Master of Business Administration – Global Business Management,12,GMB 6110,Capstone: Global Business Strategy,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6010,Organisation Theory in Health,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6015,Health Systems and Economics,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6020,Project Management and Leadership,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6025,Health Policy and Governance,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6030,Healthcare Financial Management,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6040,Health Management Information Systems,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6050,Quality and Patient Safety,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6060,Human Resources in Healthcare,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6070,Strategic Human Resource Development,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6080,Healthcare Marketing and Communications,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6090,Research Methods in Health Management,Matched
+Graduate,Master of Business Administration – Health Leadership & Management,12,MBH 6100,Capstone: Healthcare Leadership,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6010,Organization Theory and Design,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6020,Organizational Change Management,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6030,Human Resource Development,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6040,Leadership Development,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6050,Performance Management Systems,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6060,Organizational Culture and Climate,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6070,Strategic Planning for Organizations,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6080,Research Methods in OD,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6090,Consulting and Intervention,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6100,OD Practicum,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6110,Advanced OD Topics,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6200,Master's Thesis I,Matched
+Graduate,Master of Science in Management & Organizational Development,13,MOD 6210,Master's Thesis II,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6010,Advanced Database Systems,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6020,Enterprise Systems Architecture,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6030,IT Project Management,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6040,IT Strategic Planning,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6050,Systems Analysis and Design,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6060,Business Process Management,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6070,Data Analytics for Business,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6080,Research Methods in IS,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6090,IT Governance,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6100,IS Practicum,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6150,Capstone Project I,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6200,Master's Thesis I,Matched
+Graduate,Master of Science in Information Systems & Technology,13,IST 6210,Master's Thesis II,Matched
+Graduate,Master of Science in Information Security,13,ISC 6010,Cybersecurity Fundamentals,Matched
+Graduate,Master of Science in Information Security,13,ISC 6020,Network Security and Management,Matched
+Graduate,Master of Science in Information Security,13,ISC 6030,Cryptography,Matched
+Graduate,Master of Science in Information Security,13,ISC 6040,Incident Response and Forensics,Matched
+Graduate,Master of Science in Information Security,13,ISC 6050,Secure Software Development,Matched
+Graduate,Master of Science in Information Security,13,ISC 6060,IT Risk Management,Matched
+Graduate,Master of Science in Information Security,13,ISC 6070,Compliance and Privacy Regulations,Matched
+Graduate,Master of Science in Information Security,13,ISC 6080,Advanced Threats and Vulnerabilities,Matched
+Graduate,Master of Science in Information Security,13,ISC 6090,Security Architecture and Design,Matched
+Graduate,Master of Science in Information Security,13,ISC 6100,Security Practicum,Matched
+Graduate,Master of Science in Information Security,13,ISC 6150,Security Capstone Project,Matched
+Graduate,Master of Science in Information Security,13,ISC 6200,Master's Thesis I,Matched
+Graduate,Master of Science in Information Security,13,ISC 6210,Master's Thesis II,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6010,Global Financial Markets,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6020,International Banking,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6030,Foreign Exchange Management,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6040,International Trade Finance,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6050,Risk Management in Banking,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6060,Portfolio Management,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6070,Derivatives and Hedging,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6080,Financial Regulation and Compliance,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6090,Research Methods in Finance,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6100,Banking and Finance Practicum,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6150,Finance Capstone Project,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6200,Master's Thesis I,Matched
+Graduate,Master of Science in Global Banking & Finance,13,FIN 6210,Master's Thesis II,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6410,Advanced Machine Learning,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MTH 6420,Graph Analytics,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6430,Data Mining and Warehousing,Matched
+Graduate,Master of Science in Data Science & Analytics,15,STA 6510,Multivariate Methods,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MTH 6520,Optimization and Simulation,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6410,Advanced Machine Learning,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MTH 6420,Graph Analytics,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6430,Data Mining and Warehousing,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6450,DevOps,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6530,Software Design and Architecture,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6460,Business Analytics,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6470,Fraud Detection Analytics,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6480,Text Analytics,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6550,Finance and Risk Management,Matched
+Graduate,Master of Science in Data Science & Analytics,15,MDA 6560,Geo-Intelligence/ Spatial Analytics,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6010,Advanced Pharmacology,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6020,Clinical Therapeutics I,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6030,Clinical Therapeutics II,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6040,Pharmacokinetics and Pharmacodynamics,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6050,Drug Development and Regulation,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6060,Clinical Drug Interactions,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6070,Pharmacogenomics,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6080,Research Methods in Pharmacology,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6090,Evidence-Based Practice,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6100,Clinical Pharmacy Practicum,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6110,Advanced Topics in Pharmacology,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6200,Master's Thesis I,Matched
+Graduate,Master of Science in Clinical Pharmacology & Therapeutics,13,PHM 6210,Master's Thesis II,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 4000,Corporate Law,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 4005,Project Management,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 4080,Business Process Management,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 4015,Supply Chain Management,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ACT 3010,Accounting Information Systems,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ACT 4010,Managerial Accounting,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ACT 4020,Financial Accounting I,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ACT 4030,Financial Accounting II,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ACT 4040,Cost Accounting or,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ACT 4050,International Accounting,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ENT 4005,Entrepreneurial Behavior & Ethics,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ENT 4020,Management of Entrepreneurial,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ENT 4040,Electronic Commerce,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ENT 4050,International Dimensions of,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ENT 4060,Small Business Consulting Finance,Matched
+Doctoral,Doctor of Business Administration (DBA),51,FIN 4010,International Managerial Finance,Matched
+Doctoral,Doctor of Business Administration (DBA),51,FIN 4020,Corporate Finance,Matched
+Doctoral,Doctor of Business Administration (DBA),51,FIN 4030,Investments,Matched
+Doctoral,Doctor of Business Administration (DBA),51,FIN 4040,Money and Capital Markets,Matched
+Doctoral,Doctor of Business Administration (DBA),51,FIN 4050,Financial Information Systems,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ENT 4020,Management of Entrepreneurial,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MGT 4010,Dimensions of Leadership and,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MGT 4020,Organisations and Organisational,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MGT 4040,Human Resource Management,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MGT 4050,Total Quality Management,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MKT 3020,Marketing Information Systems,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MKT 4010,International Marketing,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MKT 4020,Marketing Research,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MKT 4030,Marketing Communications and,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MKT 4050,Services Marketing,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ACT 1010,Principles of Accounting I,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ACT 2010,Principles of Accounting II,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 1010,Introduction to Business,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 2010,Business Mathematics,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 2020,Business Communications,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ECO 1010,Principles of Micro Economics,Matched
+Doctoral,Doctor of Business Administration (DBA),51,ECO 1020,Principles of Macro Economics,Matched
+Doctoral,Doctor of Business Administration (DBA),51,IST 2040,Information Systems and,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 3010,Business Law,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 3020,Production and Operations,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 3030,Business Statistics,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 4070,Business Values and Ethics,Matched
+Doctoral,Doctor of Business Administration (DBA),51,BUS 4090,Strategic Management,Matched
+Doctoral,Doctor of Business Administration (DBA),51,FIN 3010,Principles of Finance,Matched
+Doctoral,Doctor of Business Administration (DBA),51,IBA 4010,International Business Operations,Matched
+Doctoral,Doctor of Business Administration (DBA),51,IBA 4020,International Economics and Trade,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MGT 3010,Overview of Management Practice,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MGT 4030,Cross-Cultural Management,Matched
+Doctoral,Doctor of Business Administration (DBA),51,MKT 3010,Principles of Marketing,Matched
+Doctoral,Doctor of Business Administration (DBA),51,IBA 4950,International Business Project or,Matched
+Doctoral,Doctor of Business Administration (DBA),51,IBA 4910,International Business Internship,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 1101,Introduction to Psychology,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 1105,Developmental Psychology,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 2105,Social Psychology,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 2120,Psychology of Learning,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 3110,Psychology of Personality,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 3115,Abnormal Psychology,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 3150,Research Methods in Psychology,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 4010,Seminar in Psychology,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 2125,Human Sexuality,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 3142,Industrial and Organizational Psychology,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 3143,Psychology at Work I,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 4142,Psychology at Work II,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 4143,Social Psychology in Organizations,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 4144,Communication and Leadership,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 3171,Social Psychology of Health Care,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 3172,Understanding Grief Loss and Change,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 4171,Behavioral Health Therapy,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,PSY 4172,HIV and AIDS Testing Counseling,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,BIO 1010,Human Biology,Matched
+Doctoral,"Doctor of Psychology (PsyD), Clinical Psychology",20,COM 3000,Organizational Communication,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7010,International Relations Theory,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7020,Comparative Foreign Policy,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7030,International Political Economy,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7040,Global Governance and Institutions,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7050,Security Studies and Conflict,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7060,Research Design and Methods,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7070,Advanced Quantitative Analysis,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7080,Regional Studies: Africa and Beyond,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7090,Seminars in IR I,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7100,Seminars in IR II,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7110,Seminars in IR III,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 7120,Professional Development,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 8010,Dissertation Proposal Development,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 8020,Doctoral Research I,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 8030,Doctoral Research II,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 8040,Doctoral Research III,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 8050,Doctoral Dissertation I,Matched
+Doctoral,Doctor of Philosophy in International Relations,18,IRL 8060,Doctoral Dissertation II,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7010,Advanced Database Theory,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7020,Advanced Systems Architecture,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7030,IT Research Methods and Design,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7040,Advanced Data Analytics,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7050,Emerging Technologies,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7060,IT Strategy and Innovation,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7070,Advanced Quantitative Methods,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7080,Seminars in Information Systems I,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7090,Seminars in Information Systems II,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7100,Seminars in Information Systems III,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7110,IT Ethics and Society,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 7120,Professional Development,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 8010,Dissertation Proposal Development,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 8020,Doctoral Research I,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 8030,Doctoral Research II,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 8040,Doctoral Research III,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 8050,Doctoral Dissertation I,Matched
+Doctoral,Doctor of Philosophy in Information Systems & Technology,18,IST 8060,Doctoral Dissertation II,Matched

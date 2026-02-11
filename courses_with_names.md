@@ -1024,6 +1024,48 @@
 | MDA 6460 | Business Analytics |
 | SDE 6030 | Sustainable Procurement and |
 
+## Master of Business Administration – Global Business Management
+
+### Core Courses and Concentrations (36 Units)
+
+**Total Courses: 12**
+
+| Code | Course Name |
+|---|---|
+| GMB 6010 | Global Strategic Management |
+| GMB 6020 | Management of Global Organizations |
+| GMB 6030 | International Business Strategy |
+| GMB 6040 | International Financial Markets |
+| GMB 6050 | Global Supply Chain Management |
+| GMB 6055 | International Business and Trade |
+| GMB 6060 | Cross-Cultural Management |
+| GMB 6070 | Global Marketing Strategy |
+| GMB 6080 | Global Entrepreneurship |
+| GMB 6090 | Research Methods in Global Business |
+| GMB 6100 | Global Business Seminar |
+| GMB 6110 | Capstone: Global Business Strategy |
+
+## Master of Business Administration – Health Leadership & Management
+
+### Core Courses and Concentrations (36 Units)
+
+**Total Courses: 12**
+
+| Code | Course Name |
+|---|---|
+| MBH 6010 | Organisation Theory in Health |
+| MBH 6015 | Health Systems and Economics |
+| MBH 6020 | Project Management and Leadership |
+| MBH 6025 | Health Policy and Governance |
+| MBH 6030 | Healthcare Financial Management |
+| MBH 6040 | Health Management Information Systems |
+| MBH 6050 | Quality and Patient Safety |
+| MBH 6060 | Human Resources in Healthcare |
+| MBH 6070 | Strategic Human Resource Development |
+| MBH 6080 | Healthcare Marketing and Communications |
+| MBH 6090 | Research Methods in Health Management |
+| MBH 6100 | Capstone: Healthcare Leadership |
+
 ## Master of Science in Data Science and Analytics (Online only)
 
 ### CONCENTRATIONS (15 Units)
@@ -1215,4 +1257,604 @@
 | GLG 4075 | Politics and Administration |
 | GLG 4080 | Global Leadership and Democracy |
 | GLG 4085 | Advocacy and Lobbying |
+
+## Bachelor of Science in Applied Biochemistry
+
+### Lower Level Courses (24 Units)
+
+**Total Courses: 8**
+
+| Code | Course Name |
+|---|---|
+| BIO 1010 | General Biology I |
+| BIO 1020 | General Biology II |
+| CHM 1010 | General Chemistry I |
+| CHM 1020 | General Chemistry II |
+| MTH 1110 | Calculus |
+| PHY 1010 | Physics I |
+| PHY 1020 | Physics II |
+| BIO 1030 | Introduction to Biochemistry |
+
+### Upper Level Courses (63 Units)
+
+**Total Courses: 21**
+
+| Code | Course Name |
+|---|---|
+| BCH 3010 | Protein Structure and Function |
+| BCH 3020 | Enzymology and Metabolism |
+| BCH 4010 | Advanced Biochemistry |
+| BCH 4020 | Molecular Biology |
+| BCH 4030 | Biotechnology |
+| BCH 4040 | Bioinformatics |
+| CHM 3010 | Organic Chemistry I |
+| CHM 3020 | Organic Chemistry II |
+| CHM 4010 | Analytical Chemistry |
+| BIO 3010 | Cell Biology |
+| BIO 3020 | Genetics |
+| BIO 4010 | Microbiology |
+| BIO 4020 | Immunology |
+| BIO 4030 | Pharmacology |
+| BIO 4040 | Toxicology |
+| RES 3010 | Research Methods in Biochemistry |
+| RES 4010 | Biochemistry Research Project I |
+| RES 4020 | Biochemistry Research Project II |
+| SEM 4010 | Biochemistry Seminar |
+| INT 4010 | Biochemistry Internship |
+| BCH 4050 | Clinical Biochemistry |
+
+## Bachelor of Science in Nursing
+
+### Core Courses (54 Units)
+
+**Total Courses: 18**
+
+| Code | Course Name |
+|---|---|
+| NUR 1010 | Foundations of Nursing |
+| NUR 1020 | Anatomy and Physiology for Nurses |
+| NUR 1030 | Pharmacology Basics |
+| NUR 2010 | Medical-Surgical Nursing I |
+| NUR 2020 | Medical-Surgical Nursing II |
+| NUR 2030 | Mental Health Nursing |
+| NUR 2040 | Maternal and Child Health Nursing |
+| NUR 3010 | Community Health Nursing |
+| NUR 3020 | Leadership in Nursing |
+| NUR 3030 | Nursing Research Methods |
+| NUR 3040 | Critical Care Nursing |
+| NUR 4010 | Advanced Nursing Practice |
+| NUR 4020 | Nursing Informatics |
+| NUR 4030 | Professional Nursing Issues |
+| NUR 4040 | Nursing Capstone |
+| NUR 4910 | Clinical Practicum |
+| BIO 1010 | Human Biology |
+| PSY 1010 | Psychology for Healthcare |
+
+### Electives (9 Units)
+
+**Total Courses: 3**
+
+| Code | Course Name |
+|---|---|
+| NUR 4050 | Palliative Care |
+| NUR 4060 | Geriatric Nursing |
+| NUR 4070 | Pediatric Nursing Specialty |
+
+## Bachelor of Science in Artificial Intelligence (AI) and Robotics
+
+### Core Courses (48 Units)
+
+**Total Courses: 16**
+
+| Code | Course Name |
+|---|---|
+| AIR 1010 | Introduction to AI and Robotics |
+| AIR 1020 | Programming Foundations for AI |
+| MTH 1110 | Calculus |
+| MTH 2215 | Discrete Mathematics |
+| IST 1025 | Introduction to Programming |
+| AIR 2010 | Introduction to Robotics |
+| AIR 2020 | Linear Algebra for AI |
+| AIR 2030 | Data Structures |
+| AIR 2040 | Real-Time Software Engineering |
+| AIR 3010 | Design of Real-Time Systems |
+| AIR 3020 | Machine Learning Fundamentals |
+| AIR 3030 | Neural Networks |
+| AIR 3060 | Robotics Applications Programming |
+| AIR 3080 | Artificial Intelligence and Robotics |
+| APT 3010 | Introduction to Artificial Intelligence |
+| MTH 2010 | Probability and Statistics |
+
+### Specialization Courses (57 Units)
+
+**Total Courses: 19**
+
+| Code | Course Name |
+|---|---|
+| AIR 4010 | Deep Learning and Computer Vision |
+| AIR 4020 | Human-Robot Interaction |
+| AIR 4030 | Autonomous Systems |
+| AIR 4040 | Reinforcement Learning for Robotics |
+| AIR 4050 | Intelligent Multi-Agent Systems |
+| AIR 4060 | Engineering and Informatics Ethics |
+| AIR 4070 | Robotics Design |
+| AIR 4080 | Industrial Automation and Robotics |
+| AIR 4090 | Speech and Natural Language Processing |
+| APT 3040 | Object Oriented Analysis Design |
+| APT 3060 | Mobile Programming |
+| DST 4020 | Mobile Computing |
+| NET 4030 | Internet Architecture and Protocols |
+| SFE 4020 | Software Design and Architecture |
+| SFE 4030 | Software Testing and Quality |
+| AIR 4100 | AI Project I |
+| AIR 4110 | AI Project II |
+| AIR 4910 | AI and Robotics Internship |
+| AIR 4920 | Capstone Project in AI Robotics |
+
+## Bachelor of Arts in Psychology
+
+### Core Courses (24 Units)
+
+**Total Courses: 8**
+
+| Code | Course Name |
+|---|---|
+| PSY 1101 | Introduction to Psychology |
+| PSY 1105 | Developmental Psychology |
+| PSY 2105 | Social Psychology |
+| PSY 2120 | Psychology of Learning |
+| PSY 3110 | Psychology of Personality |
+| PSY 3115 | Abnormal Psychology |
+| PSY 3150 | Research Methods in Psychology |
+| PSY 4010 | Seminar in Psychology |
+
+### Electives (36 Units)
+
+**Total Courses: 12**
+
+| Code | Course Name |
+|---|---|
+| PSY 2125 | Human Sexuality |
+| PSY 3142 | Industrial and Organizational Psychology |
+| PSY 3143 | Psychology at Work I |
+| PSY 4142 | Psychology at Work II |
+| PSY 4143 | Social Psychology in Organizations |
+| PSY 4144 | Communication and Leadership |
+| PSY 3171 | Social Psychology of Health Care |
+| PSY 3172 | Understanding Grief Loss and Change |
+| PSY 4171 | Behavioral Health Therapy |
+| PSY 4172 | HIV and AIDS Testing Counseling |
+| BIO 1010 | Human Biology |
+| COM 3000 | Organizational Communication |
+
+## Bachelor of Arts in Criminal Justice Studies
+
+### Core Courses (24 Units)
+
+**Total Courses: 8**
+
+| Code | Course Name |
+|---|---|
+| CJS 1101 | Introduction to Criminal Justice |
+| CJS 1103 | Juvenile Justice |
+| CJS 2201 | Criminal Law |
+| CJS 2202 | Criminal Procedure |
+| CJS 2204 | Corrections and Punishment |
+| CJS 3303 | Victimology |
+| CJS 3307 | Comparative Criminal Justice |
+| CJS 4120 | Criminal Evidence |
+
+### Electives (36 Units)
+
+**Total Courses: 12**
+
+| Code | Course Name |
+|---|---|
+| CJS 3309 | Terrorism and International Security |
+| CJS 4200 | Criminal Justice Ethics |
+| CJS 4210 | Policing Strategies and Reform |
+| CJS 4220 | Court Systems and Administration |
+| CJS 4230 | Corrections Management |
+| CJS 4240 | Cybercrime and Digital Forensics |
+| CJS 4250 | Restorative Justice |
+| CJS 4260 | Crime Analysis and Prevention |
+| SOC 3305 | Deviant Behavior |
+| SOC 3313 | Political Sociology |
+| PSY 1101 | Introduction to Psychology |
+| CJS 4910 | Criminal Justice Internship |
+
+## Bachelor of Pharmacy
+
+### Lower Level Courses (36 Units)
+
+**Total Courses: 12**
+
+| Code | Course Name |
+|---|---|
+| PHM 1010 | Introduction to Pharmacy |
+| PHM 1020 | Pharmaceutical Calculations |
+| CHM 1010 | General Chemistry I |
+| CHM 1020 | General Chemistry II |
+| BIO 1010 | General Biology I |
+| BIO 1020 | General Biology II |
+| BIO 1030 | Human Anatomy |
+| BIO 1040 | Human Physiology |
+| MTH 1110 | Calculus |
+| PSY 1010 | Psychology |
+| CJS 2201 | Introduction to Law |
+| PHM 1030 | Pharmacy Ethics |
+
+### Upper Level Courses (84 Units)
+
+**Total Courses: 28**
+
+| Code | Course Name |
+|---|---|
+| PHM 2010 | Pharmacology I |
+| PHM 2020 | Pharmacology II |
+| PHM 2030 | Pharmaceutics I |
+| PHM 2040 | Pharmaceutics II |
+| PHM 3010 | Medicinal Chemistry I |
+| PHM 3020 | Medicinal Chemistry II |
+| PHM 3030 | Pharmacokinetics |
+| PHM 3040 | Biopharmaceutics |
+| PHM 4010 | Clinical Pharmacy |
+| PHM 4020 | Pharmacotherapy I |
+| PHM 4030 | Pharmacotherapy II |
+| PHM 4040 | Pharmacotherapy III |
+| PHM 4050 | Pharmacotherapy IV |
+| PHM 4060 | Pharmacy Practice Management |
+| PHM 4070 | Pharmacy Law and Regulations |
+| PHM 4080 | Compounding and Dispensing |
+| PHM 4090 | Patient Counseling |
+| PHM 4100 | Geriatric Pharmacy |
+| PHM 4110 | Pediatric Pharmacy |
+| PHM 4120 | Oncology Pharmacy |
+| PHM 4130 | Infectious Disease Pharmacy |
+| PHM 4140 | Immunology for Pharmacists |
+| PHM 4150 | Toxicology |
+| RES 4010 | Pharmacy Research Project |
+| SEM 4010 | Pharmacy Seminar |
+| EXT 4910 | Pharmacy Externship I |
+| EXT 4920 | Pharmacy Externship II |
+| PHM 4999 | Pharmacy Capstone |
+
+## Master of Arts in Clinical Psychology
+
+### Core Courses (30 Units)
+
+**Total Courses: 10**
+
+| Code | Course Name |
+|---|---|
+| PSY 6001 | Advanced Theories in Psychology |
+| PSY 6002 | Research Methods in Clinical Psychology |
+| PSY 6010 | Advanced Psychopathology |
+| PSY 6020 | Cognitive and Behavioral Therapies |
+| PSY 6030 | Psychodynamic Approaches |
+| PSY 6040 | Family Systems Theory |
+| PSY 6050 | Group Therapy Techniques |
+| PSY 6060 | Psychological Assessment |
+| PSY 6070 | Ethics and Professional Issues |
+| PSY 6080 | Clinical Practicum I |
+
+### Thesis and Internship (9 Units)
+
+**Total Courses: 3**
+
+| Code | Course Name |
+|---|---|
+| PSY 6090 | Clinical Practicum II |
+| PSY 6100 | Master's Thesis I |
+| PSY 6110 | Master's Thesis II |
+
+## Master of Arts in International Relations
+
+### Core Courses (30 Units)
+
+**Total Courses: 10**
+
+| Code | Course Name |
+|---|---|
+| IRL 6010 | International Relations Theory |
+| IRL 6020 | Global Governance Systems |
+| IRL 6030 | Research Methods in IR |
+| IRL 6040 | International Law and Organizations |
+| IRL 6050 | Foreign Policy Analysis |
+| IRL 6060 | International Political Economy |
+| IRL 6070 | Conflict and Security Studies |
+| IRL 6080 | Regional Dynamics in Africa |
+| IRL 6090 | Diplomacy and Negotiation |
+| IRL 6100 | Advanced IR Seminar |
+
+### Concentrations and Thesis (9 Units)
+
+**Total Courses: 3**
+
+| Code | Course Name |
+|---|---|
+| IRL 6150 | Research Project I |
+| IRL 6200 | Master's Thesis I |
+| IRL 6210 | Master's Thesis II |
+
+## Master of Science in Management & Organizational Development
+
+### Core Courses (30 Units)
+
+**Total Courses: 10**
+
+| Code | Course Name |
+|---|---|
+| MOD 6010 | Organization Theory and Design |
+| MOD 6020 | Organizational Change Management |
+| MOD 6030 | Human Resource Development |
+| MOD 6040 | Leadership Development |
+| MOD 6050 | Performance Management Systems |
+| MOD 6060 | Organizational Culture and Climate |
+| MOD 6070 | Strategic Planning for Organizations |
+| MOD 6080 | Research Methods in OD |
+| MOD 6090 | Consulting and Intervention |
+| MOD 6100 | OD Practicum |
+
+### Thesis (9 Units)
+
+**Total Courses: 3**
+
+| Code | Course Name |
+|---|---|
+| MOD 6110 | Advanced OD Topics |
+| MOD 6200 | Master's Thesis I |
+| MOD 6210 | Master's Thesis II |
+
+## Master of Science in Information Systems & Technology
+
+### Core Courses (30 Units)
+
+**Total Courses: 10**
+
+| Code | Course Name |
+|---|---|
+| IST 6010 | Advanced Database Systems |
+| IST 6020 | Enterprise Systems Architecture |
+| IST 6030 | IT Project Management |
+| IST 6040 | IT Strategic Planning |
+| IST 6050 | Systems Analysis and Design |
+| IST 6060 | Business Process Management |
+| IST 6070 | Data Analytics for Business |
+| IST 6080 | Research Methods in IS |
+| IST 6090 | IT Governance |
+| IST 6100 | IS Practicum |
+
+### Specialization and Projects (9 Units)
+
+**Total Courses: 3**
+
+| Code | Course Name |
+|---|---|
+| IST 6150 | Capstone Project I |
+| IST 6200 | Master's Thesis I |
+| IST 6210 | Master's Thesis II |
+
+## Master of Science in Information Security
+
+### Core Courses (30 Units)
+
+**Total Courses: 10**
+
+| Code | Course Name |
+|---|---|
+| ISC 6010 | Cybersecurity Fundamentals |
+| ISC 6020 | Network Security and Management |
+| ISC 6030 | Cryptography |
+| ISC 6040 | Incident Response and Forensics |
+| ISC 6050 | Secure Software Development |
+| ISC 6060 | IT Risk Management |
+| ISC 6070 | Compliance and Privacy Regulations |
+| ISC 6080 | Advanced Threats and Vulnerabilities |
+| ISC 6090 | Security Architecture and Design |
+| ISC 6100 | Security Practicum |
+
+### Projects and Thesis (9 Units)
+
+**Total Courses: 3**
+
+| Code | Course Name |
+|---|---|
+| ISC 6150 | Security Capstone Project |
+| ISC 6200 | Master's Thesis I |
+| ISC 6210 | Master's Thesis II |
+
+## Master of Science in Global Banking & Finance
+
+### Core Courses (30 Units)
+
+**Total Courses: 10**
+
+| Code | Course Name |
+|---|---|
+| FIN 6010 | Global Financial Markets |
+| FIN 6020 | International Banking |
+| FIN 6030 | Foreign Exchange Management |
+| FIN 6040 | International Trade Finance |
+| FIN 6050 | Risk Management in Banking |
+| FIN 6060 | Portfolio Management |
+| FIN 6070 | Derivatives and Hedging |
+| FIN 6080 | Financial Regulation and Compliance |
+| FIN 6090 | Research Methods in Finance |
+| FIN 6100 | Banking and Finance Practicum |
+
+### Projects and Thesis (9 Units)
+
+**Total Courses: 3**
+
+| Code | Course Name |
+|---|---|
+| FIN 6150 | Finance Capstone Project |
+| FIN 6200 | Master's Thesis I |
+| FIN 6210 | Master's Thesis II |
+
+## Master of Science in Clinical Pharmacology & Therapeutics
+
+### Core Courses (30 Units)
+
+**Total Courses: 10**
+
+| Code | Course Name |
+|---|---|
+| PHM 6010 | Advanced Pharmacology |
+| PHM 6020 | Clinical Therapeutics I |
+| PHM 6030 | Clinical Therapeutics II |
+| PHM 6040 | Pharmacokinetics and Pharmacodynamics |
+| PHM 6050 | Drug Development and Regulation |
+| PHM 6060 | Clinical Drug Interactions |
+| PHM 6070 | Pharmacogenomics |
+| PHM 6080 | Research Methods in Pharmacology |
+| PHM 6090 | Evidence-Based Practice |
+| PHM 6100 | Clinical Pharmacy Practicum |
+
+### Thesis (9 Units)
+
+**Total Courses: 3**
+
+| Code | Course Name |
+|---|---|
+| PHM 6110 | Advanced Topics in Pharmacology |
+| PHM 6200 | Master's Thesis I |
+| PHM 6210 | Master's Thesis II |
+
+## Doctor of Business Administration (DBA)
+
+### Core Courses (36 Units)
+
+**Total Courses: 12**
+
+| Code | Course Name |
+|---|---|
+| DBA 7010 | Organizational Theory and Behavior |
+| DBA 7020 | Strategic Management and Policy |
+| DBA 7030 | Advanced Financial Management |
+| DBA 7040 | Global Economics and Finance |
+| DBA 7050 | Research Methods and Design |
+| DBA 7060 | Advanced Quantitative Analysis |
+| DBA 7070 | Business Ethics and Leadership |
+| DBA 7080 | Innovation and Entrepreneurship |
+| DBA 7090 | Digital Transformation |
+| DBA 7100 | Doctoral Seminar I |
+| DBA 7110 | Doctoral Seminar II |
+| DBA 7120 | Doctoral Seminar III |
+
+### Dissertation (18 Units)
+
+**Total Courses: 6**
+
+| Code | Course Name |
+|---|---|
+| DBA 8010 | Dissertation Proposal Development |
+| DBA 8020 | Dissertation Research I |
+| DBA 8030 | Dissertation Research II |
+| DBA 8040 | Dissertation Defense Preparation |
+| DBA 8050 | Doctoral Dissertation I |
+| DBA 8060 | Doctoral Dissertation II |
+
+## Doctor of Psychology (PsyD), Clinical Psychology
+
+### Core Courses (42 Units)
+
+**Total Courses: 14**
+
+| Code | Course Name |
+|---|---|
+| PSY 7010 | Advanced Psychological Theories |
+| PSY 7020 | Advanced Research Methods |
+| PSY 7030 | Advanced Psychopathology |
+| PSY 7040 | Advanced Assessment and Diagnosis |
+| PSY 7050 | Cognitive Behavioral Therapy |
+| PSY 7060 | Psychodynamic Psychotherapy |
+| PSY 7070 | Trauma and PTSD Treatment |
+| PSY 7080 | Child and Adolescent Psychology |
+| PSY 7090 | Adult Psychotherapy Issues |
+| PSY 7100 | Group and Family Therapy |
+| PSY 7110 | Forensic Psychology |
+| PSY 7120 | Ethics and Professional Issues |
+| PSY 7130 | Clinical Neuroscience |
+| PSY 7140 | Clinical Practicum and Supervision |
+
+### Internship and Dissertation (12 Units)
+
+**Total Courses: 4**
+
+| Code | Course Name |
+|---|---|
+| PSY 8010 | Predoctoral Internship |
+| PSY 8020 | Doctoral Research Project I |
+| PSY 8030 | Doctoral Research Project II |
+| PSY 8040 | Clinical Dissertation |
+
+## Doctor of Philosophy in International Relations
+
+### Core Courses (36 Units)
+
+**Total Courses: 12**
+
+| Code | Course Name |
+|---|---|
+| IRL 7010 | International Relations Theory |
+| IRL 7020 | Comparative Foreign Policy |
+| IRL 7030 | International Political Economy |
+| IRL 7040 | Global Governance and Institutions |
+| IRL 7050 | Security Studies and Conflict |
+| IRL 7060 | Research Design and Methods |
+| IRL 7070 | Advanced Quantitative Analysis |
+| IRL 7080 | Regional Studies: Africa and Beyond |
+| IRL 7090 | Seminars in IR I |
+| IRL 7100 | Seminars in IR II |
+| IRL 7110 | Seminars in IR III |
+| IRL 7120 | Professional Development |
+
+### Dissertation (18 Units)
+
+**Total Courses: 6**
+
+| Code | Course Name |
+|---|---|
+| IRL 8010 | Dissertation Proposal Development |
+| IRL 8020 | Doctoral Research I |
+| IRL 8030 | Doctoral Research II |
+| IRL 8040 | Doctoral Research III |
+| IRL 8050 | Doctoral Dissertation I |
+| IRL 8060 | Doctoral Dissertation II |
+
+## Doctor of Philosophy in Information Systems & Technology
+
+### Core Courses (36 Units)
+
+**Total Courses: 12**
+
+| Code | Course Name |
+|---|---|
+| IST 7010 | Advanced Database Theory |
+| IST 7020 | Advanced Systems Architecture |
+| IST 7030 | IT Research Methods and Design |
+| IST 7040 | Advanced Data Analytics |
+| IST 7050 | Emerging Technologies |
+| IST 7060 | IT Strategy and Innovation |
+| IST 7070 | Advanced Quantitative Methods |
+| IST 7080 | Seminars in Information Systems I |
+| IST 7090 | Seminars in Information Systems II |
+| IST 7100 | Seminars in Information Systems III |
+| IST 7110 | IT Ethics and Society |
+| IST 7120 | Professional Development |
+
+### Dissertation (18 Units)
+
+**Total Courses: 6**
+
+| Code | Course Name |
+|---|---|
+| IST 8010 | Dissertation Proposal Development |
+| IST 8020 | Doctoral Research I |
+| IST 8030 | Doctoral Research II |
+| IST 8040 | Doctoral Research III |
+| IST 8050 | Doctoral Dissertation I |
+| IST 8060 | Doctoral Dissertation II |
 
